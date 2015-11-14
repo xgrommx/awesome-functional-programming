@@ -77,6 +77,9 @@
 * [Compiling to lambda-calculus: Turtles all the way down](http://matt.might.net/articles/compiling-up-to-lambda-calculus)
 * [Point-free programming style in F#](http://www.jayway.com/2012/05/08/point-free-programming-style-in-f)
 * [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
+* [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
+* [Partially Applied Functions In JavaScript](https://lostechies.com/derickbailey/2012/07/20/partially-applied-functions-in-javascript)
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -106,6 +109,11 @@
 * [FKit: Everyday Functional Programming in JavaScript](https://speakerdeck.com/nullobject/fkit-everyday-functional-programming-in-javascript)
 * [Ramda: Practical Functional Javascript](http://slides.com/andydrew/ramda-js-curry-compose)
 * [Category theory, Monads, and Duality in the world of (BIG) Data](http://www.slideshare.net/greenwop/category-theory-monads-and-duality-in-the-world-of-big-data)
+* [Functional Programming in 5 Minutes](http://slides.com/gsklee/functional-programming-in-5-minutes)
+* [Introduction to Functional Programming](http://slides.com/jingchuanchen/intro-to-fp)
+* [Monads](http://slides.com/aripaasonen/monads)
+* [Pragmatic Functional Programming](http://slides.com/rossmurray/pragmatic-functional-programming)
+* [Intro to Functional Programming](http://www.slideshare.net/firthh/intro-to-functional-programming-levelup-brisbane)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
