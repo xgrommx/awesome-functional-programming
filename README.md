@@ -80,6 +80,9 @@
 * [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
 * [Partially Applied Functions In JavaScript](https://lostechies.com/derickbailey/2012/07/20/partially-applied-functions-in-javascript)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP)
+* [Currying in JavaScript](https://medium.com/@kbrainwave/currying-in-javascript-ce6da2d324fe)
+* [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps)
+* [Factorial and Fibonacci in Kotlin](http://carlosqt.blogspot.com/2012/04/factorial-and-fibonacci-in-kotlin.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -99,6 +102,8 @@
 * [functional-programming-jargon - Jargon from the functional programming world in simple terms](functional-programming-jargon)
 * [js-funcional - A Cookbook for writing FP in JavaScript using ES6](https://github.com/js-functional/js-funcional)
 * [functional-frontend-architecture - A functional frontend framework.](https://github.com/paldepind/functional-frontend-architecture)
+* [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
+* [FP101x - Functional Programming MOOC 2015 Content Repository](https://github.com/fptudelft/FP101x-Content-2015)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -114,11 +119,13 @@
 * [Monads](http://slides.com/aripaasonen/monads)
 * [Pragmatic Functional Programming](http://slides.com/rossmurray/pragmatic-functional-programming)
 * [Intro to Functional Programming](http://www.slideshare.net/firthh/intro-to-functional-programming-levelup-brisbane)
+* [Who's More Functional: Kotlin, Groovy, Scala, or Java?](http://www.slideshare.net/abreslav/whos-more-functional-kotlin-groovy-scala-or-java)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
+* [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&list=WL&index=63)
 
 ## Libraries
 
