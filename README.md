@@ -99,7 +99,7 @@
 * [Answers to the exercises from https://github.com/MostlyAdequate/mostly-adequate-guide](https://github.com/gypsydave5/mostly-adequate-functional-answers)
 * [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
 * [Introduction to Functional Programming (course from edx.org)](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
-* [functional-programming-jargon - Jargon from the functional programming world in simple terms](functional-programming-jargon)
+* [functional-programming-jargon - Jargon from the functional programming world in simple terms](https://github.com/hemanth/functional-programming-jargon)
 * [js-funcional - A Cookbook for writing FP in JavaScript using ES6](https://github.com/js-functional/js-funcional)
 * [functional-frontend-architecture - A functional frontend framework.](https://github.com/paldepind/functional-frontend-architecture)
 * [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
