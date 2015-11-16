@@ -126,6 +126,7 @@
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
 * [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&list=WL&index=63)
+* [Category theory for JavaScript programmers](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
 
 ## Libraries
 
