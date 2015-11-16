@@ -148,6 +148,15 @@
 * [**lodash-fp** - lodash with auto-curried iteratee-first data-last methods](https://github.com/lodash/lodash-fp)
 * [**alicates** - Small library for functional programming with ES2015+](https://github.com/gonzaloruizdevilla/alicates)
 * [**creed** - Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land](https://github.com/briancavalier/creed)
+* [**js-csp** - Communicating sequential processes for Javascript (like Clojurescript core.async, or Go)](https://github.com/ubolonton/js-csp)
+* [**async-csp** - Communicating sequential processes, or asynchronous buffered data pipes, designed to be used with async/await](https://github.com/dvlsg/async-csp)
+* [**transducers-js** - A high performance Transducers implementation for JavaScript](https://github.com/cognitect-labs/transducers-js)
+* [**transducers.js** - A small library for generalized transformation of data (inspired by Clojure's transducers)](https://github.com/jlongster/transducers.js)
+* [**csp** - CSP/Actor/Transducer Experiments](https://github.com/phuu/csp)
+* [**underarm** - Transducers Inspired by Underscore](https://github.com/kevinbeaty/underarm)
+* [**transduce** - JavaScript transducers](https://github.com/transduce/transduce)
+* [**** - ]()
+* [**** - ]()
 
 ### Livescript
 ***
