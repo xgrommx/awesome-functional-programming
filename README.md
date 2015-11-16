@@ -155,8 +155,6 @@
 * [**csp** - CSP/Actor/Transducer Experiments](https://github.com/phuu/csp)
 * [**underarm** - Transducers Inspired by Underscore](https://github.com/kevinbeaty/underarm)
 * [**transduce** - JavaScript transducers](https://github.com/transduce/transduce)
-* [**** - ]()
-* [**** - ]()
 
 ### Livescript
 ***
