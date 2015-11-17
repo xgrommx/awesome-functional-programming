@@ -83,6 +83,7 @@
 * [Currying in JavaScript](https://medium.com/@kbrainwave/currying-in-javascript-ce6da2d324fe)
 * [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps)
 * [Factorial and Fibonacci in Kotlin](http://carlosqt.blogspot.com/2012/04/factorial-and-fibonacci-in-kotlin.html)
+* [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
