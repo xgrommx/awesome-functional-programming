@@ -86,6 +86,9 @@
 * [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
 * [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
 * [Элементы функциональных языков](http://fprog.ru/2009/issue3/eugene-kirpichov-elements-of-functional-languages)
+* [Functional Programming should be your #1 priority for 2015 — OOP cannot save us from the Cloud Monster anymore.](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+* [A practical introduction to functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+* [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -116,6 +119,8 @@
 * [Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python](https://github.com/caiorss/Functional-Programming)
 * [A puzzle game written on purescript](https://github.com/sharkdp/cube-composer)
 * [Total functional programming (ESFP)](https://github.com/mietek/total-functional-programming)
+* [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
+* [Functional programming (page on wiki of Haskell)](https://wiki.haskell.org/Functional_programming)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -178,6 +183,8 @@
 * [**udon** - Practical functional programming in JavaScript](https://github.com/beastaugh/udon)
 * [**culljs** - Functional javascript for adults - no cushions included](https://github.com/culljs/culljs)
 * [**it.js** - Chainable object-oriented functional combinators](https://github.com/dtinth/it.js)
+* [**linq** - linq.js - LINQ for JavaScript library](https://github.com/mihaifm/linq)
+* [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar) 
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
@@ -190,6 +197,8 @@
 * [**javaslang** - More Control. Less Code. Functional Library for Java 8+](http://javaslang.com)
 * [**functionaljava** - Functional programming in Java](https://github.com/functionaljava/functionaljava)
 * [**yeti** - Functional programming language for JVM](https://github.com/mth/yeti)
+* [**Jinq** - LINQ-style queries for Java 8](https://github.com/my2iu/Jinq)
+* [**linq4j** - A port of LINQ (Language-Integrated Query) to Java] - (https://github.com/julianhyde/linq4j)
 
 ### Clojure/ClojureScript
 ***
@@ -206,9 +215,13 @@
 * [**funktional** - Kotlin monads](https://github.com/mplatvoet/funktional)
 * [**funKTionale** - Functional constructs for Kotlin](https://github.com/MarioAriasC/funKTionale)
 
-### F#
+### F sharp
 ***
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
+
+### C sharp
+***
+* [**language-ext** - C# functional language extensions and 'Erlang like' concurrency system](https://github.com/louthy/language-ext)
 
 ### Swift
 ***
@@ -218,6 +231,7 @@
 * [**Prelude** - Swift µframework of simple functional programming tools](https://github.com/robrix/Prelude)
 * [**Swiftx** - Functional data types and functions for any project](https://github.com/typelift/Swiftx)
 * [**Concurrent** - Functional Concurrency Primitives](https://github.com/typelift/Concurrent)
+* [**SINQ** - LINQ for Swift - Swift Integrated Query](https://github.com/slazyk/SINQ)
 
 ### Python
 ***
@@ -228,6 +242,9 @@
 ### PHP
 ***
 * [**functional-php** - Primitives for functional programming in PHP](https://github.com/lstrojny/functional-php)
+* [**Pinq** - PHP Integrated Query, a real LINQ library for PHP](https://github.com/TimeToogo/Pinq)
+* [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
+* [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
 
 ### Rust
 ***
@@ -237,3 +254,8 @@
 ***
 * [**Lazy.jl** - Functional programming for Julia](https://github.com/one-more-minute/Lazy.jl)
 * [**FunctionalCollections.jl** - Functional and persistent data structures for Julia](https://github.com/JuliaLang/FunctionalCollections.jl)
+
+### Go
+***
+* [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
+* [**** - ]()
