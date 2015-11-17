@@ -84,10 +84,15 @@
 * [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps)
 * [Factorial and Fibonacci in Kotlin](http://carlosqt.blogspot.com/2012/04/factorial-and-fibonacci-in-kotlin.html)
 * [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
+* [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
+* [Элементы функциональных языков](http://fprog.ru/2009/issue3/eugene-kirpichov-elements-of-functional-languages)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
+* [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
 * [Functional JavaScript](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
+* [Functional Javascript Workshop (console based tutorial)](https://github.com/timoxley/functional-javascript-workshop)
+* [A big list of books about functional programming](http://alexott.net/en/fp/books)
 
 ## Resources
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
@@ -105,6 +110,12 @@
 * [functional-frontend-architecture - A functional frontend framework.](https://github.com/paldepind/functional-frontend-architecture)
 * [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
 * [FP101x - Functional Programming MOOC 2015 Content Repository](https://github.com/fptudelft/FP101x-Content-2015)
+* [Functional Programming in Javascript (Online tutorial)](http://reactivex.io/learnrx)
+* [A list of functional javascript resources](https://github.com/jkup/functional-javascript)
+* [Contravariance is the Dual of Covariance](http://www.infoq.com/presentations/covariance-contravariance-joy-of-coding-2014)
+* [Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python](https://github.com/caiorss/Functional-Programming)
+* [A puzzle game written on purescript](https://github.com/sharkdp/cube-composer)
+* [Total functional programming (ESFP)](https://github.com/mietek/total-functional-programming)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -121,6 +132,7 @@
 * [Pragmatic Functional Programming](http://slides.com/rossmurray/pragmatic-functional-programming)
 * [Intro to Functional Programming](http://www.slideshare.net/firthh/intro-to-functional-programming-levelup-brisbane)
 * [Who's More Functional: Kotlin, Groovy, Scala, or Java?](http://www.slideshare.net/abreslav/whos-more-functional-kotlin-groovy-scala-or-java)
+* [Introduction to Functional Programming in JavaScript](http://www.slideshare.net/tmont/introduction-to-functional-programming-in-javascript)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
@@ -128,6 +140,7 @@
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
 * [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&list=WL&index=63)
 * [Category theory for JavaScript programmers](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
+* [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 
 ## Libraries
 
@@ -158,8 +171,15 @@
 * [**underarm** - Transducers Inspired by Underscore](https://github.com/kevinbeaty/underarm)
 * [**transduce** - JavaScript transducers](https://github.com/transduce/transduce)
 * [**fkit** - A functional programming toolkit for JavaScript](https://github.com/nullobject/fkit)
+* [**contra** - Asynchronous flow control with a functional taste to it](https://github.com/bevacqua/contra)
+* [**neo-async** - Neo-Async is thought to be used as a drop-in replacement for Async, it almost fully covers its functionality and runs faster](https://github.com/suguru03/neo-async)
+* [**async** - Async utilities for node and the browser](https://github.com/caolan/async)
+* [**nimble** - A really tiny functional JavaScript and async flow-control library](https://github.com/caolan/nimble)
+* [**udon** - Practical functional programming in JavaScript](https://github.com/beastaugh/udon)
+* [**culljs** - Functional javascript for adults - no cushions included](https://github.com/culljs/culljs)
+* [**it.js** - Chainable object-oriented functional combinators](https://github.com/dtinth/it.js)
 
-### Livescript
+### [Livescript](https://github.com/gkz/LiveScript)
 ***
 * [**prelude.ls** - is a functionally oriented utility library](http://www.preludels.com)
 
@@ -169,12 +189,16 @@
 * [**Frege** - is a Haskell for the JVM. It brings purely functional programing to the Java platform.](https://github.com/Frege/frege)
 * [**javaslang** - More Control. Less Code. Functional Library for Java 8+](http://javaslang.com)
 * [**functionaljava** - Functional programming in Java](https://github.com/functionaljava/functionaljava)
+* [**yeti** - Functional programming language for JVM](https://github.com/mth/yeti)
 
 ### Clojure/ClojureScript
 ***
 
 ### Scala
 ***
+* [**scalaz** - An extension to the core Scala library for functional programming](https://github.com/scalaz/scalaz)
+* [**cats** - Lightweight, modular, and extensible library for functional programming](https://github.com/non/cats)
+* [**macroid** - A modular functional UI language for Android](https://github.com/macroid/macroid)
 
 ### Kotlin
 ***
@@ -184,8 +208,32 @@
 
 ### F#
 ***
+* [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
 
 ### Swift
 ***
 * [**Dollar.swift** - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript](http://www.dollarswift.org)
 * [**Swiftz** - Functional programming in Swift](https://github.com/typelift/Swiftz)
+* [**LlamaKit** - Collection of must-have functional Swift tools](https://github.com/LlamaKit/LlamaKit)
+* [**Prelude** - Swift µframework of simple functional programming tools](https://github.com/robrix/Prelude)
+* [**Swiftx** - Functional data types and functions for any project](https://github.com/typelift/Swiftx)
+* [**Concurrent** - Functional Concurrency Primitives](https://github.com/typelift/Concurrent)
+
+### Python
+***
+* [**fn.py** - Functional programming in Python: implementation of missing features to enjoy FP](https://github.com/kachayev/fn.py)
+* [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
+* [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
+
+### PHP
+***
+* [**functional-php** - Primitives for functional programming in PHP](https://github.com/lstrojny/functional-php)
+
+### Rust
+***
+* [**elmesque** - An attempt at porting Elm's incredibly useful, purely functional std graphics modules](https://github.com/mitchmindtree/elmesque)
+
+### Julia
+***
+* [**Lazy.jl** - Functional programming for Julia](https://github.com/one-more-minute/Lazy.jl)
+* [**FunctionalCollections.jl** - Functional and persistent data structures for Julia](https://github.com/JuliaLang/FunctionalCollections.jl)
