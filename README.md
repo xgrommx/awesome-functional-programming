@@ -149,7 +149,7 @@
 
 ## Libraries
 
-### Javascript
+### [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 ***
 * [**Lodash** - A JavaScript utility library delivering consistency, modularity, performance, & extras](https://lodash.com)
 * [**Ramda** - A practical functional library for Javascript programmers](http://ramdajs.com)
@@ -190,7 +190,7 @@
 ***
 * [**prelude.ls** - is a functionally oriented utility library](http://www.preludels.com)
 
-### Java
+### [Java](http://www.oracle.com/technetwork/java/index.html)
 ***
 * [**TotallyLazy** - A complete functional environment for Java](http://totallylazy.com)
 * [**Frege** - is a Haskell for the JVM. It brings purely functional programing to the Java platform.](https://github.com/Frege/frege)
@@ -200,30 +200,30 @@
 * [**Jinq** - LINQ-style queries for Java 8](https://github.com/my2iu/Jinq)
 * [**linq4j** - A port of LINQ (Language-Integrated Query) to Java] - (https://github.com/julianhyde/linq4j)
 
-### Clojure/ClojureScript
+### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
 ***
 
-### Scala
+### [Scala](https://github.com/scala/scala)
 ***
 * [**scalaz** - An extension to the core Scala library for functional programming](https://github.com/scalaz/scalaz)
 * [**cats** - Lightweight, modular, and extensible library for functional programming](https://github.com/non/cats)
 * [**macroid** - A modular functional UI language for Android](https://github.com/macroid/macroid)
 
-### Kotlin
+### [Kotlin](https://github.com/JetBrains/kotlin)
 ***
 * [**Forge** - Functional style JSON parsing written in Kotlin](https://github.com/kittinunf/Forge)
 * [**funktional** - Kotlin monads](https://github.com/mplatvoet/funktional)
 * [**funKTionale** - Functional constructs for Kotlin](https://github.com/MarioAriasC/funKTionale)
 
-### F sharp
+### [F#](https://github.com/fsharp/fsharp)
 ***
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
 
-### C sharp
+### [C#](https://github.com/dotnet/roslyn)
 ***
 * [**language-ext** - C# functional language extensions and 'Erlang like' concurrency system](https://github.com/louthy/language-ext)
 
-### Swift
+### [Swift](https://developer.apple.com/swift)
 ***
 * [**Dollar.swift** - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript](http://www.dollarswift.org)
 * [**Swiftz** - Functional programming in Swift](https://github.com/typelift/Swiftz)
@@ -233,29 +233,28 @@
 * [**Concurrent** - Functional Concurrency Primitives](https://github.com/typelift/Concurrent)
 * [**SINQ** - LINQ for Swift - Swift Integrated Query](https://github.com/slazyk/SINQ)
 
-### Python
+### [Python](https://www.python.org/)
 ***
 * [**fn.py** - Functional programming in Python: implementation of missing features to enjoy FP](https://github.com/kachayev/fn.py)
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
 
-### PHP
+### [PHP](https://github.com/php/php-src)
 ***
 * [**functional-php** - Primitives for functional programming in PHP](https://github.com/lstrojny/functional-php)
 * [**Pinq** - PHP Integrated Query, a real LINQ library for PHP](https://github.com/TimeToogo/Pinq)
 * [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
 
-### Rust
+### [Rust](https://github.com/rust-lang/rust)
 ***
 * [**elmesque** - An attempt at porting Elm's incredibly useful, purely functional std graphics modules](https://github.com/mitchmindtree/elmesque)
 
-### Julia
+### [Julia](https://github.com/JuliaLang/julia)
 ***
 * [**Lazy.jl** - Functional programming for Julia](https://github.com/one-more-minute/Lazy.jl)
 * [**FunctionalCollections.jl** - Functional and persistent data structures for Julia](https://github.com/JuliaLang/FunctionalCollections.jl)
 
-### Go
+### [Go](https://github.com/golang/go)
 ***
 * [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
-* [**** - ]()
