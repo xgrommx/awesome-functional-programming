@@ -6,6 +6,7 @@
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
 * [Dipping into wu.js: autoCurry](https://javascriptweblog.wordpress.com/2010/06/14/dipping-into-wu-js-autocurry)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
+* [Haskell in ES6: Part 2](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/17/haskell-in-es6-part-2.html)
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming)
 * [Short cut fusion](https://wiki.haskell.org/Short_cut_fusion)
 * [My favorite functional adaptors](http://glebbahmutov.com/blog/my-favorite-functional-adaptors)
@@ -206,6 +207,7 @@
 * [**linq** - linq.js - LINQ for JavaScript library](https://github.com/mihaifm/linq)
 * [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar)
 * [**cat.js** - Category Theory for JavaScript](https://github.com/jcouyang/cat.js)
+* [**f** - Implementing native versions of Haskell functions according to JavaScript ES6 standards](https://github.com/casualjs/f)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
