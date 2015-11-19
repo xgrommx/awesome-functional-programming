@@ -153,6 +153,8 @@
 * [Who's More Functional: Kotlin, Groovy, Scala, or Java?](http://www.slideshare.net/abreslav/whos-more-functional-kotlin-groovy-scala-or-java)
 * [Introduction to Functional Programming in JavaScript](http://www.slideshare.net/tmont/introduction-to-functional-programming-in-javascript)
 * [Category Theory: An Abstraction for Anything](http://www.infoq.com/presentations/category-theory)
+* [Немного о функциональном программирование в JavaScript](http://pt.slideshare.net/fwdays/javascript-47497140)
+* [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
