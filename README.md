@@ -89,6 +89,12 @@
 * [Functional Programming should be your #1 priority for 2015 — OOP cannot save us from the Cloud Monster anymore.](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
 * [A practical introduction to functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
+* [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
+* [Category Theory in JavaScript](https://jscategory.wordpress.com)
+* [Category Theory via C# (22) More Monad: Continuation Monad](http://weblogs.asp.net/dixin/category-theory-via-c-sharp-22-more-monad-continuation-monad)
+* [Understanding Continuations](https://www.fpcomplete.com/user/jwiegley/understanding-continuations)
+* [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
+* [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -109,6 +115,7 @@
 * [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
 * [Introduction to Functional Programming (course from edx.org)](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [functional-programming-jargon - Jargon from the functional programming world in simple terms](https://github.com/hemanth/functional-programming-jargon)
+* [Category theory jargon cheat sheet](https://gist.github.com/cb372/b1bad150e0c412fb7364)
 * [js-funcional - A Cookbook for writing FP in JavaScript using ES6](https://github.com/js-functional/js-funcional)
 * [functional-frontend-architecture - A functional frontend framework.](https://github.com/paldepind/functional-frontend-architecture)
 * [A book series on JavaScript](https://github.com/getify/You-Dont-Know-JS)
@@ -121,6 +128,13 @@
 * [Total functional programming (ESFP)](https://github.com/mietek/total-functional-programming)
 * [Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"](https://github.com/fpinscala/fpinscala)
 * [Functional programming (page on wiki of Haskell)](https://wiki.haskell.org/Functional_programming)
+* [Category Theory Presentation](http://yannesposito.com/Scratch/en/blog/Category-Theory-Presentation)
+* [A Guide to Functional Programming Lingo for JavaScripters](https://gist.github.com/ericelliott/ea925c58410f0ae74aef)
+* [Haskell monads for learning purposes in javascript](https://github.com/raimohanska/Monads)
+* [Cheat sheet for Monads in Haskell](https://dkalemis.wordpress.com/2014/08/02/cheat-sheet-for-monads-in-haskell)
+* [Monad](https://wiki.haskell.org/Monad)
+* [Monad (in computer science)](http://ncatlab.org/nlab/show/monad+(in+computer+science))
+* [The Indexed Continuation Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5716594)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -138,6 +152,7 @@
 * [Intro to Functional Programming](http://www.slideshare.net/firthh/intro-to-functional-programming-levelup-brisbane)
 * [Who's More Functional: Kotlin, Groovy, Scala, or Java?](http://www.slideshare.net/abreslav/whos-more-functional-kotlin-groovy-scala-or-java)
 * [Introduction to Functional Programming in JavaScript](http://www.slideshare.net/tmont/introduction-to-functional-programming-in-javascript)
+* [Category Theory: An Abstraction for Anything](http://www.infoq.com/presentations/category-theory)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
@@ -184,7 +199,8 @@
 * [**culljs** - Functional javascript for adults - no cushions included](https://github.com/culljs/culljs)
 * [**it.js** - Chainable object-oriented functional combinators](https://github.com/dtinth/it.js)
 * [**linq** - linq.js - LINQ for JavaScript library](https://github.com/mihaifm/linq)
-* [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar) 
+* [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar)
+* [**cat.js** - Category Theory for JavaScript](https://github.com/jcouyang/cat.js)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
@@ -202,6 +218,7 @@
 
 ### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
 ***
+* [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats)
 
 ### [Scala](https://github.com/scala/scala)
 ***
