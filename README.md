@@ -90,11 +90,13 @@
 * [A practical introduction to functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 * [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
 * [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
-* [Category Theory in JavaScript](https://jscategory.wordpress.com)
+* [Category Theory in JavaScript](https://jscategory.wordpress.com) (must have)
 * [Category Theory via C# (22) More Monad: Continuation Monad](http://weblogs.asp.net/dixin/category-theory-via-c-sharp-22-more-monad-continuation-monad)
 * [Understanding Continuations](https://www.fpcomplete.com/user/jwiegley/understanding-continuations)
 * [The Mother of all Monads](http://blog.sigfpe.com/2008/12/mother-of-all-monads.html)
 * [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
+* [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
+* [Polyfilling generators](http://gu.illau.me/posts/polyfilling-generators)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -135,6 +137,7 @@
 * [Monad](https://wiki.haskell.org/Monad)
 * [Monad (in computer science)](http://ncatlab.org/nlab/show/monad+(in+computer+science))
 * [The Indexed Continuation Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5716594)
+* [Informatics 1: Functional Programming](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
