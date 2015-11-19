@@ -1,4 +1,4 @@
-# [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+# [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Tutorials and Articles
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
