@@ -98,6 +98,10 @@
 * [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
 * [Polyfilling generators](http://gu.illau.me/posts/polyfilling-generators)
+* [Understanding Monads With JavaScript](http://igstan.ro/posts/2011-05-02-understanding-monads-with-javascript.html)
+* [Promises are the monad of asynchronous programming](https://blog.jcoglan.com/2011/03/11/promises-are-the-monad-of-asynchronous-programming)
+* [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
+* [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -140,6 +144,7 @@
 * [The Indexed Continuation Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5716594)
 * [Informatics 1: Functional Programming](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp)
 * [Source code for blog post Journey from procedural to reactive JavaScript with stops](https://github.com/bahmutov/javascript-journey)
+* [Functional Programming in Javascript (online exercises)](http://reactivex.io/learnrx)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
