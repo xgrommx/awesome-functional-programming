@@ -139,6 +139,7 @@
 * [Monad (in computer science)](http://ncatlab.org/nlab/show/monad+(in+computer+science))
 * [The Indexed Continuation Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5716594)
 * [Informatics 1: Functional Programming](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp)
+* [Source code for blog post Journey from procedural to reactive JavaScript with stops](https://github.com/bahmutov/javascript-journey)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
