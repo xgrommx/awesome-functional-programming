@@ -145,6 +145,7 @@
 * [Informatics 1: Functional Programming](https://www.inf.ed.ac.uk/teaching/courses/inf1/fp)
 * [Source code for blog post Journey from procedural to reactive JavaScript with stops](https://github.com/bahmutov/javascript-journey)
 * [Functional Programming in Javascript (online exercises)](http://reactivex.io/learnrx)
+* [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
