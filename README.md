@@ -7,6 +7,7 @@
 * [Dipping into wu.js: autoCurry](https://javascriptweblog.wordpress.com/2010/06/14/dipping-into-wu-js-autocurry)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [Haskell in ES6: Part 2](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/17/haskell-in-es6-part-2.html)
+* [Basic problem solving in Haskell-style ES6](http://casualjavascript.com/javascript/es6/haskell/euler/problem/2015/11/20/basic-problem-solving-in-haskell-style-es6.html)
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming)
 * [Short cut fusion](https://wiki.haskell.org/Short_cut_fusion)
 * [My favorite functional adaptors](http://glebbahmutov.com/blog/my-favorite-functional-adaptors)
@@ -146,6 +147,8 @@
 * [Source code for blog post Journey from procedural to reactive JavaScript with stops](https://github.com/bahmutov/javascript-journey)
 * [Functional Programming in Javascript (online exercises)](http://reactivex.io/learnrx)
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
+* [Building a modern functional compiler from first principles](https://github.com/sdiehl/write-you-a-haskell)
+* [Archive the best resources surrounding the functional programming paradigm for Javascript developers](https://github.com/radiovisual/functional-programming-resources)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -215,6 +218,10 @@
 * [**Sugar** - A Javascript library for working with native objects](https://github.com/andrewplummer/Sugar)
 * [**cat.js** - Category Theory for JavaScript](https://github.com/jcouyang/cat.js)
 * [**f** - Implementing native versions of Haskell functions according to JavaScript ES6 standards](https://github.com/casualjs/f)
+* [**este** - Dev stack and starter kit for functional and universal React web apps](https://github.com/este/este)
+* [**Slack** - Lazy functional JS library](https://github.com/loosechainsaw/Slack)
+* [**nux** - A Push-Based Functional Reactive UI Library for the Web](https://github.com/marknutter/nux)
+* [**ftoer** - A pragmatic library facilitating functional programming in javascript](https://github.com/ftoer/ftoer)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
@@ -249,6 +256,8 @@
 ### [F#](https://github.com/fsharp/fsharp)
 ***
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
+* [**chiron** - Functional JSON library for F#](https://github.com/xyncro/chiron)
+* [**hekate** - Purely Functional Graphs for F#](https://github.com/xyncro/hekate)
 
 ### [C#](https://github.com/dotnet/roslyn)
 ***
@@ -289,3 +298,7 @@
 ### [Go](https://github.com/golang/go)
 ***
 * [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
+
+### [Haskell](https://www.haskell.org)
+***
+* [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
