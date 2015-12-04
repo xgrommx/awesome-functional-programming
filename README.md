@@ -222,6 +222,8 @@
 * [**Slack** - Lazy functional JS library](https://github.com/loosechainsaw/Slack)
 * [**nux** - A Push-Based Functional Reactive UI Library for the Web](https://github.com/marknutter/nux)
 * [**ftoer** - A pragmatic library facilitating functional programming in javascript](https://github.com/ftoer/ftoer)
+* [**fops** - Curried, functional operators](https://github.com/nickb1080/fops)
+* [**nodent** - Asynchronous Javascript language extensions](https://github.com/MatAtBread/nodent)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
