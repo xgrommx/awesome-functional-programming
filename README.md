@@ -149,6 +149,7 @@
 * [Category Theory for Programmers: The Preface](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface)
 * [Building a modern functional compiler from first principles](https://github.com/sdiehl/write-you-a-haskell)
 * [Archive the best resources surrounding the functional programming paradigm for Javascript developers](https://github.com/radiovisual/functional-programming-resources)
+* [Ramtuary REPL](http://davidchase.github.io/ramtuary)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
