@@ -104,6 +104,7 @@
 * [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 * [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+* [Mindfuck: The Reverse State Monad](https://lukepalmer.wordpress.com/2008/08/10/mindfuck-the-reverse-state-monad)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -266,6 +267,7 @@
 ### [C#](https://github.com/dotnet/roslyn)
 ***
 * [**language-ext** - C# functional language extensions and 'Erlang like' concurrency system](https://github.com/louthy/language-ext)
+* [**functional.net** - Library of functions and list extensions for C#](https://github.com/jallen720/functional.net)
 
 ### [Swift](https://developer.apple.com/swift)
 ***
