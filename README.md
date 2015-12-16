@@ -152,6 +152,7 @@
 * [Building a modern functional compiler from first principles](https://github.com/sdiehl/write-you-a-haskell)
 * [Archive the best resources surrounding the functional programming paradigm for Javascript developers](https://github.com/radiovisual/functional-programming-resources)
 * [Ramtuary REPL](http://davidchase.github.io/ramtuary)
+* [Haskell for Maths](http://haskellformaths.blogspot.com)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -227,6 +228,7 @@
 * [**ftoer** - A pragmatic library facilitating functional programming in javascript](https://github.com/ftoer/ftoer)
 * [**fops** - Curried, functional operators](https://github.com/nickb1080/fops)
 * [**nodent** - Asynchronous Javascript language extensions](https://github.com/MatAtBread/nodent)
+* [**funkit** - Functional toolkit for javascript](https://github.com/mwardle/funkit)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
