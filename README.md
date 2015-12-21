@@ -108,6 +108,7 @@
 * [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization)
 * [Asynchronous programming and continuation-passing style in JavaScript](http://www.2ality.com/2012/06/continuation-passing-style.html)
 * [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style)
+* [The Y Combinator (Slight Return)(http://mvanier.livejournal.com/2897.html)
 
 
 ## Books
@@ -121,6 +122,7 @@
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
 * [http://blog.codeprototype.com](http://blog.codeprototype.com)
 * [http://simplectic.com/blog](http://simplectic.com/blog)
+* [http://www.parsonsmatt.org - Elm, Haskell, Purescript](http://www.parsonsmatt.org)
 * [Lo-Fi Learning - Advanced topics from our blackboard to your screen](http://school.looprecur.com)
 * [FunctionalTalks.org - Brilliant people giving brilliant talks on Functional Programming.](http://functionaltalks.org)
 * [functional-javascript-workshop - a functional javascript workshop. No libraries required (i.e. no underscore), just ES5](https://github.com/timoxley/functional-javascript-workshop)
@@ -187,6 +189,7 @@
 * [Category theory for JavaScript programmers](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
+* [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
 
 ## Libraries
 
