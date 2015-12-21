@@ -86,7 +86,6 @@
 * [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps)
 * [Factorial and Fibonacci in Kotlin](http://carlosqt.blogspot.com/2012/04/factorial-and-fibonacci-in-kotlin.html)
 * [Functional programming with Javascript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
-* [The Marvels of Monads](http://blogs.msdn.com/b/wesdyer/archive/2008/01/11/the-marvels-of-monads.aspx)
 * [Элементы функциональных языков](http://fprog.ru/2009/issue3/eugene-kirpichov-elements-of-functional-languages)
 * [Functional Programming should be your #1 priority for 2015 — OOP cannot save us from the Cloud Monster anymore.](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
 * [A practical introduction to functional programming](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
@@ -105,6 +104,11 @@
 * [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 * [Mindfuck: The Reverse State Monad](https://lukepalmer.wordpress.com/2008/08/10/mindfuck-the-reverse-state-monad)
+* [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
+* [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization)
+* [Asynchronous programming and continuation-passing style in JavaScript](http://www.2ality.com/2012/06/continuation-passing-style.html)
+* [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style)
+
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -153,6 +157,7 @@
 * [Archive the best resources surrounding the functional programming paradigm for Javascript developers](https://github.com/radiovisual/functional-programming-resources)
 * [Ramtuary REPL](http://davidchase.github.io/ramtuary)
 * [Haskell for Maths](http://haskellformaths.blogspot.com)
+* [Y combinator](http://rosettacode.org/wiki/Y_combinator)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -181,6 +186,7 @@
 * [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&list=WL&index=63)
 * [Category theory for JavaScript programmers](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+* ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
 
 ## Libraries
 
@@ -259,6 +265,7 @@
 * [**Forge** - Functional style JSON parsing written in Kotlin](https://github.com/kittinunf/Forge)
 * [**funktional** - Kotlin monads](https://github.com/mplatvoet/funktional)
 * [**funKTionale** - Functional constructs for Kotlin](https://github.com/MarioAriasC/funKTionale)
+* [**kotlinslang** - A functional library for Kotlin that provides functional control structures. Inspired by javaslang](https://github.com/kotlinslang/kotlinslang)
 
 ### [F#](https://github.com/fsharp/fsharp)
 ***
