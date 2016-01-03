@@ -109,7 +109,29 @@
 * [Asynchronous programming and continuation-passing style in JavaScript](http://www.2ality.com/2012/06/continuation-passing-style.html)
 * [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style)
 * [The Y Combinator (Slight Return)(http://mvanier.livejournal.com/2897.html)
-
+* [Leaking Space - Eliminating memory hogs](https://queue.acm.org/detail.cfm?id=2538488)
+* [Breaking down FRP](https://blogs.janestreet.com/breaking-down-frp)
+* [What are some limitations/disadvantages of functional programming?](https://www.quora.com/What-are-some-limitations-disadvantages-of-functional-programming)
+* [Fun with promises in JavaScript](https://www.stephanboyer.com/post/107/fun-with-promises-in-javascript)
+* [Getting clever with lambda calculus](http://casualjavascript.com/2015/12/18/getting-clever-with-lambda.html)
+* [Frontend Functional Programming with PureScript and Elm](http://blog.thomasstreet.com/post/129725260288/frontend-functional-programming-with-purescript)
+* [Writing PureScript Bindings for a jQuery Plugin](https://filib.io/posts/2015-11-06-writing-purescript-bindings-for-a-jquery-plugin.html)
+* [PureScript on Android](http://blog.ndk.io/purescript-on-android.html)
+* [Rendering a Tic-Tac-Toe board with purescript-react](https://kritzcreek.github.io/example/2015/10/03/tic-tac-toe-with-purescript)
+* [Building Apps with PureScript and React](https://kritzcreek.github.io/tutorial/2015/03/31/apps-with-purescript-and-react-1)
+* [Playing Tic-Tac-Toe using purescript-signal](https://kritzcreek.github.io/tutorial/2015/10/07/playing-tic-tac-toe-with-purescript-signal)
+* [Fighting node callback hell with PureScript](https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html)
+* [Approximating PI With PureScript](http://sleepomeno.github.io/blog/2015/03/14/Approximating-PI-with-PureScript/)
+* [Learn X in Y minutes - Where X=purescript](https://learnxinyminutes.com/docs/purescript/)
+* [Servant, Type Families, and Type-level Everything A look at advanced GHC features used in Servant](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
+* [PureScript for the Haskeller Where to get started in PureScript for the Haskell programmer](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+* [Haskell-Style Fibonacci in Python](http://joelgrus.com/2015/07/07/haskell-style-fibonacci-in-python/)
+* [Polyglot Twitter Bot, Part 1: Node.js](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-1-nodejs/)
+* [Polyglot Twitter Bot, Part 2: Node.js + AWS Lambda](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/)
+* [Polyglot Twitter Bot, Part 3: Python 2.7 + AWS Lambda](http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/)
+* [Polyglot Twitter Bot, Part 4: PureScript](http://joelgrus.com/2015/12/31/polyglot-twitter-bot-part-4-purescript/)
+* [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
+* [Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -117,8 +139,10 @@
 * [Functional JavaScript](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
 * [Functional Javascript Workshop (console based tutorial)](https://github.com/timoxley/functional-javascript-workshop)
 * [A big list of books about functional programming](http://alexott.net/en/fp/books)
+* [PureScript by Example](https://leanpub.com/purescript/read)
 
 ## Resources
+* [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
 * [http://blog.codeprototype.com](http://blog.codeprototype.com)
 * [http://simplectic.com/blog](http://simplectic.com/blog)
@@ -160,6 +184,13 @@
 * [Ramtuary REPL](http://davidchase.github.io/ramtuary)
 * [Haskell for Maths](http://haskellformaths.blogspot.com)
 * [Y combinator](http://rosettacode.org/wiki/Y_combinator)
+* [A collection about Functional Reactive Programming in Swift](https://github.com/onmyway133/functional-swift)
+* [Patterns in Functional Programming](https://patternsinfp.wordpress.com)
+* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask)
+* [Learn Haskell](https://github.com/bitemyapp/learnhaskell)
+* [Awesome Haskell](https://github.com/krispo/awesome-haskell)
+* [Введение в функциональное программирование на скале](http://www.otstavnov.com/Odersky_Scala_lecture-notes.html)
+* [Monoidal Contravariant Functors and Transducers](https://gist.github.com/DrBoolean/fdef9e08352ac42754f1)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -180,6 +211,17 @@
 * [Category Theory: An Abstraction for Anything](http://www.infoq.com/presentations/category-theory)
 * [Немного о функциональном программирование в JavaScript](http://pt.slideshare.net/fwdays/javascript-47497140)
 * [Category theory for beginners](http://www.slideshare.net/kenbot/category-theory-for-beginners)
+* [Getting Started with PureScript by Michael Ficarra](https://speakerdeck.com/michaelficarra/getting-started-with-purescript)
+* [Functional Programming Forever](http://slides.com/thomasomans/functional-programming-forever#/)
+* [Why Haskell?](http://slides.com/etrepum/preview-intro-to-haskell)
+* [PureScript](https://docs.google.com/presentation/d/1IOM9A3Otxufs5xzvYb3yPrT7JDVPhkJVkdaWvVl8R_E/pub?start=false&loop=false&delayms=3000&slide=id.ge5fcfef40_0_5)
+* [Анонимные записи в Haskell](http://www.slideshare.net/cblpsu/3-anonymous-records)
+* [Better know a language PureScript](http://taylor.fausak.me/static/pages/2015-10-22-better-know-a-language-purescript.html)
+* [Functional Patterns in JavaScript](http://slides.com/hackbulgaria/functional-patterns-in-javascript#/)
+* [Collections libraries in JavaScript](http://slides.com/sashqa/deck#/)
+* [Transducers - Reducing complexity with reducers](http://slides.com/plaid/deck#/)
+* [Remove the Boilerplate](http://slides.com/bahmutov/remove-the-boilerplate#/)
+* []()
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
@@ -190,6 +232,8 @@
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
+* [FP-Syd - PureScript: An Overview for Haskellers by Tim Docker (Jul 2015)](https://www.youtube.com/watch?v=udg01o2M4iY)
+* [Intro to PureScript -- Utah Haskell Meetup](https://www.youtube.com/watch?v=9a57V3bvzaI)
 
 ## Libraries
 
@@ -280,6 +324,8 @@
 ***
 * [**language-ext** - C# functional language extensions and 'Erlang like' concurrency system](https://github.com/louthy/language-ext)
 * [**functional.net** - Library of functions and list extensions for C#](https://github.com/jallen720/functional.net)
+* [**FuncSharp** - Functional programming in C#](https://github.com/siroky/FuncSharp)
+* [**monadsharp** - A collection of monads for C# that provide some functional programming flavor](https://github.com/kallanreed/monadsharp)
 
 ### [Swift](https://developer.apple.com/swift)
 ***
