@@ -108,7 +108,7 @@
 * [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization)
 * [Asynchronous programming and continuation-passing style in JavaScript](http://www.2ality.com/2012/06/continuation-passing-style.html)
 * [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style)
-* [The Y Combinator (Slight Return)(http://mvanier.livejournal.com/2897.html)
+* [The Y Combinator (Slight Return)](http://mvanier.livejournal.com/2897.html)
 * [Leaking Space - Eliminating memory hogs](https://queue.acm.org/detail.cfm?id=2538488)
 * [Breaking down FRP](https://blogs.janestreet.com/breaking-down-frp)
 * [What are some limitations/disadvantages of functional programming?](https://www.quora.com/What-are-some-limitations-disadvantages-of-functional-programming)
