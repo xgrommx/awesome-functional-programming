@@ -132,6 +132,7 @@
 * [Polyglot Twitter Bot, Part 4: PureScript](http://joelgrus.com/2015/12/31/polyglot-twitter-bot-part-4-purescript/)
 * [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
 * [Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
+* [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6#.zf6crffs6)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
