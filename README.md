@@ -132,6 +132,7 @@
 * [Polyglot Twitter Bot, Part 4: PureScript](http://joelgrus.com/2015/12/31/polyglot-twitter-bot-part-4-purescript/)
 * [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
 * [Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
+* [The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -146,6 +147,9 @@
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
 * [http://blog.codeprototype.com](http://blog.codeprototype.com)
 * [http://simplectic.com/blog](http://simplectic.com/blog)
+* [http://joneshf.github.io](http://joneshf.github.io)
+* [https://juxt.pro/radar.html - The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
+* [http://clojurewerkz.org - A growing collection of open source Clojure libraries](http://clojurewerkz.org)
 * [http://www.parsonsmatt.org - Elm, Haskell, Purescript](http://www.parsonsmatt.org)
 * [Lo-Fi Learning - Advanced topics from our blackboard to your screen](http://school.looprecur.com)
 * [FunctionalTalks.org - Brilliant people giving brilliant talks on Functional Programming.](http://functionaltalks.org)
@@ -221,7 +225,6 @@
 * [Collections libraries in JavaScript](http://slides.com/sashqa/deck#/)
 * [Transducers - Reducing complexity with reducers](http://slides.com/plaid/deck#/)
 * [Remove the Boilerplate](http://slides.com/bahmutov/remove-the-boilerplate#/)
-* []()
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
