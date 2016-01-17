@@ -289,6 +289,7 @@
 * [**fops** - Curried, functional operators](https://github.com/nickb1080/fops)
 * [**nodent** - Asynchronous Javascript language extensions](https://github.com/MatAtBread/nodent)
 * [**funkit** - Functional toolkit for javascript](https://github.com/mwardle/funkit)
+* [**funko** - Naive minimalistic functional programming library](https://github.com/mickvangelderen/funko)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
@@ -307,6 +308,7 @@
 ### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
 ***
 * [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats)
+* [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank)
 
 ### [Scala](https://github.com/scala/scala)
 ***
