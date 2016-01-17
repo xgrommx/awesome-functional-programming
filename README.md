@@ -136,6 +136,7 @@
 * [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6#.zf6crffs6)
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
+* [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
