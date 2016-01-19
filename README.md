@@ -137,6 +137,7 @@
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
 * [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript)
+* [The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -328,6 +329,7 @@
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
 * [**chiron** - Functional JSON library for F#](https://github.com/xyncro/chiron)
 * [**hekate** - Purely Functional Graphs for F#](https://github.com/xyncro/hekate)
+* [**freya** - Functional-first web stack, including an HTTP finite state machine, built on top of OWIN](https://github.com/freya-fs/freya)
 
 ### [C#](https://github.com/dotnet/roslyn)
 ***
