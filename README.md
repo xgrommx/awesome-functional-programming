@@ -138,6 +138,7 @@
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
 * [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript)
 * [The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript)
+* [Free Monads Are Simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -149,6 +150,7 @@
 
 ## Resources
 * [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
+* [http://functionaljavascript.blogspot.com](http://functionaljavascript.blogspot.com)
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
 * [http://blog.codeprototype.com](http://blog.codeprototype.com)
 * [http://simplectic.com/blog](http://simplectic.com/blog)
