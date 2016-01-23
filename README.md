@@ -142,6 +142,8 @@
 * [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
 * [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
 * [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
+* [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
+* [Input and Output](http://learnyouahaskell.com/input-and-output)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -153,6 +155,8 @@
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
 * [Lenses in Functional Programming](https://www21.in.tum.de/teaching/fp/SS15/papers/17.pdf)
 * [The Weird World of Bi-Directional Programming](https://www.cis.upenn.edu/~bcpierce/papers/lenses-etapsslides.pdf)
+* [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
+* [Excerpt Funtional Programming JavaScript](http://cooperpress.s3.amazonaws.com/Excerpt_FPJavaScript.pdf)
 
 ## Resources
 * [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
@@ -210,6 +214,7 @@
 * [Awesome Haskell](https://github.com/krispo/awesome-haskell)
 * [Введение в функциональное программирование на скале](http://www.otstavnov.com/Odersky_Scala_lecture-notes.html)
 * [Monoidal Contravariant Functors and Transducers](https://gist.github.com/DrBoolean/fdef9e08352ac42754f1)
+* [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 
 ## Presentations
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
@@ -301,10 +306,15 @@
 * [**nodent** - Asynchronous Javascript language extensions](https://github.com/MatAtBread/nodent)
 * [**funkit** - Functional toolkit for javascript](https://github.com/mwardle/funkit)
 * [**funko** - Naive minimalistic functional programming library](https://github.com/mickvangelderen/funko)
+* [**fantasy-lenses** - Composable, immutable getters and setters](https://github.com/fantasyland/fantasy-lenses)
+* [**chunkify** - A functional API to unblock your JavaScript](https://github.com/yangmillstheory/chunkify)
+* [**co-functional** - co-functional is a MIT licenced library that provides several functions for use with the co library](https://github.com/N0ps32/co-functional)
+* [**redash** - Compact library for writing performant functional JavaScript](https://github.com/davezuko/redash)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
 * [**prelude.ls** - is a functionally oriented utility library](http://www.preludels.com)
+* [**monolith-ls** - Experimental fork of `prelude-ls`, gives a more functional feel to prelude.](https://github.com/masterrace/monolith-ls)
 
 ### [Java](http://www.oracle.com/technetwork/java/index.html)
 ***
@@ -341,6 +351,7 @@
 * [**hekate** - Purely Functional Graphs for F#](https://github.com/xyncro/hekate)
 * [**freya** - Functional-first web stack, including an HTTP finite state machine, built on top of OWIN](https://github.com/freya-fs/freya)
 * [**micron** - A minimalistic pure functional programming language](https://github.com/jonathanvdc/micron)
+* [**Lw** - is a general-purpose statically-typed functional language with advanced features.](https://github.com/alvisespano/Lw)
 
 ### [C#](https://github.com/dotnet/roslyn)
 ***
@@ -390,3 +401,6 @@
 ### [Haskell](https://www.haskell.org)
 ***
 * [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
+
+### [Elixir](https://github.com/elixir-lang/elixir)
+***
