@@ -139,6 +139,9 @@
 * [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript)
 * [The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript)
 * [Free Monads Are Simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html)
+* [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
+* [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
+* [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -147,6 +150,9 @@
 * [Functional Javascript Workshop (console based tutorial)](https://github.com/timoxley/functional-javascript-workshop)
 * [A big list of books about functional programming](http://alexott.net/en/fp/books)
 * [PureScript by Example](https://leanpub.com/purescript/read)
+* [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
+* [Lenses in Functional Programming](https://www21.in.tum.de/teaching/fp/SS15/papers/17.pdf)
+* [The Weird World of Bi-Directional Programming](https://www.cis.upenn.edu/~bcpierce/papers/lenses-etapsslides.pdf)
 
 ## Resources
 * [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
@@ -155,6 +161,8 @@
 * [http://blog.codeprototype.com](http://blog.codeprototype.com)
 * [http://simplectic.com/blog](http://simplectic.com/blog)
 * [http://joneshf.github.io](http://joneshf.github.io)
+* [http://www.luisatencio.net](http://www.luisatencio.net)
+* [http://bartoszmilewski.com](http://bartoszmilewski.com)
 * [https://juxt.pro/radar.html - The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [http://clojurewerkz.org - A growing collection of open source Clojure libraries](http://clojurewerkz.org)
 * [http://www.parsonsmatt.org - Elm, Haskell, Purescript](http://www.parsonsmatt.org)
@@ -332,6 +340,7 @@
 * [**chiron** - Functional JSON library for F#](https://github.com/xyncro/chiron)
 * [**hekate** - Purely Functional Graphs for F#](https://github.com/xyncro/hekate)
 * [**freya** - Functional-first web stack, including an HTTP finite state machine, built on top of OWIN](https://github.com/freya-fs/freya)
+* [**micron** - A minimalistic pure functional programming language](https://github.com/jonathanvdc/micron)
 
 ### [C#](https://github.com/dotnet/roslyn)
 ***
@@ -362,6 +371,7 @@
 * [**Pinq** - PHP Integrated Query, a real LINQ library for PHP](https://github.com/TimeToogo/Pinq)
 * [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
+* [**pramda** - Practical Functional Programming in PHP](https://github.com/kapolos/pramda)
 
 ### [Rust](https://github.com/rust-lang/rust)
 ***
