@@ -359,6 +359,7 @@
 ### [PHP](https://github.com/php/php-src)
 ***
 * [**functional-php** - Primitives for functional programming in PHP](https://github.com/lstrojny/functional-php)
+* [**Non-standard PHP library (NSPL)** - Compact functional programming oriented code and more](https://github.com/ihor/Nspl)
 * [**Pinq** - PHP Integrated Query, a real LINQ library for PHP](https://github.com/TimeToogo/Pinq)
 * [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
