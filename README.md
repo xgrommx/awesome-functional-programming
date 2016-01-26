@@ -153,6 +153,12 @@
 * [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
 * [Getting Concurrent With ES6 Generators](https://davidwalsh.name/concurrent-generators)
 * [Currying versus partial application (with JavaScript code)](http://www.2ality.com/2011/09/currying-vs-part-eval.html)
+* [WebApps with PureScript and RactiveJS](http://blog.brakmic.com/webapps-with-purescript-and-ractivejs)
+* [Flatmap explained](https://porizi.wordpress.com/2014/02/21/flatmap-explained)
+* [Functors, Applicative Functors, and Monads aren't that scary](http://gabrielsw.blogspot.com/2011/08/functors-applicative-functors-and.html)
+* [Functors, Monads, Applicatives – can be so simple](https://thedet.wordpress.com/2012/04/28/functors-monads-applicatives-can-be-so-simple)
+* [Applicatives are generalized functors](https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors)
+* [Introduction to Category Theory in Scala](https://hseeberger.wordpress.com/category/category-theory)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -255,6 +261,8 @@
 * [Collections libraries in JavaScript](http://slides.com/sashqa/deck#/)
 * [Transducers - Reducing complexity with reducers](http://slides.com/plaid/deck#/)
 * [Remove the Boilerplate](http://slides.com/bahmutov/remove-the-boilerplate#/)
+* [Functional Programming. Patterns in Scala](http://jsuereth.com/intro-to-fp/preso.html)
+* [Map, Flatmap and Reduce are Your New Best Friends: Simpler Collections, Concurrency, and Big Data](http://www.slideshare.net/chris.e.richardson/map-flatmap-and-reduce-are-your-new-best-friends-simpler-collections-concurrency-and-big-data-oscon)
 
 ## Videos
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
