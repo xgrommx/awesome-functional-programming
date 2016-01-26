@@ -144,6 +144,15 @@
 * [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
 * [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
 * [Input and Output](http://learnyouahaskell.com/input-and-output)
+* [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
+* [Function Application and Definition](http://slpopejoy.github.io/posts/2014-11-27-FunctionApplicationDefinition.html)
+* [Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
+* [Effectful Haskell: Reader, Transformers, Typeclasses](http://slpopejoy.github.io/posts/Effectful02.html)
+* [asynquence: The Promises You Don’t Know Yet (Part 1)](https://davidwalsh.name/asynquence-part-1)
+* [asynquence: More Than Just Promises (Part 2)](https://davidwalsh.name/asynquence-part-2)
+* [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
+* [Getting Concurrent With ES6 Generators](https://davidwalsh.name/concurrent-generators)
+* [Currying versus partial application (with JavaScript code)](http://www.2ality.com/2011/09/currying-vs-part-eval.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -167,6 +176,7 @@
 * [http://joneshf.github.io](http://joneshf.github.io)
 * [http://www.luisatencio.net](http://www.luisatencio.net)
 * [http://bartoszmilewski.com](http://bartoszmilewski.com)
+* [http://rebcabin.github.io](http://rebcabin.github.io)
 * [https://juxt.pro/radar.html - The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [http://clojurewerkz.org - A growing collection of open source Clojure libraries](http://clojurewerkz.org)
 * [http://www.parsonsmatt.org - Elm, Haskell, Purescript](http://www.parsonsmatt.org)
