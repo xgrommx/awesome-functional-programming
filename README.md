@@ -159,6 +159,12 @@
 * [Functors, Monads, Applicatives – can be so simple](https://thedet.wordpress.com/2012/04/28/functors-monads-applicatives-can-be-so-simple)
 * [Applicatives are generalized functors](https://hseeberger.wordpress.com/2011/01/31/applicatives-are-generalized-functors)
 * [Introduction to Category Theory in Scala](https://hseeberger.wordpress.com/category/category-theory)
+* [Understanding Transducers](http://elbenshira.com/blog/understanding-transducers)
+* [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.ze7jh4h2x)
+* [Managing Application State with PureScript & Redux](http://blog.brakmic.com/managing-application-state-with-purescript-redux)
+* [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize)
+* [Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)
+* [Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -174,6 +180,8 @@
 * [Excerpt Funtional Programming JavaScript](http://cooperpress.s3.amazonaws.com/Excerpt_FPJavaScript.pdf)
 
 ## Resources
+* [Notes, Thoughts, & Examples derived from reading Functional Javascript by Michael Fogus](https://github.com/hackerrdave/functional-javascript)
+* [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
 * [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
 * [http://functionaljavascript.blogspot.com](http://functionaljavascript.blogspot.com)
 * [http://buzzdecafe.github.io](http://buzzdecafe.github.io)
@@ -275,6 +283,7 @@
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
 * [FP-Syd - PureScript: An Overview for Haskellers by Tim Docker (Jul 2015)](https://www.youtube.com/watch?v=udg01o2M4iY)
 * [Intro to PureScript -- Utah Haskell Meetup](https://www.youtube.com/watch?v=9a57V3bvzaI)
+* [Haskell Programming Tutorial](https://www.youtube.com/watch?v=Sinr-kVzsLI&list=PLa8a_8vztYc4Y5HPptfBhLNZxNgCkWEOr)
 
 ## Libraries
 
