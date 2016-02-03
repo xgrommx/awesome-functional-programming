@@ -178,8 +178,10 @@
 * [The Weird World of Bi-Directional Programming](https://www.cis.upenn.edu/~bcpierce/papers/lenses-etapsslides.pdf)
 * [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
 * [Excerpt Funtional Programming JavaScript](http://cooperpress.s3.amazonaws.com/Excerpt_FPJavaScript.pdf)
+* [Elm tutorial book](http://www.elm-tutorial.org/index.html)
 
 ## Resources
+* [Almost all about monads](https://flipboard.com/topic/monad)
 * [Notes, Thoughts, & Examples derived from reading Functional Javascript by Michael Fogus](https://github.com/hackerrdave/functional-javascript)
 * [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
 * [Functorial Blog - A blog about functional programming](http://blog.functorial.com/index.html)
