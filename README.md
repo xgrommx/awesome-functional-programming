@@ -165,6 +165,12 @@
 * [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize)
 * [Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)
 * [Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task)
+* [Switching from immutable.js to seamless-immutable](http://tech.noredink.com/post/107617838018/switching-from-immutablejs-to-seamless-immutable)
+* [A Gentle Introduction to Functional JavaScript: Part 1](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro)
+* [A Gentle Introduction to Functional JavaScript: Part 2](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-arrays)
+* [A Gentle Introduction to Functional JavaScript: Part 3](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions)
+* [A Gentle Introduction to Functional JavaScript: Part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style)
+* [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -339,6 +345,9 @@
 * [**chunkify** - A functional API to unblock your JavaScript](https://github.com/yangmillstheory/chunkify)
 * [**co-functional** - co-functional is a MIT licenced library that provides several functions for use with the co library](https://github.com/N0ps32/co-functional)
 * [**redash** - Compact library for writing performant functional JavaScript](https://github.com/davezuko/redash)
+* [**iterablejs** - Lazy-loading wrapper for iterable items and common functional programming operations](https://github.com/dvlsg/iterablejs)
+* [**async-csp** - CSP style channels using ES7 async/await](https://github.com/dvlsg/async-csp)
+* [**conjs** - a featured fork of mori, with core.async included](https://github.com/jcouyang/conjs)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
