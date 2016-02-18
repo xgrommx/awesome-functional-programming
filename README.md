@@ -171,6 +171,7 @@
 * [A Gentle Introduction to Functional JavaScript: Part 3](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-functions)
 * [A Gentle Introduction to Functional JavaScript: Part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
+* [Continuations](https://curiosity-driven.org/continuations)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -348,6 +349,7 @@
 * [**iterablejs** - Lazy-loading wrapper for iterable items and common functional programming operations](https://github.com/dvlsg/iterablejs)
 * [**async-csp** - CSP style channels using ES7 async/await](https://github.com/dvlsg/async-csp)
 * [**conjs** - a featured fork of mori, with core.async included](https://github.com/jcouyang/conjs)
+* [**switch-fn** - Write a functional switch statement](https://github.com/ajoslin/switch-fn)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
