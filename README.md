@@ -316,7 +316,6 @@
 * [**alicates** - Small library for functional programming with ES2015+](https://github.com/gonzaloruizdevilla/alicates)
 * [**creed** - Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land](https://github.com/briancavalier/creed)
 * [**js-csp** - Communicating sequential processes for Javascript (like Clojurescript core.async, or Go)](https://github.com/ubolonton/js-csp)
-* [**async-csp** - Communicating sequential processes, or asynchronous buffered data pipes, designed to be used with async/await](https://github.com/dvlsg/async-csp)
 * [**transducers-js** - A high performance Transducers implementation for JavaScript](https://github.com/cognitect-labs/transducers-js)
 * [**transducers.js** - A small library for generalized transformation of data (inspired by Clojure's transducers)](https://github.com/jlongster/transducers.js)
 * [**csp** - CSP/Actor/Transducer Experiments](https://github.com/phuu/csp)
@@ -350,6 +349,10 @@
 * [**async-csp** - CSP style channels using ES7 async/await](https://github.com/dvlsg/async-csp)
 * [**conjs** - a featured fork of mori, with core.async included](https://github.com/jcouyang/conjs)
 * [**switch-fn** - Write a functional switch statement](https://github.com/ajoslin/switch-fn)
+* [**asyncawait** - Callback heaven for Node.js with async/await](https://github.com/yortus/asyncawait)
+* [**kneden** - Transpile ES7 async/await to vanilla ES6 Promise chains: a Babel plugin](https://github.com/marten-de-vries/kneden)
+* [**asyncbox** - A collection of ES7 async/await utilities](https://github.com/jlipps/asyncbox)
+* [**medium** - CSP-style channel library using ES7 async/await keywords](https://github.com/bbarr/medium)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
