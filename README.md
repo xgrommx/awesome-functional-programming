@@ -172,6 +172,7 @@
 * [A Gentle Introduction to Functional JavaScript: Part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 * [Continuations](https://curiosity-driven.org/continuations)
+* [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -353,6 +354,8 @@
 * [**kneden** - Transpile ES7 async/await to vanilla ES6 Promise chains: a Babel plugin](https://github.com/marten-de-vries/kneden)
 * [**asyncbox** - A collection of ES7 async/await utilities](https://github.com/jlipps/asyncbox)
 * [**medium** - CSP-style channel library using ES7 async/await keywords](https://github.com/bbarr/medium)
+* [**prelude** - Base functional programming utils for mostjs packages](https://github.com/mostjs/prelude)
+* [**fantasy-birds** - port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs](https://github.com/fantasyland/fantasy-birds)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
