@@ -5,9 +5,9 @@
 * [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
 * [Dipping into wu.js: autoCurry](https://javascriptweblog.wordpress.com/2010/06/14/dipping-into-wu-js-autocurry)
-* [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
-* [Haskell in ES6: Part 2](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/17/haskell-in-es6-part-2.html)
-* [Basic problem solving in Haskell-style ES6](http://casualjavascript.com/javascript/es6/haskell/euler/problem/2015/11/20/basic-problem-solving-in-haskell-style-es6.html)
+* [Haskell in ES6: Part 1](http://casualjavascript.com/?1)
+* [Haskell in ES6: Part 2](http://casualjavascript.com/?2)
+* [Haskell in ES6: Project Euler 1-5](http://casualjavascript.com/?3)
 * [Don’t Be Scared Of Functional Programming](http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming)
 * [Short cut fusion](https://wiki.haskell.org/Short_cut_fusion)
 * [My favorite functional adaptors](http://glebbahmutov.com/blog/my-favorite-functional-adaptors)
@@ -173,6 +173,7 @@
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 * [Continuations](https://curiosity-driven.org/continuations)
 * [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
+* [Elmish: Functional Programming in Javascript](https://medium.com/@chetcorcos/elmish-functional-programming-in-javascript-50995f1d4b9e#.gxfuglcw8)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -294,6 +295,15 @@
 * [FP-Syd - PureScript: An Overview for Haskellers by Tim Docker (Jul 2015)](https://www.youtube.com/watch?v=udg01o2M4iY)
 * [Intro to PureScript -- Utah Haskell Meetup](https://www.youtube.com/watch?v=9a57V3bvzaI)
 * [Haskell Programming Tutorial](https://www.youtube.com/watch?v=Sinr-kVzsLI&list=PLa8a_8vztYc4Y5HPptfBhLNZxNgCkWEOr)
+* [Monad a day 1: Reader](https://vimeo.com/105300347)
+* [Monad a day 2: Future](https://vimeo.com/106008027)
+* [Monad a day 3: State](https://vimeo.com/109984691)
+* [Lenses Quick n’ Dirty](https://vimeo.com/104807358)
+* [Frontend Masters Workshop finish up](https://vimeo.com/97575933)
+* [A Million Ways to Fold in JS](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
+* [Coyoneda in Javascript](https://www.youtube.com/watch?v=WH5BrkzGgQY)
+* [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
+* [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 
 ## Libraries
 
@@ -356,6 +366,8 @@
 * [**medium** - CSP-style channel library using ES7 async/await keywords](https://github.com/bbarr/medium)
 * [**prelude** - Base functional programming utils for mostjs packages](https://github.com/mostjs/prelude)
 * [**fantasy-birds** - port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs](https://github.com/fantasyland/fantasy-birds)
+* [**scour** - Traverse objects and arrays with ease](https://github.com/rstacruz/scour)
+* [**monad-transformers** - Practical monad transformers for JS](https://github.com/boris-marinov/monad-transformers)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
