@@ -368,6 +368,11 @@
 * [**fantasy-birds** - port of the haskell package Data.Aviary.Birds. Every thing for your combinatory needs](https://github.com/fantasyland/fantasy-birds)
 * [**scour** - Traverse objects and arrays with ease](https://github.com/rstacruz/scour)
 * [**monad-transformers** - Practical monad transformers for JS](https://github.com/boris-marinov/monad-transformers)
+* [**lazy-either** - A lazy implementation of the Fantasy Land Either type](https://github.com/Risto-Stevcev/lazy-either)
+* [**parallel-future** - Run Futures in parallel](https://github.com/futurize/parallel-future)
+* [**futurize** - Turn callback-style functions or promises into futures](https://github.com/futurize/futurize)
+* [**daggy** - Library for creating tagged constructors](https://github.com/puffnfresh/daggy)
+* [**barely-functional** - tiny (2.7kb) functional programming library using native es5/6 operations](https://github.com/cullophid/barely-functional)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 ***
