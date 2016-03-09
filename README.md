@@ -174,6 +174,10 @@
 * [Continuations](https://curiosity-driven.org/continuations)
 * [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
 * [Elmish: Functional Programming in Javascript](https://medium.com/@chetcorcos/elmish-functional-programming-in-javascript-50995f1d4b9e#.gxfuglcw8)
+* [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.65dy1pg1i)
+* [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines)
+* [Data Structures in Elm](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
+* [Practical Intro to Monads in JavaScript](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript)
 
 ## Books
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
@@ -188,8 +192,12 @@
 * [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript)
 * [Excerpt Funtional Programming JavaScript](http://cooperpress.s3.amazonaws.com/Excerpt_FPJavaScript.pdf)
 * [Elm tutorial book](http://www.elm-tutorial.org/index.html)
+* [Purescript Pux](http://www.alexmingoia.com/purescript-pux)
 
 ## Resources
+* [Conal Elliott blog](http://conal.net/blog)
+* [Brian Lonsdorf on medium](https://medium.com/@drboolean)
+* [Elm weekly](http://www.elmweekly.nl)
 * [Almost all about monads](https://flipboard.com/topic/monad)
 * [Notes, Thoughts, & Examples derived from reading Functional Javascript by Michael Fogus](https://github.com/hackerrdave/functional-javascript)
 * [Simple examples to help you understand ES6](https://github.com/sgaurav/understanding-es6)
@@ -252,6 +260,7 @@
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 
 ## Presentations
+* [Functional Programming from Brian Lonsdorf (awesome presentation)](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
 * [Domain Modeling in a Functional World](http://www.slideshare.net/debasishg/qconny-12)
 * [Functional Programming in JavaScript](http://www.slideshare.net/LuisAtencio3/functional-programming-in-javascript-by-luis-atencio)
