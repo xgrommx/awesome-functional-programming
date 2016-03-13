@@ -193,6 +193,7 @@
 * [Excerpt Funtional Programming JavaScript](http://cooperpress.s3.amazonaws.com/Excerpt_FPJavaScript.pdf)
 * [Elm tutorial book](http://www.elm-tutorial.org/index.html)
 * [Purescript Pux](http://www.alexmingoia.com/purescript-pux)
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 
 ## Resources
 * [Conal Elliott blog](http://conal.net/blog)
@@ -313,6 +314,7 @@
 * [Coyoneda in Javascript](https://www.youtube.com/watch?v=WH5BrkzGgQY)
 * [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
+* [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
 
 ## Libraries
 
