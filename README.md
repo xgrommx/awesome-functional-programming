@@ -1,6 +1,7 @@
 # [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Tutorials and Articles
+
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 * [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
@@ -172,14 +173,50 @@
 * [A Gentle Introduction to Functional JavaScript: Part 4](http://jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-style)
 * [From mathematics to map-reduce](http://www.haskellforall.com/2016/02/from-mathematics-to-map-reduce.html)
 * [Continuations](https://curiosity-driven.org/continuations)
-* [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
 * [Elmish: Functional Programming in Javascript](https://medium.com/@chetcorcos/elmish-functional-programming-in-javascript-50995f1d4b9e#.gxfuglcw8)
 * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.65dy1pg1i)
 * [Coroutine Event Loops in Javascript](https://x.st/javascript-coroutines)
-* [Data Structures in Elm](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
 * [Practical Intro to Monads in JavaScript](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript)
+* [The Indexed State Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5054294)
+* [How Do I Learn Functional Programming In Javascript? - Linkpost](http://www.fse.guru/how-do-i-learn-functional-programming-in-javascript-linkpost)
+
+### [Elm](http://elm-lang.org)
+
+* [Building a Live-Validated Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
+* [Data Structures in Elm](http://tech.noredink.com/post/140646140878/data-structures-in-elm)
+* [Walkthrough: Introducing Elm to a JS Web App](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app)
+* [Static site generation in Elm](http://tech.noredink.com/post/140291903568/static-site-generation-in-elm)
+* [Архитектура приложения в Elm](http://ruhaskell.org/posts/elm/2015/03/06/elm-architecture.html)
+* [Начало проекта на Elm](http://ruhaskell.org/posts/elm/2015/01/22/elm-hello.html)
+* [Optimistic UI and Reactive Programming with Elm](http://athiemann.net/2015/07/26/optimistic-ui-elm.html)
+* [Understanding Signal.forwardTo](http://zkessin.github.io/elm-examples-blog//examples/2016/01/07/understanding-Signal.forwardTo.html)
+* [Learning FP the hard way: Experiences on the Elm language](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db)
+* [Architecture in Elm](https://gist.github.com/evancz/2b2ba366cae1887fe621)
+* [Switching from imperative to functional programming with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md)
+* [How Elm made our work better](http://futurice.com/blog/elm-in-the-real-world)
+* [Elm for the Frontend, Right Now](https://bendyworks.com/elm-frontend-right-now)
+* [Introduction to ML in Elm](https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/lectures/IntroML.html)
+* [Making a scroll table with Elm](http://qiita.com/kimagure/items/57cdd08bdf56cc51d294)
+* [A simple introduction to using Elm ports](http://qiita.com/kimagure/items/f15bff4f33a63ba03877)
+* [How I wrote a hybrid Elm/Javascript Node.js application](http://qiita.com/kimagure/items/da2100328aa94a736559)
+* [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78#.xbf1ghjft)
+* [Understanding Elm: Signals, Mailboxes, Addresses, and Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.tq036zcnr)
+* [Using Mailboxes in Elm](https://gist.github.com/mgold/461dbf37d4d34767e5da)
+* [Developing Games In Elm - Signals](http://gelatindesign.co.uk/developing-games-in-elm/signals)
+* [Signals in Elm](http://danielbachler.de/2016/02/12/signals-in-elm.html)
+* [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+* [An Opening Example of Elm: building HTML by parsing parameters](http://blog.jessitron.com/2015/08/an-elm-example-reading-url-parameters.html)
+* [Real World Elm - Part 2 - Form Validation](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
+* [Real World Elm - Part 1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html)
+* [Deconstructing Your First Elm App](https://yobriefca.se/blog/2015/08/02/deconstructing-your-first-elm-app)
+* [Introduction to FRP in Elm](https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/lectures/IntroFRP.html)
+* [Tasks and Effects in Elm](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
+* [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
+
+---
 
 ## Books
+
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
 * [Functional JavaScript](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
@@ -194,8 +231,15 @@
 * [Elm tutorial book](http://www.elm-tutorial.org/index.html)
 * [Purescript Pux](http://www.alexmingoia.com/purescript-pux)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Elm by Example - Grzegorz Balcerek](http://elm-by-example.org)
+
+---
 
 ## Resources
+
+* [A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
+* [Community driven Elm guide for JS people](https://github.com/elm-guides/elm-for-js)
+* [An overview of Elm syntax and features](https://github.com/izdi/elm-cheat-sheet)
 * [Conal Elliott blog](http://conal.net/blog)
 * [Brian Lonsdorf on medium](https://medium.com/@drboolean)
 * [Elm weekly](http://www.elmweekly.nl)
@@ -260,7 +304,10 @@
 * [Monoidal Contravariant Functors and Transducers](https://gist.github.com/DrBoolean/fdef9e08352ac42754f1)
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 
+---
+
 ## Presentations
+
 * [Functional Programming from Brian Lonsdorf (awesome presentation)](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
 * [Domain Modeling in a Functional World](http://www.slideshare.net/debasishg/qconny-12)
@@ -293,7 +340,10 @@
 * [Functional Programming. Patterns in Scala](http://jsuereth.com/intro-to-fp/preso.html)
 * [Map, Flatmap and Reduce are Your New Best Friends: Simpler Collections, Concurrency, and Big Data](http://www.slideshare.net/chris.e.richardson/map-flatmap-and-reduce-are-your-new-best-friends-simpler-collections-concurrency-and-big-data-oscon)
 
+---
+
 ## Videos
+
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
@@ -316,9 +366,12 @@
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
 
+---
+
 ## Libraries
 
 ### [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 ***
 * [**Lodash** - A JavaScript utility library delivering consistency, modularity, performance, & extras](https://lodash.com)
 * [**Ramda** - A practical functional library for Javascript programmers](http://ramdajs.com)
@@ -332,7 +385,7 @@
 * [**lazy.js** - is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios](http://danieltao.com/lazy.js)
 * [**monet.js** - Monadic types library for JavaScript](http://cwmyers.github.com/monet.js)
 * [**lamb** - A lightweight, and docile, JavaScript (ES5) library to help embracing functional programming](http://ascartabelli.github.io/lamb)
-* [**sanctuary** - Refuge from unsafe JavaScript](https://github.com/plaid/sanctuary)
+* [**sanctuary** - Refuge from unsafe JavaScript](https://github.com/plaid/sanctuary) [official site](http://sanctuary.js.org) 
 * [**trine** - A utility library for modern JavaScript](https://github.com/jussi-kalliokoski/trine)
 * [**lodash-fp** - lodash with auto-curried iteratee-first data-last methods](https://github.com/lodash/lodash-fp)
 * [**alicates** - Small library for functional programming with ES2015+](https://github.com/gonzaloruizdevilla/alicates)
@@ -384,13 +437,17 @@
 * [**futurize** - Turn callback-style functions or promises into futures](https://github.com/futurize/futurize)
 * [**daggy** - Library for creating tagged constructors](https://github.com/puffnfresh/daggy)
 * [**barely-functional** - tiny (2.7kb) functional programming library using native es5/6 operations](https://github.com/cullophid/barely-functional)
+* [**fantasydo** - Do-notation for javascript fantasy land](https://github.com/russellmcc/fantasydo)
+* [**linq.ts** - LinQ for TypeScript](https://github.com/kutyel/linq.ts)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
+
 ***
 * [**prelude.ls** - is a functionally oriented utility library](http://www.preludels.com)
 * [**monolith-ls** - Experimental fork of `prelude-ls`, gives a more functional feel to prelude.](https://github.com/masterrace/monolith-ls)
 
 ### [Java](http://www.oracle.com/technetwork/java/index.html)
+
 ***
 * [**TotallyLazy** - A complete functional environment for Java](http://totallylazy.com)
 * [**Frege** - is a Haskell for the JVM. It brings purely functional programing to the Java platform.](https://github.com/Frege/frege)
@@ -401,17 +458,20 @@
 * [**linq4j** - A port of LINQ (Language-Integrated Query) to Java](https://github.com/julianhyde/linq4j)
 
 ### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
+
 ***
 * [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats)
 * [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank)
 
 ### [Scala](https://github.com/scala/scala)
+
 ***
 * [**scalaz** - An extension to the core Scala library for functional programming](https://github.com/scalaz/scalaz)
 * [**cats** - Lightweight, modular, and extensible library for functional programming](https://github.com/non/cats)
 * [**macroid** - A modular functional UI language for Android](https://github.com/macroid/macroid)
 
 ### [Kotlin](https://github.com/JetBrains/kotlin)
+
 ***
 * [**Forge** - Functional style JSON parsing written in Kotlin](https://github.com/kittinunf/Forge)
 * [**funktional** - Kotlin monads](https://github.com/mplatvoet/funktional)
@@ -419,6 +479,7 @@
 * [**kotlinslang** - A functional library for Kotlin that provides functional control structures. Inspired by javaslang](https://github.com/kotlinslang/kotlinslang)
 
 ### [F#](https://github.com/fsharp/fsharp)
+
 ***
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
 * [**chiron** - Functional JSON library for F#](https://github.com/xyncro/chiron)
@@ -428,6 +489,7 @@
 * [**Lw** - is a general-purpose statically-typed functional language with advanced features.](https://github.com/alvisespano/Lw)
 
 ### [C#](https://github.com/dotnet/roslyn)
+
 ***
 * [**language-ext** - C# functional language extensions and 'Erlang like' concurrency system](https://github.com/louthy/language-ext)
 * [**functional.net** - Library of functions and list extensions for C#](https://github.com/jallen720/functional.net)
@@ -435,6 +497,7 @@
 * [**monadsharp** - A collection of monads for C# that provide some functional programming flavor](https://github.com/kallanreed/monadsharp)
 
 ### [Swift](https://developer.apple.com/swift)
+
 ***
 * [**Dollar.swift** - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript](http://www.dollarswift.org)
 * [**Swiftz** - Functional programming in Swift](https://github.com/typelift/Swiftz)
@@ -445,12 +508,14 @@
 * [**SINQ** - LINQ for Swift - Swift Integrated Query](https://github.com/slazyk/SINQ)
 
 ### [Python](https://www.python.org/)
+
 ***
 * [**fn.py** - Functional programming in Python: implementation of missing features to enjoy FP](https://github.com/kachayev/fn.py)
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
 
 ### [PHP](https://github.com/php/php-src)
+
 ***
 * [**functional-php** - Primitives for functional programming in PHP](https://github.com/lstrojny/functional-php)
 * [**Non-standard PHP library (NSPL)** - Compact functional programming oriented code and more](https://github.com/ihor/Nspl)
@@ -460,21 +525,26 @@
 * [**pramda** - Practical Functional Programming in PHP](https://github.com/kapolos/pramda)
 
 ### [Rust](https://github.com/rust-lang/rust)
+
 ***
 * [**elmesque** - An attempt at porting Elm's incredibly useful, purely functional std graphics modules](https://github.com/mitchmindtree/elmesque)
 
 ### [Julia](https://github.com/JuliaLang/julia)
+
 ***
 * [**Lazy.jl** - Functional programming for Julia](https://github.com/one-more-minute/Lazy.jl)
 * [**FunctionalCollections.jl** - Functional and persistent data structures for Julia](https://github.com/JuliaLang/FunctionalCollections.jl)
 
 ### [Go](https://github.com/golang/go)
+
 ***
 * [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
 
 ### [Haskell](https://www.haskell.org)
+
 ***
 * [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
 
 ### [Elixir](https://github.com/elixir-lang/elixir)
+
 ***
