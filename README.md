@@ -62,7 +62,6 @@
 * [16 Months of Functional Programming](http://www.vasinov.com/blog/16-months-of-functional-programming)
 * [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions)
 * [Functional programming with Ramda](https://medium.com/@kevinle/functional-programming-with-ramda-5c56d09c518e)
-* [Building Apps with PureScript and React](https://kritzcreek.github.io/tutorial/2015/03/31/apps-with-purescript-and-react-1)
 * [Functional programming on frontend with React & ClojureScript](http://blog.scalac.io/2015/04/02/clojurescript-reactjs-reagent.html)
 * [Functional Programming should be your #1 priority for 2015](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
 * [Practical Functional Javascript with Ramda](http://developer.telerik.com/featured/practical-functional-javascript-ramda)
@@ -115,22 +114,11 @@
 * [What are some limitations/disadvantages of functional programming?](https://www.quora.com/What-are-some-limitations-disadvantages-of-functional-programming)
 * [Fun with promises in JavaScript](https://www.stephanboyer.com/post/107/fun-with-promises-in-javascript)
 * [Getting clever with lambda calculus](http://casualjavascript.com/2015/12/18/getting-clever-with-lambda.html)
-* [Frontend Functional Programming with PureScript and Elm](http://blog.thomasstreet.com/post/129725260288/frontend-functional-programming-with-purescript)
-* [Writing PureScript Bindings for a jQuery Plugin](https://filib.io/posts/2015-11-06-writing-purescript-bindings-for-a-jquery-plugin.html)
-* [PureScript on Android](http://blog.ndk.io/purescript-on-android.html)
-* [Rendering a Tic-Tac-Toe board with purescript-react](https://kritzcreek.github.io/example/2015/10/03/tic-tac-toe-with-purescript)
-* [Building Apps with PureScript and React](https://kritzcreek.github.io/tutorial/2015/03/31/apps-with-purescript-and-react-1)
-* [Playing Tic-Tac-Toe using purescript-signal](https://kritzcreek.github.io/tutorial/2015/10/07/playing-tic-tac-toe-with-purescript-signal)
-* [Fighting node callback hell with PureScript](https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html)
-* [Approximating PI With PureScript](http://sleepomeno.github.io/blog/2015/03/14/Approximating-PI-with-PureScript/)
-* [Learn X in Y minutes - Where X=purescript](https://learnxinyminutes.com/docs/purescript/)
 * [Servant, Type Families, and Type-level Everything A look at advanced GHC features used in Servant](http://www.arow.info/blog/posts/2015-07-10-servant-intro.html)
-* [PureScript for the Haskeller Where to get started in PureScript for the Haskell programmer](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
 * [Haskell-Style Fibonacci in Python](http://joelgrus.com/2015/07/07/haskell-style-fibonacci-in-python/)
 * [Polyglot Twitter Bot, Part 1: Node.js](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-1-nodejs/)
 * [Polyglot Twitter Bot, Part 2: Node.js + AWS Lambda](http://joelgrus.com/2015/12/29/polyglot-twitter-bot-part-2-nodejs-aws-lambda/)
 * [Polyglot Twitter Bot, Part 3: Python 2.7 + AWS Lambda](http://joelgrus.com/2015/12/30/polyglot-twitter-bot-part-3-python-27-aws-lambda/)
-* [Polyglot Twitter Bot, Part 4: PureScript](http://joelgrus.com/2015/12/31/polyglot-twitter-bot-part-4-purescript/)
 * [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
 * [Functional programming with Ramda.js](http://neiro.io/2015/09/05/functional-programming-with-ramda-js.html)
 * [The Little Idea of Functional Programming](http://jaysoo.ca/2016/01/13/functional-programming-little-ideas)
@@ -154,7 +142,6 @@
 * [Going Async With ES6 Generators](https://davidwalsh.name/async-generators)
 * [Getting Concurrent With ES6 Generators](https://davidwalsh.name/concurrent-generators)
 * [Currying versus partial application (with JavaScript code)](http://www.2ality.com/2011/09/currying-vs-part-eval.html)
-* [WebApps with PureScript and RactiveJS](http://blog.brakmic.com/webapps-with-purescript-and-ractivejs)
 * [Flatmap explained](https://porizi.wordpress.com/2014/02/21/flatmap-explained)
 * [Functors, Applicative Functors, and Monads aren't that scary](http://gabrielsw.blogspot.com/2011/08/functors-applicative-functors-and.html)
 * [Functors, Monads, Applicatives – can be so simple](https://thedet.wordpress.com/2012/04/28/functors-monads-applicatives-can-be-so-simple)
@@ -162,7 +149,6 @@
 * [Introduction to Category Theory in Scala](https://hseeberger.wordpress.com/category/category-theory)
 * [Understanding Transducers](http://elbenshira.com/blog/understanding-transducers)
 * [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624#.ze7jh4h2x)
-* [Managing Application State with PureScript & Redux](http://blog.brakmic.com/managing-application-state-with-purescript-redux)
 * [Visualizing Concurrency in Go](https://divan.github.io/posts/go_concurrency_visualize)
 * [Lazy Iterables in JavaScript](http://raganwald.com/2015/02/17/lazy-iteratables-in-javascript.html)
 * [Difference between a Promise and a Task](https://glebbahmutov.com/blog/difference-between-promise-and-task)
@@ -179,6 +165,29 @@
 * [Practical Intro to Monads in JavaScript](http://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript)
 * [The Indexed State Monad in Haskell, Scala, and C#](https://gist.github.com/pthariensflame/5054294)
 * [How Do I Learn Functional Programming In Javascript? - Linkpost](http://www.fse.guru/how-do-i-learn-functional-programming-in-javascript-linkpost)
+* [Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c#.bbrftrszz)
+* [Why using `_.chain` is a mistake](https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba#.hq00cmdrw)
+
+### [Purescript](http://www.purescript.org)
+
+* [Building Apps with PureScript and React](https://kritzcreek.github.io/tutorial/2015/03/31/apps-with-purescript-and-react-1)
+* [Frontend Functional Programming with PureScript and Elm](http://blog.thomasstreet.com/post/129725260288/frontend-functional-programming-with-purescript)
+* [Writing PureScript Bindings for a jQuery Plugin](https://filib.io/posts/2015-11-06-writing-purescript-bindings-for-a-jquery-plugin.html)
+* [PureScript on Android](http://blog.ndk.io/purescript-on-android.html)
+* [Rendering a Tic-Tac-Toe board with purescript-react](https://kritzcreek.github.io/example/2015/10/03/tic-tac-toe-with-purescript)
+* [Playing Tic-Tac-Toe using purescript-signal](https://kritzcreek.github.io/tutorial/2015/10/07/playing-tic-tac-toe-with-purescript-signal)
+* [Fighting node callback hell with PureScript](https://andreypopp.com/posts/2014-07-21-fighting-node-callbacks-with-purescript.html)
+* [Approximating PI With PureScript](http://sleepomeno.github.io/blog/2015/03/14/Approximating-PI-with-PureScript/)
+* [Learn X in Y minutes - Where X=purescript](https://learnxinyminutes.com/docs/purescript/)
+* [PureScript for the Haskeller Where to get started in PureScript for the Haskell programmer](http://www.arow.info/blog/posts/2015-12-17-purescript-intro.html)
+* [Polyglot Twitter Bot, Part 4: PureScript](http://joelgrus.com/2015/12/31/polyglot-twitter-bot-part-4-purescript/)
+* [WebApps with PureScript and RactiveJS](http://blog.brakmic.com/webapps-with-purescript-and-ractivejs)
+* [Managing Application State with PureScript & Redux](http://blog.brakmic.com/managing-application-state-with-purescript-redux)
+* [PureScript with Leaflet Experiments](http://odoe.net/blog/purescript-with-leaflet-experiments)
+* [Purescript will make you purr like a kitten](http://blog.sigmapoint.pl/purescript-will-make-you-purr-like-a-kitten)
+* [PureScript + React + Electron](http://alexey.raga.name/posts/2015/09/28/purescript-react-electron)
+* [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20(Part%201))
+* [Getting Started with Purescript for Web Development](http://curtis.io/purescript-for-web-development)
 
 ### [Elm](http://elm-lang.org)
 
@@ -212,6 +221,8 @@
 * [Introduction to FRP in Elm](https://www.classes.cs.uchicago.edu/archive/2015/winter/22300-1/lectures/IntroFRP.html)
 * [Tasks and Effects in Elm](http://danielbachler.de/2016/02/19/tasks-and-effects-in-elm.html)
 * [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
+* [Learn X in Y minutes - Where X=Elm](https://learnxinyminutes.com/docs/elm)
+* [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html)
 
 ---
 
@@ -303,6 +314,7 @@
 * [Введение в функциональное программирование на скале](http://www.otstavnov.com/Odersky_Scala_lecture-notes.html)
 * [Monoidal Contravariant Functors and Transducers](https://gist.github.com/DrBoolean/fdef9e08352ac42754f1)
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
+* [Unofficial a documentation of lodash-fp](https://gist.github.com/jfmengels/6b973b69c491375117dc#_castarrayvalue)
 
 ---
 
@@ -365,6 +377,7 @@
 * [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
+* [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 
 ---
 
@@ -548,3 +561,8 @@
 ### [Elixir](https://github.com/elixir-lang/elixir)
 
 ***
+
+### [Erlang](https://www.erlang.org)
+
+***
+* [**lfe** - Lisp Flavoured Erlang (LFE)](https://github.com/rvirding/lfe)
