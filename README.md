@@ -315,6 +315,8 @@
 * [Monoidal Contravariant Functors and Transducers](https://gist.github.com/DrBoolean/fdef9e08352ac42754f1)
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 * [Unofficial a documentation of lodash-fp](https://gist.github.com/jfmengels/6b973b69c491375117dc#_castarrayvalue)
+* [Collection of examples on places where Elm is different to Haskell](https://github.com/eeue56/haskell-to-elm)
+* [Kickstart your web development with Elm](https://github.com/eeue56/elm-for-web-developers)
 
 ---
 
