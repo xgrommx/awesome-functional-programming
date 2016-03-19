@@ -167,6 +167,7 @@
 * [How Do I Learn Functional Programming In Javascript? - Linkpost](http://www.fse.guru/how-do-i-learn-functional-programming-in-javascript-linkpost)
 * [Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c#.bbrftrszz)
 * [Why using `_.chain` is a mistake](https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba#.hq00cmdrw)
+* [Who in Their Right Mind Would Use Monads in Clojure?](http://blog.muhuk.com/2015/10/01/who_in_their_right_mind_would_use_monads_in_clojure.html#.VuvdlJN97PB)
 
 ### [Purescript](http://www.purescript.org)
 
