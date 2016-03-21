@@ -168,6 +168,8 @@
 * [Debugging Functional](https://medium.com/@drboolean/debugging-functional-7deb4688a08c#.bbrftrszz)
 * [Why using `_.chain` is a mistake](https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba#.hq00cmdrw)
 * [Who in Their Right Mind Would Use Monads in Clojure?](http://blog.muhuk.com/2015/10/01/who_in_their_right_mind_would_use_monads_in_clojure.html#.VuvdlJN97PB)
+* [More points for lazy evaluation](http://augustss.blogspot.com/2011/05/more-points-for-lazy-evaluation-in.html)
+* [Trampolines in JavaScript](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -244,11 +246,15 @@
 * [Purescript Pux](http://www.alexmingoia.com/purescript-pux)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Elm by Example - Grzegorz Balcerek](http://elm-by-example.org)
+* [Learn you a Haskell for great good! (A beginner's guide)](http://learnyouahaskell.com/)
+* [Learning Haskell](http://learn.hfm.io/)
 
 ---
 
 ## Resources
 
+* [Visual programming meets Haskell](https://github.com/viskell/viskell)
+* [Luna. Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics](http://www.luna-lang.org/)
 * [A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
 * [Community driven Elm guide for JS people](https://github.com/elm-guides/elm-for-js)
 * [An overview of Elm syntax and features](https://github.com/izdi/elm-cheat-sheet)
