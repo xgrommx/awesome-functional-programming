@@ -170,6 +170,9 @@
 * [Who in Their Right Mind Would Use Monads in Clojure?](http://blog.muhuk.com/2015/10/01/who_in_their_right_mind_would_use_monads_in_clojure.html#.VuvdlJN97PB)
 * [More points for lazy evaluation](http://augustss.blogspot.com/2011/05/more-points-for-lazy-evaluation-in.html)
 * [Trampolines in JavaScript](http://raganwald.com/2013/03/28/trampolines-in-javascript.html)
+* [Where combinator names come from](http://www.johndcook.com/blog/2014/02/06/schonfinkel-combinators/)
+* [Category Theory for Promises/A+](https://brianmckenna.org/blog/category_theory_promisesaplus)
+* [Let’s Make a Monad](https://medium.com/@dtipson/hey-let-s-make-a-monad-e276802fdb0c#.2wbev1dme)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -226,6 +229,7 @@
 * [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
 * [Learn X in Y minutes - Where X=Elm](https://learnxinyminutes.com/docs/elm)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html)
+* [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 
 ---
 
@@ -462,6 +466,7 @@
 * [**fantasydo** - Do-notation for javascript fantasy land](https://github.com/russellmcc/fantasydo)
 * [**linq.ts** - LinQ for TypeScript](https://github.com/kutyel/linq.ts)
 * [**Fluture** - A complete Fantasy Land compatible Future library](https://github.com/Avaq/Fluture)
+* [**1-liners** - Functional tools that couldn’t be simpler](https://github.com/1-liners/1-liners)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -485,6 +490,11 @@
 ***
 * [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats)
 * [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank)
+
+### [ClojureScript](https://github.com/clojure/clojurescript)
+
+***
+* [**re-frame** - A Reagent Framework For Writing SPAs, in Clojurescript](https://github.com/Day8/re-frame)
 
 ### [Scala](https://github.com/scala/scala)
 
