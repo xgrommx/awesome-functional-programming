@@ -461,6 +461,7 @@
 * [**barely-functional** - tiny (2.7kb) functional programming library using native es5/6 operations](https://github.com/cullophid/barely-functional)
 * [**fantasydo** - Do-notation for javascript fantasy land](https://github.com/russellmcc/fantasydo)
 * [**linq.ts** - LinQ for TypeScript](https://github.com/kutyel/linq.ts)
+* [**Fluture** - A complete Fantasy Land compatible Future library](https://github.com/Avaq/Fluture)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
