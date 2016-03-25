@@ -159,6 +159,8 @@
 * [Functional Programming is for Dummies](https://medium.com/@dtipson/functional-programming-is-for-dummies-fa130a629250#.3eb04lfbp)
 * [Functional Programming Principles in Scala](http://vasnake.blogspot.com/2016/03/functional-programming-principles-in.html)
 * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
+* [Functional Programming in JavaScript - The Functional Paradigm in a Familiar Language](https://dzone.com/refcardz/functional-programming-with-javascript)
+* [Using Lodash as a Collection of Micro-Libraries](http://knpw.rs/blog/using-lodash)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -269,6 +271,7 @@
 
 ## Resources
 
+* [Code Samples Functional Programming in JavaScript, Manning 2016](https://github.com/luijar/functional-programming-js)
 * [Visual programming meets Haskell](https://github.com/viskell/viskell)
 * [Luna. Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics](http://www.luna-lang.org/)
 * [A curated list of awesome functional programming stuff in js](https://github.com/stoeffel/awesome-fp-js)
@@ -376,6 +379,7 @@
 * [Remove the Boilerplate](http://slides.com/bahmutov/remove-the-boilerplate#/)
 * [Functional Programming. Patterns in Scala](http://jsuereth.com/intro-to-fp/preso.html)
 * [Map, Flatmap and Reduce are Your New Best Friends: Simpler Collections, Concurrency, and Big Data](http://www.slideshare.net/chris.e.richardson/map-flatmap-and-reduce-are-your-new-best-friends-simpler-collections-concurrency-and-big-data-oscon)
+* [Functional Programming in JavaScript by Luis Atencio](http://www.slideshare.net/LuisAtencio3/functional-programming-in-javascript-by-luis-atencio)
 
 ---
 
@@ -479,6 +483,7 @@
 * [**linq.ts** - LinQ for TypeScript](https://github.com/kutyel/linq.ts)
 * [**Fluture** - A complete Fantasy Land compatible Future library](https://github.com/Avaq/Fluture)
 * [**1-liners** - Functional tools that couldn’t be simpler](https://github.com/1-liners/1-liners)
+* [**immutable-ext** - fantasyland extensions for immutablejs](https://github.com/DrBoolean/immutable-ext)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
