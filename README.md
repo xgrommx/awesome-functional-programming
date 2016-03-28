@@ -488,6 +488,8 @@
 * [**Fluture** - A complete Fantasy Land compatible Future library](https://github.com/Avaq/Fluture)
 * [**1-liners** - Functional tools that couldn’t be simpler](https://github.com/1-liners/1-liners)
 * [**immutable-ext** - fantasyland extensions for immutablejs](https://github.com/DrBoolean/immutable-ext)
+* [**optics** - This library is an implementation of profunctor optics using JS, heavily influenced by the PureScript Profunctor Lenses and Kmett's Lens libraries.](https://github.com/flunc/optics)
+* [**monady** - Composable monads for functional async flow](https://github.com/GeorgeSapkin/monady)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
