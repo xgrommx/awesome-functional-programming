@@ -266,7 +266,8 @@
 * [Elm by Example - Grzegorz Balcerek](http://elm-by-example.org)
 * [Learn you a Haskell for great good! (A beginner's guide)](http://learnyouahaskell.com/)
 * [Learning Haskell](http://learn.hfm.io/)
-
+* [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
+ 
 ---
 
 ## Resources
@@ -380,6 +381,8 @@
 * [Functional Programming. Patterns in Scala](http://jsuereth.com/intro-to-fp/preso.html)
 * [Map, Flatmap and Reduce are Your New Best Friends: Simpler Collections, Concurrency, and Big Data](http://www.slideshare.net/chris.e.richardson/map-flatmap-and-reduce-are-your-new-best-friends-simpler-collections-concurrency-and-big-data-oscon)
 * [Functional Programming in JavaScript by Luis Atencio](http://www.slideshare.net/LuisAtencio3/functional-programming-in-javascript-by-luis-atencio)
+* [CodeMash: Functional Programming Basics in ES6](https://speakerdeck.com/jfairbank/codemash-functional-programming-basics-in-es6)
+* [Fluent Conf: Rise of Async JavaScript ](https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript)
 
 ---
 
@@ -407,6 +410,7 @@
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
 * [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
+* [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
 
 ---
 
