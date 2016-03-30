@@ -490,6 +490,7 @@
 * [**immutable-ext** - fantasyland extensions for immutablejs](https://github.com/DrBoolean/immutable-ext)
 * [**optics** - This library is an implementation of profunctor optics using JS, heavily influenced by the PureScript Profunctor Lenses and Kmett's Lens libraries.](https://github.com/flunc/optics)
 * [**monady** - Composable monads for functional async flow](https://github.com/GeorgeSapkin/monady)
+* [**pure-random** - A purely functional random number generator](https://github.com/Risto-Stevcev/pure-random)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
