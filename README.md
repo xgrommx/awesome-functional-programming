@@ -187,6 +187,7 @@
 * [Who in Their Right Mind Would Use Monads in Clojure?](http://blog.muhuk.com/2015/10/01/who_in_their_right_mind_would_use_monads_in_clojure.html#.VuvdlJN97PB)
 * [Let’s Make a Monad](https://medium.com/@dtipson/hey-let-s-make-a-monad-e276802fdb0c#.2wbev1dme)
 * [Let’s Put jQuery in a Monad](https://medium.com/@dtipson/let-s-make-jquery-a-monad-7df0e79a842d#.bq9lz9fm7)
+* [Monads in C++](http://bartoszmilewski.com/2011/07/11/monads-in-c/)
 
 ### [Purescript](http://www.purescript.org)
 
