@@ -527,6 +527,8 @@
 * [**scalaz** - An extension to the core Scala library for functional programming](https://github.com/scalaz/scalaz)
 * [**cats** - Lightweight, modular, and extensible library for functional programming](https://github.com/non/cats)
 * [**macroid** - A modular functional UI language for Android](https://github.com/macroid/macroid)
+* [**Structures** - Functional type classes for Scala](https://github.com/mpilquist/Structures)
+* [**rillit** - Boilerplate-free Functional Lenses for Scala 2.10](https://github.com/akisaarinen/rillit)
 
 ### [Kotlin](https://github.com/JetBrains/kotlin)
 
@@ -545,6 +547,7 @@
 * [**freya** - Functional-first web stack, including an HTTP finite state machine, built on top of OWIN](https://github.com/freya-fs/freya)
 * [**micron** - A minimalistic pure functional programming language](https://github.com/jonathanvdc/micron)
 * [**Lw** - is a general-purpose statically-typed functional language with advanced features.](https://github.com/alvisespano/Lw)
+* [**Streams** - A lightweight F#/C# library for efficient functional-style pipelines on streams of data](https://github.com/nessos/Streams)
 
 ### [C#](https://github.com/dotnet/roslyn)
 
@@ -564,6 +567,9 @@
 * [**Swiftx** - Functional data types and functions for any project](https://github.com/typelift/Swiftx)
 * [**Concurrent** - Functional Concurrency Primitives](https://github.com/typelift/Concurrent)
 * [**SINQ** - LINQ for Swift - Swift Integrated Query](https://github.com/slazyk/SINQ)
+* [**Argo** - Functional JSON parsing library for Swift](https://github.com/thoughtbot/Argo)
+* [**Interstellar** - Simple and lightweight Functional Reactive Coding in Swift for the rest of us](https://github.com/JensRavens/Interstellar)
+* [**Funky** - Functional programming tools and experiments in Swift](https://github.com/brynbellomy/Funky)
 
 ### [Python](https://www.python.org/)
 
