@@ -161,6 +161,7 @@
 * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/)
 * [Functional Programming in JavaScript - The Functional Paradigm in a Familiar Language](https://dzone.com/refcardz/functional-programming-with-javascript)
 * [Using Lodash as a Collection of Micro-Libraries](http://knpw.rs/blog/using-lodash)
+* [See How Easily You Can Create a Promise](https://o2js.com/see-how-easily-you-can-create-a-promise)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -188,6 +189,17 @@
 * [Let’s Make a Monad](https://medium.com/@dtipson/hey-let-s-make-a-monad-e276802fdb0c#.2wbev1dme)
 * [Let’s Put jQuery in a Monad](https://medium.com/@dtipson/let-s-make-jquery-a-monad-7df0e79a842d#.bq9lz9fm7)
 * [Monads in C++](http://bartoszmilewski.com/2011/07/11/monads-in-c/)
+* [Monads in plain JavaScript](http://modernjavascript.blogspot.com/2013/06/monads-in-plain-javascript.html)
+* [Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either)
+* [Monads, promises, arrays in Javascript](http://pseudocorta.blogspot.com/2014/05/monads-promises-arrays-in-javascript.html)
+* [Monad syntax for JavaScript](https://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript)
+* [Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read)
+* [Monads](http://functionaljavascript.blogspot.com/2013/07/monads.html)
+* [A Gentle Intro to Monads … Maybe?](http://sean.voisen.org/blog/2013/10/intro-monads-maybe)
+* [Monads: Your App as a Function, Part 1](https://mttkay.github.io/blog/2014/01/25/your-app-as-a-function/)
+* [Monads: Your App as a Function, Part 2](https://mttkay.github.io/blog/2014/01/25/monads-your-app-as-a-function-part-2/)
+* [Monads - function composition on steroids](http://pkaczor.blogspot.com/2013/09/monads-function-composition-on-steroids.html)
+* [Rx for Haskell - My First Monad](http://haskellrescue.blogspot.com/2011/06/rx-for-haskell-my-first-monad.html)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -350,6 +362,7 @@
 
 ## Presentations
 
+* [Awesomely descriptive JavaScript with monads](https://docs.google.com/presentation/d/12GpX3AXTS6uJHqRK_Q3RgkIg9ZTr4r37N0MTkk0CL14/edit#slide=id.p)
 * [Functional Programming from Brian Lonsdorf (awesome presentation)](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
 * [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
 * [Domain Modeling in a Functional World](http://www.slideshare.net/debasishg/qconny-12)
