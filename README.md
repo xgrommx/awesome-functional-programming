@@ -528,6 +528,7 @@
 ***
 * [**cats** - Category Theory and Algebraic abstractions for Clojure and ClojureScript](https://github.com/funcool/cats)
 * [**jank** - A statically typed functional programming language](https://github.com/jeaye/jank)
+* [**lux** - The Lux Programming Language](https://github.com/LuxLang/lux)
 
 ### [ClojureScript](https://github.com/clojure/clojurescript)
 
