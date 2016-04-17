@@ -162,6 +162,16 @@
 * [Functional Programming in JavaScript - The Functional Paradigm in a Familiar Language](https://dzone.com/refcardz/functional-programming-with-javascript)
 * [Using Lodash as a Collection of Micro-Libraries](http://knpw.rs/blog/using-lodash)
 * [See How Easily You Can Create a Promise](https://o2js.com/see-how-easily-you-can-create-a-promise)
+* [Achieving point-free JavaScript with R.converge / _.over](https://medium.com/@nicoespeon/achieving-point-free-javascript-with-r-converge-overargs-94060fd0ed7a#.xi63eq605)
+* [Introduction to Functional JavaScript](https://medium.com/functional-javascript/introduction-to-functional-javascript-45a9dca6c64a#.pofkvcd7z)
+* [Functions](https://medium.com/functional-javascript/functions-61b9096b5638#.6ntr05g4z)
+* [Higher Order Functions](https://medium.com/functional-javascript/higher-order-functions-78084829fff4#.inii2wlzh)
+* [Recursion](https://medium.com/functional-javascript/recursion-282a6abbf3c5#.4x0h9awy7)
+* [3. More Functional Swift](https://medium.com/swift-programming/3-more-functional-swift-4bb7256c087d#.odesvmw2c)
+* [2. Functional Swift](https://medium.com/swift-programming/2-functional-swift-c98be9533183#.ze1gph6zi)
+* [Swift closures and functions](http://fuckingswiftblocksyntax.com/)
+* [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
+* [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -306,6 +316,7 @@
 * [http://www.luisatencio.net](http://www.luisatencio.net)
 * [http://bartoszmilewski.com](http://bartoszmilewski.com)
 * [http://rebcabin.github.io](http://rebcabin.github.io)
+* [http://blog.jakubarnold.cz](http://blog.jakubarnold.cz/)
 * [https://juxt.pro/radar.html - The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [http://clojurewerkz.org - A growing collection of open source Clojure libraries](http://clojurewerkz.org)
 * [http://www.parsonsmatt.org - Elm, Haskell, Purescript](http://www.parsonsmatt.org)
@@ -357,6 +368,7 @@
 * [Unofficial a documentation of lodash-fp](https://gist.github.com/jfmengels/6b973b69c491375117dc#_castarrayvalue)
 * [Collection of examples on places where Elm is different to Haskell](https://github.com/eeue56/haskell-to-elm)
 * [Kickstart your web development with Elm](https://github.com/eeue56/elm-for-web-developers)
+* [Explorations in Functional Land](https://github.com/svenschmidt75/Functional)
 
 ---
 
@@ -505,6 +517,9 @@
 * [**optics** - This library is an implementation of profunctor optics using JS, heavily influenced by the PureScript Profunctor Lenses and Kmett's Lens libraries.](https://github.com/flunc/optics)
 * [**monady** - Composable monads for functional async flow](https://github.com/GeorgeSapkin/monady)
 * [**pure-random** - A purely functional random number generator](https://github.com/Risto-Stevcev/pure-random)
+* [**kewler** - Simple functional and immutable color manipulation library](https://github.com/adriantoine/kewler)
+* [**static-land** - Specification for common algebraic types in JavaScript based on Fantasy Land](https://github.com/rpominov/static-land)
+* [**Idealist** - Functional HTTP micro-framework](https://github.com/Avaq/Idealist)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -562,6 +577,7 @@
 * [**micron** - A minimalistic pure functional programming language](https://github.com/jonathanvdc/micron)
 * [**Lw** - is a general-purpose statically-typed functional language with advanced features.](https://github.com/alvisespano/Lw)
 * [**Streams** - A lightweight F#/C# library for efficient functional-style pipelines on streams of data](https://github.com/nessos/Streams)
+* [**Fable** - F# to JavaScript Compiler](https://github.com/fsprojects/Fable)
 
 ### [C#](https://github.com/dotnet/roslyn)
 
@@ -631,3 +647,8 @@
 
 ***
 * [**lfe** - Lisp Flavoured Erlang (LFE)](https://github.com/rvirding/lfe)
+
+### [OCaml]()
+
+***
+* [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript)
