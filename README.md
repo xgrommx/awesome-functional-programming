@@ -172,6 +172,8 @@
 * [Swift closures and functions](http://fuckingswiftblocksyntax.com/)
 * [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
+* [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
+* [Javascript generators and functional reactive programming](http://sitr.us/2014/08/02/javascript-generators-and-functional-reactive-programming.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -210,6 +212,8 @@
 * [Monads: Your App as a Function, Part 2](https://mttkay.github.io/blog/2014/01/25/monads-your-app-as-a-function-part-2/)
 * [Monads - function composition on steroids](http://pkaczor.blogspot.com/2013/09/monads-function-composition-on-steroids.html)
 * [Rx for Haskell - My First Monad](http://haskellrescue.blogspot.com/2011/06/rx-for-haskell-my-first-monad.html)
+* [Monads for Dummies](http://jabberwocky.eu/2012/11/02/monads-for-dummies/)
+* [Week 3 - Introduction to Monads in JavaScript](http://www.aaronhsmith.com/2015/09/08/introduction-monads-javascript/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -295,6 +299,9 @@
 
 ## Resources
 
+* [An es6 js maybe monad, using generators](https://gist.github.com/torgeir/7618372)
+* [Trying to apply ES6 generators to create monad comprehensions. Unfortunately it looks like this will not work with monads that contain multiple values, such as arrays](https://gist.github.com/hallettj/9827604)
+* [Free monad based thread simulation and FRP constructs written in JavaScript](https://gist.github.com/jkpl/9ef31e82dea59be2be7f)
 * [Code Samples Functional Programming in JavaScript, Manning 2016](https://github.com/luijar/functional-programming-js)
 * [Visual programming meets Haskell](https://github.com/viskell/viskell)
 * [Luna. Visual and textual functional programming language with a focus on productivity, collaboration and development ergonomics](http://www.luna-lang.org/)
