@@ -379,7 +379,6 @@
 * [Kickstart your web development with Elm](https://github.com/eeue56/elm-for-web-developers)
 * [Explorations in Functional Land](https://github.com/svenschmidt75/Functional)
 * [Coeffects: Context-aware programming languages](http://tomasp.net/coeffects/)
-* [Lambda Calculus](http://softoption.us/content/node/30)
 
 ---
 
@@ -397,6 +396,15 @@
 * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
 * [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
+* [Combinatory Logic](http://plato.stanford.edu/entries/logic-combinatory/)
+* [Combinatory Logic: Finding and Evaluating Combinators](https://www.npmjs.com/package/combilog)
+* [Maths - Combinatory Logic](http://www.euclideanspace.com/maths/discrete/logic/combinatory/index.htm)
+* [Lambda Calculus](http://softoption.us/content/node/30)
+* [From Lambda calculus to Combinator Calculus](http://goodmath.blogspot.com/2006/05/from-lambda-calculus-to-combinator.html)
+* [The SKI Combinator Calculus a universal formal system](http://people.cs.uchicago.edu/~odonnell/Teacher/Lectures/Formal_Organization_of_Knowledge/Examples/combinator_calculus/)
+* [Lambda Calculus](http://dev.stephendiehl.com/fun/lambda_calculus.html)
+* [Combinatory logic](https://esolangs.org/wiki/Combinatory_logic)
+* [The Y Combinator (no, not that one). A crash-course on lambda calculus](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.eigwi23hd)
 
 ---
 
@@ -467,6 +475,7 @@
 * [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
 * [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
+* [SKI School: The Combinator Calculus Demystified](https://www.youtube.com/watch?v=FC6kl_kLFEo)
 
 ---
 
