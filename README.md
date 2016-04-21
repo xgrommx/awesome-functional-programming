@@ -215,6 +215,7 @@
 * [Rx for Haskell - My First Monad](http://haskellrescue.blogspot.com/2011/06/rx-for-haskell-my-first-monad.html)
 * [Monads for Dummies](http://jabberwocky.eu/2012/11/02/monads-for-dummies/)
 * [Week 3 - Introduction to Monads in JavaScript](http://www.aaronhsmith.com/2015/09/08/introduction-monads-javascript/)
+* [Монады в Javascript](http://kolesnichenkods.github.io/2015/08/01/%D0%9C%D0%BE%D0%BD%D0%B0%D0%B4%D1%8B-%D0%B2-JavaScript/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -299,7 +300,7 @@
 ---
 
 ## Resources
-
+* [http://fprog.ru](http://fprog.ru/)
 * [Scala Tour](http://www.scala-tour.com/#/welcome)
 * [An es6 js maybe monad, using generators](https://gist.github.com/torgeir/7618372)
 * [Trying to apply ES6 generators to create monad comprehensions. Unfortunately it looks like this will not work with monads that contain multiple values, such as arrays](https://gist.github.com/hallettj/9827604)
@@ -334,7 +335,6 @@
 * [functional-javascript-workshop - a functional javascript workshop. No libraries required (i.e. no underscore), just ES5](https://github.com/timoxley/functional-javascript-workshop)
 * [gist of functional utils which written on ES6](https://gist.github.com/bendc/9b05735dfa6966859025)
 * [Answers to the exercises from https://github.com/MostlyAdequate/mostly-adequate-guide](https://github.com/gypsydave5/mostly-adequate-functional-answers)
-* [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
 * [Introduction to Functional Programming (course from edx.org)](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [functional-programming-jargon - Jargon from the functional programming world in simple terms](https://github.com/hemanth/functional-programming-jargon)
 * [Category theory jargon cheat sheet](https://gist.github.com/cb372/b1bad150e0c412fb7364)
@@ -378,6 +378,25 @@
 * [Collection of examples on places where Elm is different to Haskell](https://github.com/eeue56/haskell-to-elm)
 * [Kickstart your web development with Elm](https://github.com/eeue56/elm-for-web-developers)
 * [Explorations in Functional Land](https://github.com/svenschmidt75/Functional)
+* [Coeffects: Context-aware programming languages](http://tomasp.net/coeffects/)
+* [Lambda Calculus](http://softoption.us/content/node/30)
+
+---
+
+### Combinators
+
+* [To Dissect a Mockingbird: A Graphical Notation for the Lambda Calculus with Animated Reduction](http://dkeenan.com/Lambda/index.htm)
+* [Combinator Birds](http://www.angelfire.com/tx4/cus/combinator/birds.html)
+* [Deriving the Y Combinator in 7 Easy Steps](http://igstan.ro/posts/2010-12-01-deriving-the-y-combinator-in-7-easy-steps.html)
+* [B, C, K, W system](https://en.wikipedia.org/wiki/B,_C,_K,_W_system)
+* [Комбинаторы — это просто!](https://ru.wikibooks.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%E2%80%94_%D1%8D%D1%82%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE!)
+* [Комбинаторная логика как формальная система](http://www.ict.edu.ru/ft/005135/ch5.pdf)
+* [combinators-js](https://www.npmjs.com/package/combinators-js)
+* [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
+* [Combinators](https://gist.github.com/Avaq/1f0636ec5c8d6aed2e45)
+* [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
+* [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+* [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
 
 ---
 
@@ -418,6 +437,7 @@
 * [Functional Programming in JavaScript by Luis Atencio](http://www.slideshare.net/LuisAtencio3/functional-programming-in-javascript-by-luis-atencio)
 * [CodeMash: Functional Programming Basics in ES6](https://speakerdeck.com/jfairbank/codemash-functional-programming-basics-in-es6)
 * [Fluent Conf: Rise of Async JavaScript ](https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript)
+* [Монады для барабанщиков](http://www.slideshare.net/cblpsu/ss-60053562)
 
 ---
 
