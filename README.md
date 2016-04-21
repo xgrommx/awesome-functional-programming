@@ -173,7 +173,8 @@
 * [Debouncing and Throttling Explained Through Examples](https://css-tricks.com/debouncing-throttling-explained-examples/)
 * [Foldable and Traversable](http://blog.jakubarnold.cz/2014/07/30/foldable-and-traversable.html)
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
-* [Javascript generators and functional reactive programming](http://sitr.us/2014/08/02/javascript-generators-and-functional-reactive-programming.html)
+* [Javascript generators and functional reactive programming](http://sitr.us/2014/08/02/javascript-generators-and-functional-reactive-programming.html)\
+* [No promises: asynchronous JavaScript with only generators](http://www.2ality.com/2015/03/no-promises.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -299,6 +300,7 @@
 
 ## Resources
 
+* [Scala Tour](http://www.scala-tour.com/#/welcome)
 * [An es6 js maybe monad, using generators](https://gist.github.com/torgeir/7618372)
 * [Trying to apply ES6 generators to create monad comprehensions. Unfortunately it looks like this will not work with monads that contain multiple values, such as arrays](https://gist.github.com/hallettj/9827604)
 * [Free monad based thread simulation and FRP constructs written in JavaScript](https://gist.github.com/jkpl/9ef31e82dea59be2be7f)
@@ -437,14 +439,14 @@
 * [Monad a day 3: State](https://vimeo.com/109984691)
 * [Lenses Quick n’ Dirty](https://vimeo.com/104807358)
 * [Frontend Masters Workshop finish up](https://vimeo.com/97575933)
-* [A Million Ways to Fold in JS](http://forwardjs.com/university/a-million-ways-to-fold-in-js)
+* [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
 * [Coyoneda in Javascript](https://www.youtube.com/watch?v=WH5BrkzGgQY)
 * [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
 * [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
-
+* [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
 ---
 
 ## Libraries
@@ -527,6 +529,8 @@
 * [**kewler** - Simple functional and immutable color manipulation library](https://github.com/adriantoine/kewler)
 * [**static-land** - Specification for common algebraic types in JavaScript based on Fantasy Land](https://github.com/rpominov/static-land)
 * [**Idealist** - Functional HTTP micro-framework](https://github.com/Avaq/Idealist)
+* [**cali** - A JavaScript utility library with a functional programming flavor](https://github.com/jedirandy/cali)
+* [**union-type** - A small JavaScript library for defining and using union types](https://github.com/paldepind/union-type)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
