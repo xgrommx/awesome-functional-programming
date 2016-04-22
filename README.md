@@ -175,6 +175,8 @@
 * [How do Promises Work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Javascript generators and functional reactive programming](http://sitr.us/2014/08/02/javascript-generators-and-functional-reactive-programming.html)\
 * [No promises: asynchronous JavaScript with only generators](http://www.2ality.com/2015/03/no-promises.html)
+* [Functional Mixins in ECMAScript 2015](http://raganwald.com/2015/06/17/functional-mixins.html)
+* [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -379,6 +381,8 @@
 * [Kickstart your web development with Elm](https://github.com/eeue56/elm-for-web-developers)
 * [Explorations in Functional Land](https://github.com/svenschmidt75/Functional)
 * [Coeffects: Context-aware programming languages](http://tomasp.net/coeffects/)
+* [Formalization of the Dependent Object Types (DOT) calculus](https://github.com/samuelgruetter/dot-calculus)
+* [Dependent Object Types (DOT)](https://github.com/namin/dot)
 
 ---
 
@@ -405,6 +409,8 @@
 * [Lambda Calculus](http://dev.stephendiehl.com/fun/lambda_calculus.html)
 * [Combinatory logic](https://esolangs.org/wiki/Combinatory_logic)
 * [The Y Combinator (no, not that one). A crash-course on lambda calculus](https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46#.eigwi23hd)
+* [The Quantum Electrodynamics of Functional JavaScript](http://raganwald.com/2015/02/13/functional-quantum-electrodynamics.html)
+* [Applicative Functor / SKI combinator calculus](https://gist.github.com/tinybyte/3302086)
 
 ---
 
