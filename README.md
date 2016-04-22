@@ -177,6 +177,7 @@
 * [No promises: asynchronous JavaScript with only generators](http://www.2ality.com/2015/03/no-promises.html)
 * [Functional Mixins in ECMAScript 2015](http://raganwald.com/2015/06/17/functional-mixins.html)
 * [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
+* [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -685,6 +686,7 @@
 
 ***
 * [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
+* [**reflex** - Practical Functional Reactive Programming](https://github.com/reflex-frp/reflex)
 
 ### [Elixir](https://github.com/elixir-lang/elixir)
 
