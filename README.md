@@ -178,6 +178,7 @@
 * [Functional Mixins in ECMAScript 2015](http://raganwald.com/2015/06/17/functional-mixins.html)
 * [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
 * [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
+* [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.teglaxq5d)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -193,7 +194,7 @@
 * [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 * [Mindfuck: The Reverse State Monad](https://lukepalmer.wordpress.com/2008/08/10/mindfuck-the-reverse-state-monad)
-* [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html)
+* [Comonads, Monoids and Trees](http://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) (awesome article)
 * [The Delimited Continuation Monad in Javascript](http://blog.mattbierner.com/the-delimited-continuation-monad-in-javascript)
 * [Free Monads Are Simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html)
 * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
@@ -219,6 +220,8 @@
 * [Monads for Dummies](http://jabberwocky.eu/2012/11/02/monads-for-dummies/)
 * [Week 3 - Introduction to Monads in JavaScript](http://www.aaronhsmith.com/2015/09/08/introduction-monads-javascript/)
 * [Монады в Javascript](http://kolesnichenkods.github.io/2015/08/01/%D0%9C%D0%BE%D0%BD%D0%B0%D0%B4%D1%8B-%D0%B2-JavaScript/)
+* [Аналоги монад Haskell](http://www.linux.org.ru/forum/development/7730147)
+* [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -303,6 +306,8 @@
 ---
 
 ## Resources
+* [Javascript Monad Transformers](http://akh-js.com/)
+* [Functor](https://en.wikipedia.org/wiki/Functor)
 * [http://fprog.ru](http://fprog.ru/)
 * [Scala Tour](http://www.scala-tour.com/#/welcome)
 * [An es6 js maybe monad, using generators](https://gist.github.com/torgeir/7618372)
@@ -384,6 +389,7 @@
 * [Coeffects: Context-aware programming languages](http://tomasp.net/coeffects/)
 * [Formalization of the Dependent Object Types (DOT) calculus](https://github.com/samuelgruetter/dot-calculus)
 * [Dependent Object Types (DOT)](https://github.com/namin/dot)
+* [Neon - Experimental PureScript standard library](https://gist.github.com/tfausak/96411fd7400aa06478675c7e6c75ebd4)
 
 ---
 
@@ -453,6 +459,7 @@
 * [CodeMash: Functional Programming Basics in ES6](https://speakerdeck.com/jfairbank/codemash-functional-programming-basics-in-es6)
 * [Fluent Conf: Rise of Async JavaScript ](https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript)
 * [Монады для барабанщиков](http://www.slideshare.net/cblpsu/ss-60053562)
+* [Building Functional Islands by Mark Jones](https://speakerdeck.com/thisismarkup/building-functional-islands)
 
 ---
 
@@ -483,6 +490,8 @@
 * [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
 * [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
 * [SKI School: The Combinator Calculus Demystified](https://www.youtube.com/watch?v=FC6kl_kLFEo)
+* [Erik Meijer - Functional Programming From First Principles](https://www.youtube.com/watch?v=mhKl7Ppp_ao)
+* [Russian videos about clojure and clojurescript](https://www.youtube.com/watch?v=jguG9rwa6oo&list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
 
 ---
 
@@ -568,6 +577,9 @@
 * [**Idealist** - Functional HTTP micro-framework](https://github.com/Avaq/Idealist)
 * [**cali** - A JavaScript utility library with a functional programming flavor](https://github.com/jedirandy/cali)
 * [**union-type** - A small JavaScript library for defining and using union types](https://github.com/paldepind/union-type)
+* [**fantasy-frees** - Free monads](https://github.com/fantasyland/fantasy-frees)
+* [**ramda-fantasy** - Fantasy-Land compatible types for easy integration with Ramda.js](https://github.com/ramda/ramda-fantasy)
+* [**fantasy-derivations** - Use methods on ADTs whether or not they're defined](https://github.com/rjmk/fantasy-derivations)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -701,3 +713,5 @@
 
 ***
 * [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript)
+
+### [Racket lang](https://racket-lang.org/)
