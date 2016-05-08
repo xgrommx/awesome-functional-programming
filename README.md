@@ -302,10 +302,13 @@
 * [Learn you a Haskell for great good! (A beginner's guide)](http://learnyouahaskell.com/)
 * [Learning Haskell](http://learn.hfm.io/)
 * [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
+* [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
  
 ---
 
 ## Resources
+
+* [Philip Wadler's home page](http://homepages.inf.ed.ac.uk/wadler/)
 * [Javascript Monad Transformers](http://akh-js.com/)
 * [Functor](https://en.wikipedia.org/wiki/Functor)
 * [http://fprog.ru](http://fprog.ru/)
@@ -492,6 +495,8 @@
 * [SKI School: The Combinator Calculus Demystified](https://www.youtube.com/watch?v=FC6kl_kLFEo)
 * [Erik Meijer - Functional Programming From First Principles](https://www.youtube.com/watch?v=mhKl7Ppp_ao)
 * [Russian videos about clojure and clojurescript](https://www.youtube.com/watch?v=jguG9rwa6oo&list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
+* [Parallel and Concurrent Haskell](https://www.youtube.com/watch?v=N6sOMGYsvFA&list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
+* [Functional programming patterns for the non-mathematician (cut)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
 
 ---
 
@@ -580,6 +585,8 @@
 * [**fantasy-frees** - Free monads](https://github.com/fantasyland/fantasy-frees)
 * [**ramda-fantasy** - Fantasy-Land compatible types for easy integration with Ramda.js](https://github.com/ramda/ramda-fantasy)
 * [**fantasy-derivations** - Use methods on ADTs whether or not they're defined](https://github.com/rjmk/fantasy-derivations)
+* [**fantasy-do** - Do notation for javascript](https://github.com/jwoudenberg/fantasy-do)
+* [**future-io** - A fantasy-land compliant monadic IO library for Node.js.](https://github.com/futurize/future-io)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -650,6 +657,7 @@
 ### [Swift](https://developer.apple.com/swift)
 
 ***
+* [**Swift for Windows** - is a free, open source tool that provide runtime environment for swift programming language to compile and run on Windows OS with graphical interface](https://swiftforwindows.codeplex.com/)
 * [**Dollar.swift** - A functional tool-belt for Swift Language similar to Lo-Dash or Underscore.js in Javascript](http://www.dollarswift.org)
 * [**Swiftz** - Functional programming in Swift](https://github.com/typelift/Swiftz)
 * [**LlamaKit** - Collection of must-have functional Swift tools](https://github.com/LlamaKit/LlamaKit)
