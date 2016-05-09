@@ -587,6 +587,7 @@
 * [**fantasy-derivations** - Use methods on ADTs whether or not they're defined](https://github.com/rjmk/fantasy-derivations)
 * [**fantasy-do** - Do notation for javascript](https://github.com/jwoudenberg/fantasy-do)
 * [**future-io** - A fantasy-land compliant monadic IO library for Node.js.](https://github.com/futurize/future-io)
+* [**List-in-JS** - List in JS provides List like List of Haskell. List in JS implements Fantasy Land Specification. List is a Setoid, a Semigroup, a Monoid, a Functor, an Applicative Functor, Foldable, Traversable, a Chain and a Monad](https://github.com/PandaNoir/List-in-JS/)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -653,6 +654,7 @@
 * [**functional.net** - Library of functions and list extensions for C#](https://github.com/jallen720/functional.net)
 * [**FuncSharp** - Functional programming in C#](https://github.com/siroky/FuncSharp)
 * [**monadsharp** - A collection of monads for C# that provide some functional programming flavor](https://github.com/kallanreed/monadsharp)
+* [**csharp-probability-monad** - A probabilistic programming framework for C#](https://github.com/joashc/csharp-probability-monad)
 
 ### [Swift](https://developer.apple.com/swift)
 
