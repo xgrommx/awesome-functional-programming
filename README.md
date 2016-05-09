@@ -179,6 +179,7 @@
 * [CSP and transducers in JavaScript](http://phuu.net/2014/08/31/csp-and-transducers.html)
 * [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
 * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.teglaxq5d)
+* [The allure of Scala.js](http://blog.ramnivas.com/technology/2016/02/09/the-allure-of-scalajs.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
