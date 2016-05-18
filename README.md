@@ -180,6 +180,10 @@
 * [ES6 generators in depth](http://www.2ality.com/2015/03/es6-generators.html)
 * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504#.teglaxq5d)
 * [The allure of Scala.js](http://blog.ramnivas.com/technology/2016/02/09/the-allure-of-scalajs.html)
+* [Swift Guide to Map Filter Reduce](http://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/)
+* [6 Reasons Why You Should Write Functional Code](http://funkyjavascript.com/6-reasons-why-you-should-write-functional-code/)
+* [The Perfect API](http://james-forbes.com/?/posts/the-perfect-api)
+* [(Basic) Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -223,6 +227,7 @@
 * [Монады в Javascript](http://kolesnichenkods.github.io/2015/08/01/%D0%9C%D0%BE%D0%BD%D0%B0%D0%B4%D1%8B-%D0%B2-JavaScript/)
 * [Аналоги монад Haskell](http://www.linux.org.ru/forum/development/7730147)
 * [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
+* [what does “lifting” mean?](http://cstheory.stackexchange.com/questions/14125/what-does-lifting-mean/14126#14126)
 
 ### [Purescript](http://www.purescript.org)
 
