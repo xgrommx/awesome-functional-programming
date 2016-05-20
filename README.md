@@ -218,8 +218,6 @@
 * [Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read)
 * [Monads](http://functionaljavascript.blogspot.com/2013/07/monads.html)
 * [A Gentle Intro to Monads … Maybe?](http://sean.voisen.org/blog/2013/10/intro-monads-maybe)
-* [Monads: Your App as a Function, Part 1](https://mttkay.github.io/blog/2014/01/25/your-app-as-a-function/)
-* [Monads: Your App as a Function, Part 2](https://mttkay.github.io/blog/2014/01/25/monads-your-app-as-a-function-part-2/)
 * [Monads - function composition on steroids](http://pkaczor.blogspot.com/2013/09/monads-function-composition-on-steroids.html)
 * [Rx for Haskell - My First Monad](http://haskellrescue.blogspot.com/2011/06/rx-for-haskell-my-first-monad.html)
 * [Monads for Dummies](http://jabberwocky.eu/2012/11/02/monads-for-dummies/)
@@ -284,7 +282,6 @@
 * [Elm Native UI: Writing a React Native app in Elm](http://ohanhi.github.io/elm-native-ui.html)
 * [Learn X in Y minutes - Where X=Elm](https://learnxinyminutes.com/docs/elm)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html)
-* [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 
 ---
 
@@ -479,7 +476,6 @@
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
 * [Functional Programming with Kotlin](https://www.youtube.com/watch?v=AhA-Q7MOre0&list=WL&index=63)
 * [Category theory for JavaScript programmers](https://www.youtube.com/playlist?list=PLwuUlC2HlHGe7vmItFmrdBLn6p0AS8ALX)
-* [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * ["Everything Old is New Again: Quoted Domain Specific Languages" by Philip Wadler](https://www.youtube.com/watch?v=DlBwJ4rvz5c)
 * [Classroom Coding with Prof. Frisby](https://www.youtube.com/watch?v=h_tkIpwbsxY&list=PLK_hdtAJ4KqX0JOs_KMAmUNTNMRYhWEaC)
 * [FP-Syd - PureScript: An Overview for Haskellers by Tim Docker (Jul 2015)](https://www.youtube.com/watch?v=udg01o2M4iY)
