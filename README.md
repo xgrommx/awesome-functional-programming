@@ -308,6 +308,7 @@
 * [Learning Haskell](http://learn.hfm.io/)
 * [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
+* [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
  
 ---
 
