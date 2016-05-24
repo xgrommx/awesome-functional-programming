@@ -285,6 +285,7 @@
 * [Learn X in Y minutes - Where X=Elm](https://learnxinyminutes.com/docs/elm)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html)
 * [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
+* [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
 
 ---
 
@@ -399,6 +400,7 @@
 * [Formalization of the Dependent Object Types (DOT) calculus](https://github.com/samuelgruetter/dot-calculus)
 * [Dependent Object Types (DOT)](https://github.com/namin/dot)
 * [Neon - Experimental PureScript standard library](https://gist.github.com/tfausak/96411fd7400aa06478675c7e6c75ebd4)
+* [JS-monads-stable](https://github.com/dschalk/JS-monads-stable)
 
 ---
 
@@ -594,6 +596,10 @@
 * [**fantasy-do** - Do notation for javascript](https://github.com/jwoudenberg/fantasy-do)
 * [**future-io** - A fantasy-land compliant monadic IO library for Node.js.](https://github.com/futurize/future-io)
 * [**List-in-JS** - List in JS provides List like List of Haskell. List in JS implements Fantasy Land Specification. List is a Setoid, a Semigroup, a Monoid, a Functor, an Applicative Functor, Foldable, Traversable, a Chain and a Monad](https://github.com/PandaNoir/List-in-JS/)
+* [**doM.js** - "do" monad syntax for JavaScript](https://github.com/elclanrs/doM.js)
+* [**do-notation** - Do notation for Fantasy Land monad types](https://github.com/Risto-Stevcev/do-notation)
+* [**burrido** - Do-notation for JavaScript](https://github.com/pelotom/burrido)
+* [**monadic** - Do-notation and Monads for JavaScript](https://github.com/five-eleven/monadic)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
