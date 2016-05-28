@@ -400,6 +400,7 @@
 * [Dependent Object Types (DOT)](https://github.com/namin/dot)
 * [Neon - Experimental PureScript standard library](https://gist.github.com/tfausak/96411fd7400aa06478675c7e6c75ebd4)
 * [JS-monads-stable](https://github.com/dschalk/JS-monads-stable)
+* [Pragmatic functional programming in JavaScript - Workshop material](https://github.com/staltz/fp-js-workshop)
 
 ---
 
@@ -503,6 +504,9 @@
 * [Russian videos about clojure and clojurescript](https://www.youtube.com/watch?v=jguG9rwa6oo&list=PLHOTezm7WWkmk_NxC51xwnC2YsAut_5vX)
 * [Parallel and Concurrent Haskell](https://www.youtube.com/watch?v=N6sOMGYsvFA&list=PLbgaMIhjbmEm_51-HWv9BQUXcmHYtl4sw)
 * [Functional programming patterns for the non-mathematician (cut)](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+* [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
+* [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
+* [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
 
 ---
 
@@ -598,6 +602,9 @@
 * [**do-notation** - Do notation for Fantasy Land monad types](https://github.com/Risto-Stevcev/do-notation)
 * [**burrido** - Do-notation for JavaScript](https://github.com/pelotom/burrido)
 * [**monadic** - Do-notation and Monads for JavaScript](https://github.com/five-eleven/monadic)
+* [**async-ls** - Higher order functions, compositions and common operations for asynchronous programming in LiveScript](https://github.com/homam/async-ls)
+* [**florida** - Pure functional accessor factories in js](https://github.com/Hypercubed/florida)
+* [**mandolin** - Painlessly enhance your JavaScript with monadic types](https://github.com/bioball/mandolin)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
