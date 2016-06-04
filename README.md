@@ -184,6 +184,8 @@
 * [6 Reasons Why You Should Write Functional Code](http://funkyjavascript.com/6-reasons-why-you-should-write-functional-code/)
 * [The Perfect API](http://james-forbes.com/?/posts/the-perfect-api)
 * [(Basic) Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)
+* [Divide and Conquer with Algebraic Structures](https://medium.com/@drboolean/divide-and-conquer-with-algebraic-structures-14070106fb4#.ae1a9xf08)
+* [Async and await](https://zeit.co/blog/async-and-await)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -507,6 +509,7 @@
 * [Brian Beckman: Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8)
 * [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
+* [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8)
 
 ---
 
