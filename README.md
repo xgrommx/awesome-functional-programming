@@ -186,6 +186,9 @@
 * [(Basic) Lazy Evaluation and Memoization in JavaScript](http://blog.gypsydave5.com/2015/03/21/lazy-eval-and-memo/)
 * [Divide and Conquer with Algebraic Structures](https://medium.com/@drboolean/divide-and-conquer-with-algebraic-structures-14070106fb4#.ae1a9xf08)
 * [Async and await](https://zeit.co/blog/async-and-await)
+* [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
+* [Proofs of functor laws in Haskell](http://ssomayyajula.github.io/posts/2015-11-07-proofs-of-functor-laws-with-Haskell.html)
+* [The functor design pattern](http://www.haskellforall.com/2012/09/the-functor-design-pattern.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
