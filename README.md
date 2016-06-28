@@ -189,6 +189,11 @@
 * [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 * [Proofs of functor laws in Haskell](http://ssomayyajula.github.io/posts/2015-11-07-proofs-of-functor-laws-with-Haskell.html)
 * [The functor design pattern](http://www.haskellforall.com/2012/09/the-functor-design-pattern.html)
+* [A 𝝺-CALCULUS INTERPRETER - in less than 200 lines of JavaScript](http://tadeuzagallo.com/blog/writing-a-lambda-calculus-interpreter-in-javascript/)
+* [Tree traversal in CoffeeScript](https://alisdair.mcdiarmid.org/tree-traversal-in-coffeescript/)
+* [Monoidal Contravariant Functors are actually useful!](https://medium.com/@drboolean/monoidal-contravariant-functors-are-actually-useful-1032211045c4#.pmf31o9gd)
+* [Infinite collections with ES6 generators](https://advancedweb.hu/2016/05/31/infinite-collections-with-es6-generators/)
+* [Improving your functional CoffeeScript and JavaScript](https://www.jayway.com/2013/12/22/improving-your-functional-coffeescript-and-javascript/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -231,6 +236,8 @@
 * [Аналоги монад Haskell](http://www.linux.org.ru/forum/development/7730147)
 * [Functors, Applicatives, and Monads in Plain English](http://www.russbishop.net/monoids-monads-and-functors)
 * [what does “lifting” mean?](http://cstheory.stackexchange.com/questions/14125/what-does-lifting-mean/14126#14126)
+* [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
+* [Akh - Monad Transformers for Javascript](http://blog.mattbierner.com/akh-monad-transformers-for-javascript/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -319,6 +326,10 @@
 
 ## Resources
 
+* [https://rosettacode.org/wiki/Category:Haskell](https://rosettacode.org/wiki/Category:Haskell)
+* [Corecursion](https://en.wikipedia.org/wiki/Corecursion)
+* [Pointfree.io - convert Haskell code into pointfree Haskell code](http://pointfree.io/)
+* [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 * [Philip Wadler's home page](http://homepages.inf.ed.ac.uk/wadler/)
 * [Javascript Monad Transformers](http://akh-js.com/)
 * [Functor](https://en.wikipedia.org/wiki/Functor)
@@ -513,6 +524,8 @@
 * [Brian Beckman: The Zen of Stateless State - The State Monad](https://www.youtube.com/watch?v=XxzzJiXHOJs)
 * [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc)
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8)
+* [YOW! Lambda Jam 2016 Conor McBride - What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU)
+* [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 
 ---
 
@@ -611,6 +624,12 @@
 * [**async-ls** - Higher order functions, compositions and common operations for asynchronous programming in LiveScript](https://github.com/homam/async-ls)
 * [**florida** - Pure functional accessor factories in js](https://github.com/Hypercubed/florida)
 * [**mandolin** - Painlessly enhance your JavaScript with monadic types](https://github.com/bioball/mandolin)
+* [**operajonal** - Implementation of free monads in JavaScript, based on Haskell's operational package](https://github.com/phipsgabler/operajonal)
+* [**free** - Combination of a free applicative functor and free monad](https://github.com/safareli/free)
+* [**freeky** - Free monad Collection](https://github.com/DrBoolean/freeky)
+* [**immutagen** - A library for simulating immutable generators in JavaScript](https://github.com/pelotom/immutagen)
+* [**gentoo** - Tools for ES6 generators](https://github.com/sashee/gentoo)
+* [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
