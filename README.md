@@ -194,6 +194,7 @@
 * [Monoidal Contravariant Functors are actually useful!](https://medium.com/@drboolean/monoidal-contravariant-functors-are-actually-useful-1032211045c4#.pmf31o9gd)
 * [Infinite collections with ES6 generators](https://advancedweb.hu/2016/05/31/infinite-collections-with-es6-generators/)
 * [Improving your functional CoffeeScript and JavaScript](https://www.jayway.com/2013/12/22/improving-your-functional-coffeescript-and-javascript/)
+* [Comparing Javascript generators vs Clojurescript lazy-seq by solving a Fibonnaci problem](https://medium.com/@rlucha/comparing-javascript-generators-vs-clojurescript-lazy-seq-by-solving-a-fibonnaci-problem-61c1524d67d6#.swxk99bgd)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -259,6 +260,7 @@
 * [PureScript + React + Electron](http://alexey.raga.name/posts/2015/09/28/purescript-react-electron)
 * [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20(Part%201))
 * [Getting Started with Purescript for Web Development](http://curtis.io/purescript-for-web-development)
+* [PureScript for Front End Developers](http://konkle.us/purescript-for-front-end-developers/)
 
 ### [Elm](http://elm-lang.org)
 
@@ -417,6 +419,7 @@
 * [Neon - Experimental PureScript standard library](https://gist.github.com/tfausak/96411fd7400aa06478675c7e6c75ebd4)
 * [JS-monads-stable](https://github.com/dschalk/JS-monads-stable)
 * [Pragmatic functional programming in JavaScript - Workshop material](https://github.com/staltz/fp-js-workshop)
+* [cor - The Language of the Web](https://github.com/yosbelms/cor)
 
 ---
 
