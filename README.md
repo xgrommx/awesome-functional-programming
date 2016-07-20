@@ -337,7 +337,6 @@
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
 * [О Haskell по-человечески](https://www.ohaskell.guid/)
- 
 ---
 
 ## Resources
@@ -574,7 +573,7 @@
 * [**lazy.js** - is a functional utility library for JavaScript, similar to Underscore and Lo-Dash, but with an underlying engine that supports many more use cases than those libraries, while offering comparable or superior performance in most scenarios](http://danieltao.com/lazy.js)
 * [**monet.js** - Monadic types library for JavaScript](http://cwmyers.github.com/monet.js)
 * [**lamb** - A lightweight, and docile, JavaScript (ES5) library to help embracing functional programming](http://ascartabelli.github.io/lamb)
-* [**sanctuary** - Refuge from unsafe JavaScript](https://github.com/plaid/sanctuary) [official site](http://sanctuary.js.org) 
+* [**sanctuary** - Refuge from unsafe JavaScript](https://github.com/plaid/sanctuary) [official site](http://sanctuary.js.org)
 * [**trine** - A utility library for modern JavaScript](https://github.com/jussi-kalliokoski/trine)
 * [**lodash-fp** - lodash with auto-curried iteratee-first data-last methods](https://github.com/lodash/lodash-fp)
 * [**alicates** - Small library for functional programming with ES2015+](https://github.com/gonzaloruizdevilla/alicates)
@@ -747,6 +746,7 @@
 * [**fn.py** - Functional programming in Python: implementation of missing features to enjoy FP](https://github.com/kachayev/fn.py)
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
+* [**f** - Functional stuff for Python](https://github.com/igrishaev/f)
 
 ### [PHP](https://github.com/php/php-src)
 
