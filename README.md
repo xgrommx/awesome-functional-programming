@@ -195,6 +195,14 @@
 * [Infinite collections with ES6 generators](https://advancedweb.hu/2016/05/31/infinite-collections-with-es6-generators/)
 * [Improving your functional CoffeeScript and JavaScript](https://www.jayway.com/2013/12/22/improving-your-functional-coffeescript-and-javascript/)
 * [Comparing Javascript generators vs Clojurescript lazy-seq by solving a Fibonnaci problem](https://medium.com/@rlucha/comparing-javascript-generators-vs-clojurescript-lazy-seq-by-solving-a-fibonnaci-problem-61c1524d67d6#.swxk99bgd)
+* [Grasping Haskell: functors, applicatives and monads (part 1)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-1-93368e0a7a74#.692ooxhnz)
+* [Grasping Haskell: functors, applicatives and monads (part 2)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-2-65255e3e6a1d#.xigtg4wma)
+* [Functor, Foldable, and Traversable Over Binary Tree](https://blog.cppcabrera.com/posts/37-functor-traverse-fold-tree.html)
+* [lens over tea #1: lenses 101, traversals 101, and some implementation details](https://artyom.me/lens-over-tea-1)
+* [Functional Components with React stateless functions and Ramda](https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b#.tr2jf6dv6)
+* [Support for deriving Functor, Foldable, and Traversable instances](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/DeriveFunctor)
+* [Fold (higher-order function)](https://en.wikipedia.org/wiki/Fold_(higher-order_function))
+* [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -239,6 +247,11 @@
 * [what does “lifting” mean?](http://cstheory.stackexchange.com/questions/14125/what-does-lifting-mean/14126#14126)
 * [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
 * [Akh - Monad Transformers for Javascript](http://blog.mattbierner.com/akh-monad-transformers-for-javascript/)
+* [Decision Trees Are Free Monads Over the Reader Functor](http://clathomasprime.github.io/hask/freeDecision)
+* [Собираемся с духом и перестаем бояться монад](http://eax.me/monads/)
+* [Утилиты работы с монадами](http://www.haskell.ru/monad.html)
+* [Ru/IO Inside](https://wiki.haskell.org/Ru/IO_Inside)
+* [Foldable.mapM_, Maybe, and recursive functions](https://www.schoolofhaskell.com/user/snoyberg/general-haskell/basics/foldable-mapm-maybe-and-recursive-functions#mono-traversable)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -323,11 +336,19 @@
 * [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
+* [О Haskell по-человечески](https://www.ohaskell.guid/)
  
 ---
 
 ## Resources
 
+* [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/)
+* [24 Days of PureScript](https://gist.github.com/paf31/8e9177b20ee920480fbc)
+* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [The official supporting materials repository for LambdaConf 2015](https://github.com/degoes-consulting/lambdaconf-2015)
+* [The Glasgow Haskell Compiler. Simon Marlow and Simon Peyton-Jones](http://aosabook.org/en/ghc.html)
+* [diagrams is a powerful, flexible, declarative domain-specific language for creating vector graphics, using the Haskell programming language.](http://projects.haskell.org/diagrams/)
+* [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
 * [https://rosettacode.org/wiki/Category:Haskell](https://rosettacode.org/wiki/Category:Haskell)
 * [Corecursion](https://en.wikipedia.org/wiki/Corecursion)
 * [Pointfree.io - convert Haskell code into pointfree Haskell code](http://pointfree.io/)
@@ -420,6 +441,7 @@
 * [JS-monads-stable](https://github.com/dschalk/JS-monads-stable)
 * [Pragmatic functional programming in JavaScript - Workshop material](https://github.com/staltz/fp-js-workshop)
 * [cor - The Language of the Web](https://github.com/yosbelms/cor)
+* [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
 
 ---
 
@@ -490,6 +512,7 @@
 * [Fluent Conf: Rise of Async JavaScript ](https://speakerdeck.com/jfairbank/fluent-conf-rise-of-async-javascript)
 * [Монады для барабанщиков](http://www.slideshare.net/cblpsu/ss-60053562)
 * [Building Functional Islands by Mark Jones](https://speakerdeck.com/thisismarkup/building-functional-islands)
+* [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
 
 ---
 
@@ -529,6 +552,8 @@
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [YOW! Lambda Jam 2016 Conor McBride - What are Types for, or are they only Against?](https://www.youtube.com/watch?v=3U3lV5VPmOU)
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
+* [Monads, Monoids and Composition w/ Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)
+* [«PureScript livecoding» by Dmirti Bushenko](https://www.youtube.com/watch?v=Sc3ci8j7Wok&list=PLtAOYbbqpTmxg5fTJK7e8ZXdGzYLROsRm&index=11)
 
 ---
 
@@ -748,6 +773,7 @@
 
 ***
 * [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
+* [**The Oden Programming Language** - Oden is an experimental, statically typed, functional programming language, built for the Go ecosystem](https://oden-lang.org/)
 
 ### [Haskell](https://www.haskell.org)
 
