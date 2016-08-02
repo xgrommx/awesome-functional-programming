@@ -203,6 +203,8 @@
 * [Support for deriving Functor, Foldable, and Traversable instances](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/DeriveFunctor)
 * [Fold (higher-order function)](https://en.wikipedia.org/wiki/Fold_(higher-order_function))
 * [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
+* [Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179#.fl8mmu2xs)
+* [Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.x3q3q9pzl)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -252,6 +254,7 @@
 * [Утилиты работы с монадами](http://www.haskell.ru/monad.html)
 * [Ru/IO Inside](https://wiki.haskell.org/Ru/IO_Inside)
 * [Foldable.mapM_, Maybe, and recursive functions](https://www.schoolofhaskell.com/user/snoyberg/general-haskell/basics/foldable-mapm-maybe-and-recursive-functions#mono-traversable)
+* [Of Algebirds, Monoids, Monads, and Other Bestiary for Large-Scale Data Analytics](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#the-tldr-version-of-monoids-and-monads)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -274,6 +277,9 @@
 * [Getting started in PureScript (Part 1)](https://pierrebeaucamp.surge.sh/post/Getting%20started%20in%20PureScript%20(Part%201))
 * [Getting Started with Purescript for Web Development](http://curtis.io/purescript-for-web-development)
 * [PureScript for Front End Developers](http://konkle.us/purescript-for-front-end-developers/)
+* [A Real-World PureScript FE Build Setup](http://konkle.us/a-real-world-purescript-build-setup/)
+* [Making a simple node program with Purescript](http://qiita.com/kimagure/items/5674e3ae9c87262af762)
+* [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
 
 ### [Elm](http://elm-lang.org)
 
@@ -337,10 +343,13 @@
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
 * [О Haskell по-человечески](https://www.ohaskell.guid/)
+* [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
+
 ---
 
 ## Resources
 
+* [Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
 * [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/)
 * [24 Days of PureScript](https://gist.github.com/paf31/8e9177b20ee920480fbc)
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
@@ -715,6 +724,7 @@
 * [**Lw** - is a general-purpose statically-typed functional language with advanced features.](https://github.com/alvisespano/Lw)
 * [**Streams** - A lightweight F#/C# library for efficient functional-style pipelines on streams of data](https://github.com/nessos/Streams)
 * [**Fable** - F# to JavaScript Compiler](https://github.com/fsprojects/Fable)
+* [**ReactFSharp** - Proof of concept demo implementing a React like declarative UI API for F# on top of RX](https://github.com/bordoley/ReactFSharp)
 
 ### [C#](https://github.com/dotnet/roslyn)
 
