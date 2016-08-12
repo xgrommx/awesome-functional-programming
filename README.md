@@ -666,6 +666,10 @@
 * [**immutagen** - A library for simulating immutable generators in JavaScript](https://github.com/pelotom/immutagen)
 * [**gentoo** - Tools for ES6 generators](https://github.com/sashee/gentoo)
 * [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
+* [**RxJS** - A reactive programming library for JavaScript](https://github.com/ReactiveX/rxjs)
+* [**Most** - Ultra-high performance reactive programming](https://github.com/cujojs/most)
+* [**xstream** - An extremely intuitive, small, and fast functional reactive stream library for JavaScript](https://github.com/staltz/xstream)
+* [**redux-observable** - RxJS middleware for action side effects in Redux using "Epics"](https://github.com/redux-observable/redux-observable)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
