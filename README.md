@@ -205,6 +205,8 @@
 * [Making a Haskell (Scotty) web app and putting it on Heroku](http://qiita.com/kimagure/items/5947e2db40b9ec2226bf)
 * [Promises + FP = Beautiful Streams](https://medium.com/@yelouafi/promises-fp-beautiful-streams-6f0235c5b179#.fl8mmu2xs)
 * [Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.x3q3q9pzl)
+* [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
+* [Fold](https://wiki.haskell.org/Fold)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -255,6 +257,8 @@
 * [Ru/IO Inside](https://wiki.haskell.org/Ru/IO_Inside)
 * [Foldable.mapM_, Maybe, and recursive functions](https://www.schoolofhaskell.com/user/snoyberg/general-haskell/basics/foldable-mapm-maybe-and-recursive-functions#mono-traversable)
 * [Of Algebirds, Monoids, Monads, and Other Bestiary for Large-Scale Data Analytics](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#the-tldr-version-of-monoids-and-monads)
+* [Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
+* [MonadFix](https://wiki.haskell.org/MonadFix)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -280,6 +284,7 @@
 * [A Real-World PureScript FE Build Setup](http://konkle.us/a-real-world-purescript-build-setup/)
 * [Making a simple node program with Purescript](http://qiita.com/kimagure/items/5674e3ae9c87262af762)
 * [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
+* [Parsing complex foreign objects in PureScript](http://codingstruggles.com/purescript/purescript-parsing-complex-foreign-objects.html)
 
 ### [Elm](http://elm-lang.org)
 
@@ -344,11 +349,13 @@
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
 * [О Haskell по-человечески](https://www.ohaskell.guid/)
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
+* [An Introduction to Elm](http://guide.elm-lang.org/)
 
 ---
 
 ## Resources
 
+* [Primers](https://jeremykun.com/primers/)
 * [Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
 * [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/)
 * [24 Days of PureScript](https://gist.github.com/paf31/8e9177b20ee920480fbc)
@@ -485,7 +492,7 @@
 
 * [Awesomely descriptive JavaScript with monads](https://docs.google.com/presentation/d/12GpX3AXTS6uJHqRK_Q3RgkIg9ZTr4r37N0MTkk0CL14/edit#slide=id.p)
 * [Functional Programming from Brian Lonsdorf (awesome presentation)](https://docs.google.com/presentation/d/1YOJ2hU60KcXJ3m3CG28EtfTO4t1OP_JR0gpM82i2xcI/edit#slide=id.g338d117be_040)
-* [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+* [Functional Programming Patterns](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt) (must have)
 * [Domain Modeling in a Functional World](http://www.slideshare.net/debasishg/qconny-12)
 * [Functional Programming in JavaScript](http://www.slideshare.net/LuisAtencio3/functional-programming-in-javascript-by-luis-atencio)
 * [ECMAScript 6 Quiz](http://maxwellito.github.io/es6-quiz-slides)
@@ -521,6 +528,7 @@
 * [Монады для барабанщиков](http://www.slideshare.net/cblpsu/ss-60053562)
 * [Building Functional Islands by Mark Jones](https://speakerdeck.com/thisismarkup/building-functional-islands)
 * [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
+* [Fun* JavaScript Workshop - Dr. Gleb Bahmutov PhD](http://slides.com/bahmutov/fun-javascript-workshop#/)
 
 ---
 
