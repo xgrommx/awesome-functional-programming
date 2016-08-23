@@ -207,6 +207,7 @@
 * [Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.x3q3q9pzl)
 * [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 * [Fold](https://wiki.haskell.org/Fold)
+* [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -259,6 +260,8 @@
 * [Of Algebirds, Monoids, Monads, and Other Bestiary for Large-Scale Data Analytics](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#the-tldr-version-of-monoids-and-monads)
 * [Comonads as Spaces](http://blog.functorial.com/posts/2016-08-07-Comonads-As-Spaces.html)
 * [MonadFix](https://wiki.haskell.org/MonadFix)
+* [Monads - Array, Promise and Maybe monads. Plus Docker is a functor](https://glebbahmutov.com/blog/monads/)
+* [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -322,6 +325,7 @@
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html)
 * [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 * [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
+* [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
 
 ---
 
@@ -350,11 +354,13 @@
 * [О Haskell по-человечески](https://www.ohaskell.guid/)
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
+* [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
 
 ---
 
 ## Resources
 
+* [Blog Jakub Arnold](http://blog.jakubarnold.cz/)
 * [Primers](https://jeremykun.com/primers/)
 * [Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
 * [Материалы курсов по Clojure, бесплатно и онлайн](http://clojurecourse.by/)
@@ -529,6 +535,7 @@
 * [Building Functional Islands by Mark Jones](https://speakerdeck.com/thisismarkup/building-functional-islands)
 * [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
 * [Fun* JavaScript Workshop - Dr. Gleb Bahmutov PhD](http://slides.com/bahmutov/fun-javascript-workshop#/)
+* [TYPESAFE SQL IN HASKELL - AN INTRODUCTION TO OPALEYE](http://opaleye.benkolera.com/#/)
 
 ---
 
@@ -674,6 +681,8 @@
 * [**immutagen** - A library for simulating immutable generators in JavaScript](https://github.com/pelotom/immutagen)
 * [**gentoo** - Tools for ES6 generators](https://github.com/sashee/gentoo)
 * [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
+* [**jabz** - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz](https://github.com/paldepind/jabz)
+* [**async-to-gen** - Transform async functions to generator functions with speed and simplicity](https://github.com/leebyron/async-to-gen)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
