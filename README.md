@@ -354,7 +354,7 @@
 * [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
-* [О Haskell по-человечески](https://www.ohaskell.guid/)
+* [О Haskell по-человечески](https://www.ohaskell.guide/)
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
