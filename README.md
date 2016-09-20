@@ -745,6 +745,7 @@
 * [**Streams** - A lightweight F#/C# library for efficient functional-style pipelines on streams of data](https://github.com/nessos/Streams)
 * [**Fable** - F# to JavaScript Compiler](https://github.com/fsprojects/Fable)
 * [**ReactFSharp** - Proof of concept demo implementing a React like declarative UI API for F# on top of RX](https://github.com/bordoley/ReactFSharp)
+* [**Juniper** - FRP (Functional Reactive Programming) for the Arduino and other microcontrollers](https://github.com/calebh/Juniper)
 
 ### [C#](https://github.com/dotnet/roslyn)
 
