@@ -686,6 +686,10 @@
 * [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
 * [**jabz** - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz](https://github.com/paldepind/jabz)
 * [**async-to-gen** - Transform async functions to generator functions with speed and simplicity](https://github.com/leebyron/async-to-gen)
+* [**streamjs** - Lazy Object Streaming Pipeline for JavaScript](https://github.com/winterbe/streamjs)
+* [**chained-promise** - Functional programming tools for recurring promises](https://github.com/google/chained-promise)
+* [**maryamyriameliamurphies.js** - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel](https://github.com/sjsyrek/maryamyriameliamurphies.js)
+* [**asyncp** - Port of the async library to use Promises](https://github.com/jgornick/asyncp)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
