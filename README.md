@@ -467,6 +467,7 @@
 * [Pragmatic functional programming in JavaScript - Workshop material](https://github.com/staltz/fp-js-workshop)
 * [cor - The Language of the Web](https://github.com/yosbelms/cor)
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
+* [forwardcourses about functional programming](https://forwardcourses.com/lectures/track/fp)
 
 ---
 
