@@ -332,6 +332,7 @@
 
 ## Books
 
+* [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
 * [Functional JavaScript](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
