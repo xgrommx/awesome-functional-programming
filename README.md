@@ -359,6 +359,7 @@
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
+* [Learn F#](https://www.manning.com/books/learn-fsharp)
 
 ---
 
