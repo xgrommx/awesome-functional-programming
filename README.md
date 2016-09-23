@@ -693,6 +693,7 @@
 * [**chained-promise** - Functional programming tools for recurring promises](https://github.com/google/chained-promise)
 * [**maryamyriameliamurphies.js** - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel](https://github.com/sjsyrek/maryamyriameliamurphies.js)
 * [**asyncp** - Port of the async library to use Promises](https://github.com/jgornick/asyncp)
+* [**flow-static-land** - Implementation of common algebraic types in JavaScript + Flow](https://github.com/gcanti/flow-static-land)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
