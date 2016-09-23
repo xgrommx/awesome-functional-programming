@@ -711,6 +711,7 @@
 * [**yeti** - Functional programming language for JVM](https://github.com/mth/yeti)
 * [**Jinq** - LINQ-style queries for Java 8](https://github.com/my2iu/Jinq)
 * [**linq4j** - A port of LINQ (Language-Integrated Query) to Java](https://github.com/julianhyde/linq4j)
+* [**javaz** - Java 8 lambda experiment](https://github.com/mariofusco/javaz)
 
 ### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
 
