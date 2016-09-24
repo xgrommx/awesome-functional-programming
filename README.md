@@ -209,6 +209,7 @@
 * [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 * [Fold](https://wiki.haskell.org/Fold)
 * [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
+* [So You Want to be a Functional Programmer Series by Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.cxfubzoqh)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -583,6 +584,7 @@
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Monads, Monoids and Composition w/ Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)
 * [«PureScript livecoding» by Dmirti Bushenko](https://www.youtube.com/watch?v=Sc3ci8j7Wok&list=PLtAOYbbqpTmxg5fTJK7e8ZXdGzYLROsRm&index=11)
+* [Learning Functional Programming with JavaScript by Anjana Vakil at JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 
 ---
 
