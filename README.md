@@ -290,6 +290,7 @@
 * [Making a simple node program with Purescript](http://qiita.com/kimagure/items/5674e3ae9c87262af762)
 * [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
 * [Parsing complex foreign objects in PureScript](http://codingstruggles.com/purescript/purescript-parsing-complex-foreign-objects.html)
+* [Writing a simple Telegram chat bot in Purescript](http://qiita.com/kimagure/items/2da0fe86b218b3f832d0)
 
 ### [Elm](http://elm-lang.org)
 
