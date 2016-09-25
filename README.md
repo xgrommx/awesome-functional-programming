@@ -329,6 +329,7 @@
 * [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 * [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
 * [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
+* [Why Elm is Going to Change the World](https://medium.com/@dailydrip/why-elm-is-going-to-change-the-world-f5a6c693b2ca#.8hcwvohtp)
 
 ---
 
