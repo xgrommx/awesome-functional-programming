@@ -334,6 +334,7 @@
 
 ## Books
 
+* [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming)
 * [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
