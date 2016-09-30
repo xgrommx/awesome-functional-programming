@@ -208,6 +208,13 @@
 * [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 * [Fold](https://wiki.haskell.org/Fold)
 * [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
+* [Why Functional Programming Matters](https://blog.acolyer.org/2016/09/14/why-functional-programming-matters/)
+* [Smarter validation](https://ro-che.info/articles/2015-05-02-smarter-validation)
+* [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
+* [The Algebra of Algebraic Data Types, Part 2](http://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
+* [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
+* [Async in Purescript is fun and easy](http://qiita.com/kimagure/items/2ebce1399bac00c79656)
+* [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -237,6 +244,8 @@
 * [Monads in C++](http://bartoszmilewski.com/2011/07/11/monads-in-c/)
 * [Monads in plain JavaScript](http://modernjavascript.blogspot.com/2013/06/monads-in-plain-javascript.html)
 * [Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either)
+* [Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)
+* [Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)
 * [Monads, promises, arrays in Javascript](http://pseudocorta.blogspot.com/2014/05/monads-promises-arrays-in-javascript.html)
 * [Monad syntax for JavaScript](https://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript)
 * [Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read)
@@ -262,6 +271,7 @@
 * [MonadFix](https://wiki.haskell.org/MonadFix)
 * [Monads - Array, Promise and Maybe monads. Plus Docker is a functor](https://glebbahmutov.com/blog/monads/)
 * [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+* [The midnight Monad, a journey to enlightenment](http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -355,11 +365,14 @@
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
+* [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
 
 ---
 
 ## Resources
 
+* [http://chris-taylor.github.io](http://chris-taylor.github.io/)
+* [FPCasts - Your source for Functional Programing Related Podcasts](https://www.fpcasts.com/)
 * [Blog Jakub Arnold](http://blog.jakubarnold.cz/)
 * [Primers](https://jeremykun.com/primers/)
 * [Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
@@ -480,7 +493,7 @@
 * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
 * [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
-* [Combinatory Logic](http://plato.stanford.edu/entries/logic-combinatory/)
+* [Combinatory Logic](http://plato.stanford.edu/entries/logic-combinatory/) (*)
 * [Combinatory Logic: Finding and Evaluating Combinators](https://www.npmjs.com/package/combilog)
 * [Maths - Combinatory Logic](http://www.euclideanspace.com/maths/discrete/logic/combinatory/index.htm)
 * [Lambda Calculus](http://softoption.us/content/node/30)
@@ -536,6 +549,8 @@
 * [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
 * [Fun* JavaScript Workshop - Dr. Gleb Bahmutov PhD](http://slides.com/bahmutov/fun-javascript-workshop#/)
 * [TYPESAFE SQL IN HASKELL - AN INTRODUCTION TO OPALEYE](http://opaleye.benkolera.com/#/)
+* [Playing with Graphics and Animations in Haskell by Manuel Chakravarty](https://speakerdeck.com/mchakravarty/playing-with-graphics-and-animations-in-haskell)
+* [Practically workshop](https://www.slideshare.net/secret/3IPPDiGR2QXNEz)
 
 ---
 
@@ -577,6 +592,19 @@
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Monads, Monoids and Composition w/ Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)
 * [«PureScript livecoding» by Dmirti Bushenko](https://www.youtube.com/watch?v=Sc3ci8j7Wok&list=PLtAOYbbqpTmxg5fTJK7e8ZXdGzYLROsRm&index=11)
+* [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
+* [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
+
+---
+
+## Youtube channels
+
+* [Functional Works](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
+* [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
+* [ruHaskell](https://www.youtube.com/channel/UCbIkFj1mYQI7lmrc5BXGyAg)
+* [Brian Lonsdorf](https://www.youtube.com/channel/UCKjVLbSDoM-8-eEM7A30igA)
+* [jasonofthel33t](https://www.youtube.com/user/jasonofthel33t)
+* [Лекториум](https://www.youtube.com/user/OpenLektorium)
 
 ---
 
@@ -683,6 +711,10 @@
 * [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
 * [**jabz** - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz](https://github.com/paldepind/jabz)
 * [**async-to-gen** - Transform async functions to generator functions with speed and simplicity](https://github.com/leebyron/async-to-gen)
+* [**imlazy** - Functional, declarative, immutable and lazy as you like](https://github.com/benji6/imlazy)
+* [**partial.lenses** - ](https://github.com/calmm-js/partial.lenses)
+* [**ramda-lens** - Lens library built on ramda](https://github.com/ramda/ramda-lens)
+* [**lenses** - Composable kmett style lenses](https://github.com/DrBoolean/lenses)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
