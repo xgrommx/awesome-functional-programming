@@ -117,6 +117,7 @@
 * [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
 * [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
 * [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
+* [Использование линз на реальных примерах](http://blog.csssr.ru/2016/07/08/lenses/)
 * [Input and Output](http://learnyouahaskell.com/input-and-output)
 * [Function Application and Definition](http://slpopejoy.github.io/posts/2014-11-27-FunctionApplicationDefinition.html)
 * [Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
@@ -215,6 +216,7 @@
 * [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
 * [Async in Purescript is fun and easy](http://qiita.com/kimagure/items/2ebce1399bac00c79656)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
+* [So You Want to be a Functional Programmer Series by Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.cxfubzoqh)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -298,6 +300,7 @@
 * [Making a simple node program with Purescript](http://qiita.com/kimagure/items/5674e3ae9c87262af762)
 * [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
 * [Parsing complex foreign objects in PureScript](http://codingstruggles.com/purescript/purescript-parsing-complex-foreign-objects.html)
+* [Writing a simple Telegram chat bot in Purescript](http://qiita.com/kimagure/items/2da0fe86b218b3f832d0)
 
 ### [Elm](http://elm-lang.org)
 
@@ -336,15 +339,21 @@
 * [Elm by Example: Soup to Nuts - Part 1](https://hashrocket.com/blog/posts/elm-by-example-soup-to-nuts-part-1)
 * [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
 * [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
+* [Why Elm is Going to Change the World](https://medium.com/@dailydrip/why-elm-is-going-to-change-the-world-f5a6c693b2ca#.8hcwvohtp)
 
 ---
 
 ## Books
 
+* [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
+* [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
+* [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
 * [Functional JavaScript](https://jcouyang.gitbooks.io/functional-javascript/content/en/index.html)
 * [Functional Javascript Workshop (console based tutorial)](https://github.com/timoxley/functional-javascript-workshop)
+* [Functional Programming in JavaScript - Dan Mantyla](https://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225)
+* [Functional JavaScript: Introducing Functional Programming with Underscore.js - Michael Fogus](https://www.amazon.com/Functional-JavaScript-Introducing-Programming-Underscore-js/dp/1449360726/)
 * [A big list of books about functional programming](http://alexott.net/en/fp/books)
 * [PureScript by Example](https://leanpub.com/purescript/read)
 * [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf)
@@ -361,11 +370,12 @@
 * [Programming with Refinement Types - An Introduction to LiquidHaskell](http://ucsd-progsys.github.io/liquidhaskell-tutorial/)
 * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Learn you some Erlang for great good!](http://learnyousomeerlang.com/)
-* [О Haskell по-человечески](https://www.ohaskell.guid/)
+* [О Haskell по-человечески](https://www.ohaskell.guide/)
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
 * [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
+* [Learn F#](https://www.manning.com/books/learn-fsharp)
 
 ---
 
@@ -476,6 +486,7 @@
 * [Pragmatic functional programming in JavaScript - Workshop material](https://github.com/staltz/fp-js-workshop)
 * [cor - The Language of the Web](https://github.com/yosbelms/cor)
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
+* [forwardcourses about functional programming](https://forwardcourses.com/lectures/track/fp)
 
 ---
 
@@ -592,6 +603,7 @@
 * [Phil Freeman - Fun with Profunctors](https://www.youtube.com/watch?v=OJtGECfksds)
 * [Monads, Monoids and Composition w/ Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)
 * [«PureScript livecoding» by Dmirti Bushenko](https://www.youtube.com/watch?v=Sc3ci8j7Wok&list=PLtAOYbbqpTmxg5fTJK7e8ZXdGzYLROsRm&index=11)
+* [Learning Functional Programming with JavaScript by Anjana Vakil at JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
 
@@ -715,6 +727,11 @@
 * [**partial.lenses** - ](https://github.com/calmm-js/partial.lenses)
 * [**ramda-lens** - Lens library built on ramda](https://github.com/ramda/ramda-lens)
 * [**lenses** - Composable kmett style lenses](https://github.com/DrBoolean/lenses)
+* [**streamjs** - Lazy Object Streaming Pipeline for JavaScript](https://github.com/winterbe/streamjs)
+* [**chained-promise** - Functional programming tools for recurring promises](https://github.com/google/chained-promise)
+* [**maryamyriameliamurphies.js** - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel](https://github.com/sjsyrek/maryamyriameliamurphies.js)
+* [**asyncp** - Port of the async library to use Promises](https://github.com/jgornick/asyncp)
+* [**flow-static-land** - Implementation of common algebraic types in JavaScript + Flow](https://github.com/gcanti/flow-static-land)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -732,6 +749,7 @@
 * [**yeti** - Functional programming language for JVM](https://github.com/mth/yeti)
 * [**Jinq** - LINQ-style queries for Java 8](https://github.com/my2iu/Jinq)
 * [**linq4j** - A port of LINQ (Language-Integrated Query) to Java](https://github.com/julianhyde/linq4j)
+* [**javaz** - Java 8 lambda experiment](https://github.com/mariofusco/javaz)
 
 ### [Clojure](https://github.com/clojure/clojure)/[ClojureScript](https://github.com/clojure/clojurescript)
 
@@ -774,6 +792,7 @@
 * [**Streams** - A lightweight F#/C# library for efficient functional-style pipelines on streams of data](https://github.com/nessos/Streams)
 * [**Fable** - F# to JavaScript Compiler](https://github.com/fsprojects/Fable)
 * [**ReactFSharp** - Proof of concept demo implementing a React like declarative UI API for F# on top of RX](https://github.com/bordoley/ReactFSharp)
+* [**Juniper** - FRP (Functional Reactive Programming) for the Arduino and other microcontrollers](https://github.com/calebh/Juniper)
 
 ### [C#](https://github.com/dotnet/roslyn)
 
