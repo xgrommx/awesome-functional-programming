@@ -217,6 +217,18 @@
 * [Async in Purescript is fun and easy](http://qiita.com/kimagure/items/2ebce1399bac00c79656)
 * [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [So You Want to be a Functional Programmer Series by Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.cxfubzoqh)
+* [Haskell Progressive Example - An OpenGL 3D extension of the Mandelbrot set](http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/)
+* [Folds and Infinite Lists](http://argumatronic.com/posts/2016-09-17-infinite-folds.html)
+* [list-transformer - A beginner-friendly ListT](http://www.haskellforall.com/2016/07/list-transformer-beginner-friendly-listt.html)
+* [Sharing, Space Leaks, and Conduit and friends](http://www.well-typed.com/blog/2016/09/sharing-conduit/)
+* [Functors are Containers](https://bartoszmilewski.com/2014/01/14/functors-are-containers/)
+* [Tuples in JavaScript](http://oli.me.uk/2013/07/12/tuples-in-javascript/)
+* [Making juice with reduce/foldl](http://www.macwright.org/2015/01/03/reduce-juice.html)
+* [Getting audio from Youtube channels in the easiest way possible using Haskell](http://qiita.com/kimagure/items/0a2f3d60789c646e4426)
+* [From Callback to Future -> Functor -> Monad](https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5)
+* [Slaying a UI Antipattern in Fantasyland](https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a#.rmepdr82j)
+* [Form Validation As A Higher Order Component Pt.1](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0#.u2pkcyfb6)
+* [Form Validation As A Higher Order Component Pt.2](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d#.ldwpp7qgl)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -274,6 +286,9 @@
 * [Monads - Array, Promise and Maybe monads. Plus Docker is a functor](https://glebbahmutov.com/blog/monads/)
 * [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 * [The midnight Monad, a journey to enlightenment](http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/)
+* [Monads in Haskell: ((->) r)](http://www.mjoldfield.com/atelier/2014/07/monads-fn.html)
+* [Monoids, Functors, Applicatives, and Monads: 10 Main Ideas](https://monadmadness.wordpress.com/2015/01/02/monoids-functors-applicatives-and-monads-10-main-ideas/)
+* [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -301,6 +316,8 @@
 * [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
 * [Parsing complex foreign objects in PureScript](http://codingstruggles.com/purescript/purescript-parsing-complex-foreign-objects.html)
 * [Writing a simple Telegram chat bot in Purescript](http://qiita.com/kimagure/items/2da0fe86b218b3f832d0)
+* [Making a Weather Telegram bot in Purescript](http://futurice.com/blog/making-a-weather-telegram-bot-in-purescript)
+* [Row span with PureScript pux and JavaScript redux](http://www.andrevdm.com/posts/2016-09-01-rowSpan-pux-redux.html)
 
 ### [Elm](http://elm-lang.org)
 
@@ -381,6 +398,9 @@
 
 ## Resources
 
+* [Free monads](https://gist.github.com/safareli/b43f43d3e65483b71b08b894386f4d71)
+* [Functional Programming by Example](http://caiorss.github.io/Functional-Programming/) (***)
+* [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
 * [http://chris-taylor.github.io](http://chris-taylor.github.io/)
 * [FPCasts - Your source for Functional Programing Related Podcasts](https://www.fpcasts.com/)
 * [Blog Jakub Arnold](http://blog.jakubarnold.cz/)
@@ -487,6 +507,7 @@
 * [cor - The Language of the Web](https://github.com/yosbelms/cor)
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
 * [forwardcourses about functional programming](https://forwardcourses.com/lectures/track/fp)
+* [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
 
 ---
 
@@ -606,6 +627,7 @@
 * [Learning Functional Programming with JavaScript by Anjana Vakil at JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
+* [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
 
 ---
 
@@ -732,6 +754,11 @@
 * [**maryamyriameliamurphies.js** - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel](https://github.com/sjsyrek/maryamyriameliamurphies.js)
 * [**asyncp** - Port of the async library to use Promises](https://github.com/jgornick/asyncp)
 * [**flow-static-land** - Implementation of common algebraic types in JavaScript + Flow](https://github.com/gcanti/flow-static-land)
+* [**tiny-tuple** - Tiny Tuple library for Client or Server](https://github.com/avoidwork/tiny-tuple)
+* [**adt.js** - Algebraic data types for Javascript](https://github.com/natefaubion/adt.js)
+* [**fantasy-states** - State control structure](https://github.com/fantasyland/fantasy-states)
+* [**akh-cont** - ](https://github.com/mattbierner/akh-cont)
+* [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -858,6 +885,7 @@
 ***
 * [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
 * [**reflex** - Practical Functional Reactive Programming](https://github.com/reflex-frp/reflex)
+* [**ghcvm** - A Haskell to JVM compiler that supports GHC Haskell](https://github.com/rahulmutt/ghcvm)
 
 ### [Elixir](https://github.com/elixir-lang/elixir)
 
