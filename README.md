@@ -198,7 +198,7 @@
 * [Comparing Javascript generators vs Clojurescript lazy-seq by solving a Fibonnaci problem](https://medium.com/@rlucha/comparing-javascript-generators-vs-clojurescript-lazy-seq-by-solving-a-fibonnaci-problem-61c1524d67d6#.swxk99bgd)
 * [Grasping Haskell: functors, applicatives and monads (part 1)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-1-93368e0a7a74#.692ooxhnz)
 * [Grasping Haskell: functors, applicatives and monads (part 2)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-2-65255e3e6a1d#.xigtg4wma)
-* [Functor, Foldable, and Traversable Over Binary Tree](https://blog.cppcabrera.com/posts/37-functor-traverse-fold-tree.html)
+* [Functor, Foldable, and Traversable Over Binary Tree](https://queertypes.com/posts/37-functor-traverse-fold-tree.html)
 * [lens over tea #1: lenses 101, traversals 101, and some implementation details](https://artyom.me/lens-over-tea-1)
 * [Functional Components with React stateless functions and Ramda](https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b#.tr2jf6dv6)
 * [Support for deriving Functor, Foldable, and Traversable instances](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/DeriveFunctor)
@@ -229,6 +229,9 @@
 * [Slaying a UI Antipattern in Fantasyland](https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a#.rmepdr82j)
 * [Form Validation As A Higher Order Component Pt.1](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0#.u2pkcyfb6)
 * [Form Validation As A Higher Order Component Pt.2](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d#.ldwpp7qgl)
+* [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.g5kbyrz77)
+* [FFI with Haskell and Rust](https://mgattozzi.github.io/2016/10/01/haskell-rust.html)
+* [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -357,6 +360,7 @@
 * [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
 * [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
 * [Why Elm is Going to Change the World](https://medium.com/@dailydrip/why-elm-is-going-to-change-the-world-f5a6c693b2ca#.8hcwvohtp)
+* [Building A React/Redux/Elm Bridge](https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76#.h6rmwevj4)
 
 ---
 
@@ -393,6 +397,8 @@
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
 * [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
 * [Learn F#](https://www.manning.com/books/learn-fsharp)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+* [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
 
 ---
 
@@ -628,6 +634,7 @@
 * [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
 * [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
+* ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
 
 ---
 
@@ -844,6 +851,8 @@
 * [**Argo** - Functional JSON parsing library for Swift](https://github.com/thoughtbot/Argo)
 * [**Interstellar** - Simple and lightweight Functional Reactive Coding in Swift for the rest of us](https://github.com/JensRavens/Interstellar)
 * [**Funky** - Functional programming tools and experiments in Swift](https://github.com/brynbellomy/Funky)
+* [**Functional** - A functional programming framework for Swift](https://github.com/broomburgo/Functional)
+* [**SwiftSequence** - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things](https://github.com/oisdk/SwiftSequence)
 
 ### [Python](https://www.python.org/)
 
