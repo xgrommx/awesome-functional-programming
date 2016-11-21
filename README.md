@@ -514,6 +514,7 @@
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
 * [forwardcourses about functional programming](https://forwardcourses.com/lectures/track/fp)
 * [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
+* [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 
 ---
 
@@ -871,6 +872,7 @@
 * [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
 * [**pramda** - Practical Functional Programming in PHP](https://github.com/kapolos/pramda)
+* [**prelude** - Functional library for PHP](https://github.com/sergiors/prelude)
 
 ### [Rust](https://github.com/rust-lang/rust)
 
