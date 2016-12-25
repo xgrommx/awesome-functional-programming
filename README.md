@@ -232,6 +232,15 @@
 * [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.g5kbyrz77)
 * [FFI with Haskell and Rust](https://mgattozzi.github.io/2016/10/01/haskell-rust.html)
 * [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell/)
+* [BEAUTIFUL FOLDS IN SCALA](https://softwaremill.com/beautiful-folds-in-scala/)
+* [Functional Programming In JS — With Practical Examples (Part 1)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.y01dinh7e)
+* [An Introduction Into Lenses In JavaScript Functional Getter/Setter](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.ck7t1syp0)
+* [Immutable.js: The True Joy of JavaScript](http://blog.sigmapoint.pl/immutable-js-the-true-joy-of-javascript/)
+* [Mutual Recursion in Final Encoding](https://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
+* [Semigroups](https://medium.com/@gcanti/semigroups-f74f7643c0d4#.okttdogyg)
+* [Using F# on both the frontend and the backend](http://danielbachler.de/2016/12/10/f-sharp-on-the-frontend-and-the-backend.html)
+* [Stack safe Function composition](https://medium.com/@safareli/stack-safe-function-composition-85d61feee37e#.fige7eu8l)
+* [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -292,6 +301,9 @@
 * [Monads in Haskell: ((->) r)](http://www.mjoldfield.com/atelier/2014/07/monads-fn.html)
 * [Monoids, Functors, Applicatives, and Monads: 10 Main Ideas](https://monadmadness.wordpress.com/2015/01/02/monoids-functors-applicatives-and-monads-10-main-ideas/)
 * [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
+* [The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial](https://unknownparallel.wordpress.com/zero-analogy-monad-tutorial/)
+* [Monads Demystified](http://blog.reverberate.org/2015/08/monads-demystified.html)
+* [Understanding Monads](https://medium.com/real-world-fsharp/understanding-monads-db30eeadf2bf#.dtr6wmvyc)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -361,6 +373,7 @@
 * [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
 * [Why Elm is Going to Change the World](https://medium.com/@dailydrip/why-elm-is-going-to-change-the-world-f5a6c693b2ca#.8hcwvohtp)
 * [Building A React/Redux/Elm Bridge](https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76#.h6rmwevj4)
+* [Elm for the Frontend, Right Now (Updated for Elm 0.18)](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
 
 ---
 
@@ -400,11 +413,14 @@
 * [Learn F#](https://www.manning.com/books/learn-fsharp)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 * [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
+* [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 
 ---
 
 ## Resources
 
+* [ML Dialects and Haskell: SML, OCaml, F#, Haskell](http://hyperpolyglot.org/ml)
+* [Haskell for OCaml programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
 * [Free monads](https://gist.github.com/safareli/b43f43d3e65483b71b08b894386f4d71)
 * [Functional Programming by Example](http://caiorss.github.io/Functional-Programming/) (***)
 * [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
@@ -863,6 +879,7 @@
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
 * [**f** - Functional stuff for Python](https://github.com/igrishaev/f)
+* [**Coconut** - Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 
 ### [PHP](https://github.com/php/php-src)
 
@@ -914,3 +931,6 @@
 * [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript)
 
 ### [Racket lang](https://racket-lang.org/)
+
+### [Pyret - is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+
