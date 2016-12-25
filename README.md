@@ -2,6 +2,7 @@
 
 ## Tutorials and Articles
 
+* [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 * [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
@@ -382,6 +383,7 @@
 * [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
 * [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-cplusplus)
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
+* [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet)
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
@@ -627,11 +629,13 @@
 * [Monad a day 3: State](https://vimeo.com/109984691)
 * [Lenses Quick n’ Dirty](https://vimeo.com/104807358)
 * [Frontend Masters Workshop finish up](https://vimeo.com/97575933)
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-function-composition)
 * [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
 * [Coyoneda in Javascript](https://www.youtube.com/watch?v=WH5BrkzGgQY)
 * [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
+* [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
 * [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
