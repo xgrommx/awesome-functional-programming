@@ -858,6 +858,7 @@
 * [**FuncSharp** - Functional programming in C#](https://github.com/siroky/FuncSharp)
 * [**monadsharp** - A collection of monads for C# that provide some functional programming flavor](https://github.com/kallanreed/monadsharp)
 * [**csharp-probability-monad** - A probabilistic programming framework for C#](https://github.com/joashc/csharp-probability-monad)
+* [**Ramda.NET** - Practical functional C# port from Ramda.js](https://github.com/sagifogel/Ramda.NET)
 
 ### [Swift](https://developer.apple.com/swift)
 
