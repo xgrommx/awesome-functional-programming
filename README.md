@@ -937,5 +937,22 @@
 
 ### [Racket lang](https://racket-lang.org/)
 
-### [Pyret - is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+### [Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+
+### [Ela - Dynamic functional language](http://elalang.net/)
+
+### [Eta - A powerful language for building scalable systems on the JVM](http://eta-lang.org/)
+
+### [Koka - a function-oriented language with effect inference](https://github.com/koka-lang/koka)
+
+### [Ditto is a super kawaii dependently typed language for you!](https://github.com/ditto/ditto)
+
+### [F* (pronounced F star) is an ML-like functional programming language aimed at program verification](https://www.fstar-lang.org/)
+
+### [Idris is a general purpose pure functional programming language with dependent types](http://www.idris-lang.org/)
+
+### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
+
+### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
+
 
