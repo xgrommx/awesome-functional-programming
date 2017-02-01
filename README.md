@@ -937,22 +937,40 @@
 
 ### [Racket lang](https://racket-lang.org/)
 
-### [Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+### [Pyret](http://www.pyret.org/)
 
-### [Ela - Dynamic functional language](http://elalang.net/)
+A programming language designed to serve as an outstanding choice
+for programming education while exploring the confluence of scripting
+and functional programming.
 
-### [Eta - A powerful language for building scalable systems on the JVM](http://eta-lang.org/)
+### [Ela](http://elalang.net/)
 
-### [Koka - a function-oriented language with effect inference](https://github.com/koka-lang/koka)
+A dynamic functional language.
 
-### [Ditto is a super kawaii dependently typed language for you!](https://github.com/ditto/ditto)
+### [Eta](http://eta-lang.org/)
 
-### [F* (pronounced F star) is an ML-like functional programming language aimed at program verification](https://www.fstar-lang.org/)
+A powerful language for building scalable systems on the JVM.
 
-### [Idris is a general purpose pure functional programming language with dependent types](http://www.idris-lang.org/)
+### [Koka](https://github.com/koka-lang/koka)
 
-### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
+A function-oriented language with effect inference.
 
-### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
+### [Ditto](https://github.com/ditto/ditto)
 
+A super kawaii dependently typed language for you!
 
+### [F*](https://www.fstar-lang.org/) (pronounced F star)
+
+An ML-like functional programming language aimed at program verification.
+
+### [Idris](http://www.idris-lang.org/)
+
+A general purpose pure functional programming language with dependent types.
+
+### [Agda](https://github.com/agda/agda)
+
+A dependently typed functional programming language.
+
+### [Coq](https://coq.inria.fr/)
+
+A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
