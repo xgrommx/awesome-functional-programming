@@ -1,5 +1,54 @@
 # [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Content
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Tutorials and Articles](#tutorials-and-articles)
+  - [Monads](#monads)
+  - [Purescript](#purescript)
+  - [Elm](#elm)
+- [Books](#books)
+- [Resources](#resources)
+  - [Combinators](#combinators)
+- [Presentations](#presentations)
+- [Videos](#videos)
+- [Youtube channels](#youtube-channels)
+- [Libraries](#libraries)
+  - [Javascript](#javascript)
+  - [Livescript](#livescript)
+  - [Java](#java)
+  - [Clojure/ClojureScript](#clojureclojurescript)
+  - [ClojureScript](#clojurescript)
+  - [Scala](#scala)
+  - [Kotlin](#kotlin)
+  - [F#](#f)
+  - [C#](#c)
+  - [Swift](#swift)
+  - [Python](#python)
+  - [PHP](#php)
+  - [Rust](#rust)
+  - [Julia](#julia)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [OCaml](#ocaml)
+  - [Racket lang](#racket-lang)
+  - [Pyret](#pyret)
+  - [Ela](#ela)
+  - [Eta](#eta)
+  - [Koka](#koka)
+  - [Ditto](#ditto)
+  - [F* (pronounced F star)](#f-pronounced-f-star)
+  - [Idris](#idris)
+  - [Agda](#agda)
+  - [Coq](#coq)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Tutorials and Articles
 
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
