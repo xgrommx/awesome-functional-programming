@@ -1,5 +1,54 @@
 # [Awesome Functional Programming](https://en.wikipedia.org/wiki/Functional_programming) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Content
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Tutorials and Articles](#tutorials-and-articles)
+  - [Monads](#monads)
+  - [Purescript](#purescript)
+  - [Elm](#elm)
+- [Books](#books)
+- [Resources](#resources)
+  - [Combinators](#combinators)
+- [Presentations](#presentations)
+- [Videos](#videos)
+- [Youtube channels](#youtube-channels)
+- [Libraries](#libraries)
+  - [Javascript](#javascript)
+  - [Livescript](#livescript)
+  - [Java](#java)
+  - [Clojure/ClojureScript](#clojureclojurescript)
+  - [ClojureScript](#clojurescript)
+  - [Scala](#scala)
+  - [Kotlin](#kotlin)
+  - [F#](#f)
+  - [C#](#c)
+  - [Swift](#swift)
+  - [Python](#python)
+  - [PHP](#php)
+  - [Rust](#rust)
+  - [Julia](#julia)
+  - [Go](#go)
+  - [Haskell](#haskell)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [OCaml](#ocaml)
+  - [Racket lang](#racket-lang)
+  - [Pyret](#pyret)
+  - [Ela](#ela)
+  - [Eta](#eta)
+  - [Koka](#koka)
+  - [Ditto](#ditto)
+  - [F* (pronounced F star)](#f-pronounced-f-star)
+  - [Idris](#idris)
+  - [Agda](#agda)
+  - [Coq](#coq)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Tutorials and Articles
 
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
@@ -937,22 +986,40 @@
 
 ### [Racket lang](https://racket-lang.org/)
 
-### [Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+### [Pyret](http://www.pyret.org/)
 
-### [Ela - Dynamic functional language](http://elalang.net/)
+A programming language designed to serve as an outstanding choice
+for programming education while exploring the confluence of scripting
+and functional programming.
 
-### [Eta - A powerful language for building scalable systems on the JVM](http://eta-lang.org/)
+### [Ela](http://elalang.net/)
 
-### [Koka - a function-oriented language with effect inference](https://github.com/koka-lang/koka)
+A dynamic functional language.
 
-### [Ditto is a super kawaii dependently typed language for you!](https://github.com/ditto/ditto)
+### [Eta](http://eta-lang.org/)
 
-### [F* (pronounced F star) is an ML-like functional programming language aimed at program verification](https://www.fstar-lang.org/)
+A powerful language for building scalable systems on the JVM.
 
-### [Idris is a general purpose pure functional programming language with dependent types](http://www.idris-lang.org/)
+### [Koka](https://github.com/koka-lang/koka)
 
-### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
+A function-oriented language with effect inference.
 
-### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
+### [Ditto](https://github.com/ditto/ditto)
 
+A super kawaii dependently typed language for you!
 
+### [F*](https://www.fstar-lang.org/) (pronounced F star)
+
+An ML-like functional programming language aimed at program verification.
+
+### [Idris](http://www.idris-lang.org/)
+
+A general purpose pure functional programming language with dependent types.
+
+### [Agda](https://github.com/agda/agda)
+
+A dependently typed functional programming language.
+
+### [Coq](https://coq.inria.fr/)
+
+A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.
