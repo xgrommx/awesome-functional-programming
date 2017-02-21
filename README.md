@@ -90,7 +90,6 @@
 * [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
 * [Category Theory in JavaScript](https://jscategory.wordpress.com) (must have)
 * [Understanding Continuations](https://www.fpcomplete.com/user/jwiegley/understanding-continuations)
-* [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
 * [Polyfilling generators](http://gu.illau.me/posts/polyfilling-generators)
 * [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
