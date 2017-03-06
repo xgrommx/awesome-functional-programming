@@ -90,7 +90,6 @@
 * [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
 * [Category Theory in JavaScript](https://jscategory.wordpress.com) (must have)
 * [Understanding Continuations](https://www.fpcomplete.com/user/jwiegley/understanding-continuations)
-* [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
 * [Polyfilling generators](http://gu.illau.me/posts/polyfilling-generators)
 * [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization)
@@ -707,6 +706,7 @@ ___
 * [**Ramda** - A practical functional library for Javascript programmers](http://ramdajs.com)
 * [**functional.js** - The functional JavaScript library](http://functionaljs.com)
 * [**fantasy-land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
+* [**Crocks - A collection of well known Monadic Containers for your utter enjoyment.**](https://github.com/evilsoft/crocks)
 * [**wu.js** - is a JavaScript library providing higher order functions (such as map, filter, and reduce) for ECMAScript 6 iterators](http://fitzgen.github.io/wu.js)
 * [**pointfree-fantasy** - Point free wrappers for fantasy land](https://github.com/DrBoolean/pointfree-fantasy)
 * [**folktalejs** - Robust, Scalable, DRY. Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse](http://folktalejs.org)
@@ -985,5 +985,3 @@ ___
 ### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
 
 ### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
-
-
