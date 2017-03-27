@@ -4,7 +4,8 @@
 
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
-* [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
+* [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-f
+unctional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
 * [Dipping into wu.js: autoCurry](https://javascriptweblog.wordpress.com/2010/06/14/dipping-into-wu-js-autocurry)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/?1)
