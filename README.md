@@ -442,6 +442,7 @@ ___
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
 * [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
 * [Learn F#](https://www.manning.com/books/learn-fsharp)
+* [The Transparent Web](https://manning.com/books/the-transparent-web)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
 * [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
 * [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
