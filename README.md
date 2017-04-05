@@ -409,6 +409,7 @@ ___
 
 ## Books
 
+* [Functional Reactive Programming](https://www.manning.com/books/functional-reactive-programming)
 * [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
 * [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-cplusplus)
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
