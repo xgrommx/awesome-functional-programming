@@ -2,6 +2,7 @@
 
 ## Tutorials and Articles
 
+* [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 * [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Part 3: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/part-3-an-intro-to-functional-programming-concepts-in-javascript-febf9368ffe6)
@@ -89,10 +90,8 @@
 * [Functional programming in R language](http://adv-r.had.co.nz/Functional-programming.html)
 * [Category Theory in JavaScript](https://jscategory.wordpress.com) (must have)
 * [Understanding Continuations](https://www.fpcomplete.com/user/jwiegley/understanding-continuations)
-* [Category Theory for Promises/A+](http://brianmckenna.org/blog/category_theory_promisesaplus)
 * [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules)
 * [Polyfilling generators](http://gu.illau.me/posts/polyfilling-generators)
-* [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
 * [Fixed-point combinators in JavaScript: Memoizing recursive functions](http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization)
 * [Asynchronous programming and continuation-passing style in JavaScript](http://www.2ality.com/2012/06/continuation-passing-style.html)
 * [By example: Continuation-passing style in JavaScript](http://matt.might.net/articles/by-example-continuation-passing-style)
@@ -113,11 +112,6 @@
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
 * [An Introduction to Functional Programming in JavaScript](https://bjpelc.wordpress.com/2015/02/06/an-introduction-to-functional-programming-in-javascript)
-* [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
-* [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
-* [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
-* [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
-* [Использование линз на реальных примерах](http://blog.csssr.ru/2016/07/08/lenses/)
 * [Input and Output](http://learnyouahaskell.com/input-and-output)
 * [Function Application and Definition](http://slpopejoy.github.io/posts/2014-11-27-FunctionApplicationDefinition.html)
 * [Types & Kinds](http://slpopejoy.github.io/posts/2015-04-10-Types.html)
@@ -154,7 +148,6 @@
 * [Category Theory for Promises/A+](https://brianmckenna.org/blog/category_theory_promisesaplus)
 * [Everything Reduced: Transducers in Javascript](https://medium.com/@dtipson/everything-reduced-transducers-in-javascript-8ea3459bc7f9#.8udfq9qgc)
 * [Javascript Transducers 2: Stateful & Gateful](https://medium.com/@dtipson/javascript-transducers-2-stateful-gateful-1faa1b01ae50#.tpd0umbp2)
-* [Functional Lenses, How Do They Work](https://medium.com/@dtipson/functional-lenses-d1aba9e52254#.6hlng669r)
 * [Creating an ES6ish Compose in Javascript](https://medium.com/@dtipson/creating-an-es6ish-compose-in-javascript-ac580b95104a#.iiyge32r2)
 * [More Functional Javascript: Reducing Promises, Ramda.js, & Arrow functions again](https://medium.com/@dtipson/more-functional-javascript-reducing-promises-ramda-js-arrow-functions-again-c1f90e0a79d0#.iazm515xv)
 * [Functional Programming is for Dummies](https://medium.com/@dtipson/functional-programming-is-for-dummies-fa130a629250#.3eb04lfbp)
@@ -198,8 +191,7 @@
 * [Comparing Javascript generators vs Clojurescript lazy-seq by solving a Fibonnaci problem](https://medium.com/@rlucha/comparing-javascript-generators-vs-clojurescript-lazy-seq-by-solving-a-fibonnaci-problem-61c1524d67d6#.swxk99bgd)
 * [Grasping Haskell: functors, applicatives and monads (part 1)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-1-93368e0a7a74#.692ooxhnz)
 * [Grasping Haskell: functors, applicatives and monads (part 2)](https://medium.com/@xanderdeseyn/grasping-haskell-functors-applicatives-and-monads-part-2-65255e3e6a1d#.xigtg4wma)
-* [Functor, Foldable, and Traversable Over Binary Tree](https://blog.cppcabrera.com/posts/37-functor-traverse-fold-tree.html)
-* [lens over tea #1: lenses 101, traversals 101, and some implementation details](https://artyom.me/lens-over-tea-1)
+* [Functor, Foldable, and Traversable Over Binary Tree](https://queertypes.com/posts/37-functor-traverse-fold-tree.html)
 * [Functional Components with React stateless functions and Ramda](https://medium.com/@mirkomariani/functional-components-with-react-stateless-functions-and-ramda-e83e54fcd86b#.tr2jf6dv6)
 * [Support for deriving Functor, Foldable, and Traversable instances](https://ghc.haskell.org/trac/ghc/wiki/Commentary/Compiler/DeriveFunctor)
 * [Fold (higher-order function)](https://en.wikipedia.org/wiki/Fold_(higher-order_function))
@@ -208,8 +200,63 @@
 * [Composability: from Callbacks to Categories in ES6](https://medium.com/@homam/composability-from-callbacks-to-categories-in-es6-f3d91e62451e#.x3q3q9pzl)
 * [Understanding F-Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras)
 * [Fold](https://wiki.haskell.org/Fold)
-* [Catamorphisms in 15 Minutes!](http://chrislambda.github.io/blog/2014/01/30/catamorphisms-in-15-minutes/)
+* [Why Functional Programming Matters](https://blog.acolyer.org/2016/09/14/why-functional-programming-matters/)
+* [Smarter validation](https://ro-che.info/articles/2015-05-02-smarter-validation)
+* [The Algebra of Algebraic Data Types, Part 1](http://chris-taylor.github.io/blog/2013/02/10/the-algebra-of-algebraic-data-types/)
+* [The Algebra of Algebraic Data Types, Part 2](http://chris-taylor.github.io/blog/2013/02/11/the-algebra-of-algebraic-data-types-part-ii/)
+* [The Algebra of Algebraic Data Types, Part 3](http://chris-taylor.github.io/blog/2013/02/13/the-algebra-of-algebraic-data-types-part-iii/)
+* [Async in Purescript is fun and easy](http://qiita.com/kimagure/items/2ebce1399bac00c79656)
+* [Design Patterns in Haskell](http://blog.ezyang.com/2010/05/design-patterns-in-haskel/)
 * [So You Want to be a Functional Programmer Series by Charles Scalfani](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536#.cxfubzoqh)
+* [Haskell Progressive Example - An OpenGL 3D extension of the Mandelbrot set](http://yannesposito.com/Scratch/en/blog/Haskell-OpenGL-Mandelbrot/)
+* [Folds and Infinite Lists](http://argumatronic.com/posts/2016-09-17-infinite-folds.html)
+* [list-transformer - A beginner-friendly ListT](http://www.haskellforall.com/2016/07/list-transformer-beginner-friendly-listt.html)
+* [Sharing, Space Leaks, and Conduit and friends](http://www.well-typed.com/blog/2016/09/sharing-conduit/)
+* [Functors are Containers](https://bartoszmilewski.com/2014/01/14/functors-are-containers/)
+* [Tuples in JavaScript](http://oli.me.uk/2013/07/12/tuples-in-javascript/)
+* [Making juice with reduce/foldl](http://www.macwright.org/2015/01/03/reduce-juice.html)
+* [Getting audio from Youtube channels in the easiest way possible using Haskell](http://qiita.com/kimagure/items/0a2f3d60789c646e4426)
+* [From Callback to Future -> Functor -> Monad](https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5)
+* [Slaying a UI Antipattern in Fantasyland](https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a#.rmepdr82j)
+* [Form Validation As A Higher Order Component Pt.1](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0#.u2pkcyfb6)
+* [Form Validation As A Higher Order Component Pt.2](https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-2-1edb7881870d#.ldwpp7qgl)
+* [Using JavaScript to Learn Haskell](https://medium.com/@sjsyrek/using-javascript-to-learn-haskell-f57509015842#.g5kbyrz77)
+* [FFI with Haskell and Rust](https://mgattozzi.github.io/2016/10/01/haskell-rust.html)
+* [A Taste of Haskell](https://hookrace.net/blog/a-taste-of-haskell/)
+* [BEAUTIFUL FOLDS IN SCALA](https://softwaremill.com/beautiful-folds-in-scala/)
+* [Functional Programming In JS — With Practical Examples (Part 1)](https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276#.y01dinh7e)
+* [Immutable.js: The True Joy of JavaScript](http://blog.sigmapoint.pl/immutable-js-the-true-joy-of-javascript/)
+* [Mutual Recursion in Final Encoding](https://aherrmann.github.io/programming/2016/05/28/mutual-recursion-in-final-encoding/)
+* [Semigroups](https://medium.com/@gcanti/semigroups-f74f7643c0d4#.okttdogyg)
+* [Using F# on both the frontend and the backend](http://danielbachler.de/2016/12/10/f-sharp-on-the-frontend-and-the-backend.html)
+* [Stack safe Function composition](https://medium.com/@safareli/stack-safe-function-composition-85d61feee37e#.fige7eu8l)
+* [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
+* [The versatility of Array methods](https://james-forbes.com/index.html?/posts/versatility-of-array-methods)
+* [Functional Programming in JavaScript](http://dealwithjs.io/functional-programming-in-javascript/)
+
+### [Lenses]()
+
+* [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
+* [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
+* [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
+* [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
+* [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
+* [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
+* [Использование линз на реальных примерах](http://blog.csssr.ru/2016/07/08/lenses/)
+* [lens over tea #1: lenses 101, traversals 101, and some implementation details](https://artyom.me/lens-over-tea-1)
+* [Functional Lenses, How Do They Work](https://medium.com/@dtipson/functional-lenses-d1aba9e52254#.6hlng669r)
+* [An Introduction Into Lenses In JavaScript Functional Getter/Setter](https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5#.ck7t1syp0)
+* [Pointwise Lenses](https://www.well-typed.com/blog/2014/04/pointwise-lenses/)
+* [Линзы: Real World](https://ruhaskell.org/posts/packages/2015/01/28/lenses-real-world.html)
+* [Haskell Lenses Notes](https://rafal.io/posts/haskell-lenses-notes.html)
+* [Isomorphism lenses](http://www.twanvl.nl/blog/haskell/isomorphism-lenses)
+* [An Intro to Lens With No Theory](https://abesto.net/an-intro-to-lens-with-no-theory/)
+* [Lens you an applicative for great haskell?](https://izbicki.me/blog/lens-you-an-applicative-for-great-haskell.html)
+* [I got lenses in my Functors](https://izbicki.me/blog/i-got-lenses-in-my-functors)
+* [A Little Lens Starter Tutorial](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial)
+* [Introduction to optics: lenses and prisms](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe#.nnp002k5j)
+* [Lens Tutorial - Introduction (part 1)](http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html)
+* [Lens Tutorial - Stab & Traversal (Part 2)](http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -239,6 +286,8 @@
 * [Monads in C++](http://bartoszmilewski.com/2011/07/11/monads-in-c/)
 * [Monads in plain JavaScript](http://modernjavascript.blogspot.com/2013/06/monads-in-plain-javascript.html)
 * [Practical Intro to Monads in JavaScript: Either](https://tech.evojam.com/2016/03/21/practical-intro-to-monads-in-javascript-either)
+* [Practical Intro to Monads in JavaScript: Validation](https://tech.evojam.com/2016/04/26/practical-intro-to-monads-in-javascript-validation/)
+* [Practical Intro to Monads in JavaScript](https://tech.evojam.com/2016/02/22/practical-intro-to-monads-in-javascript/)
 * [Monads, promises, arrays in Javascript](http://pseudocorta.blogspot.com/2014/05/monads-promises-arrays-in-javascript.html)
 * [Monad syntax for JavaScript](https://blog.jcoglan.com/2011/03/06/monad-syntax-for-javascript)
 * [Translation from Haskell to JavaScript of selected portions of the best introduction to monads I’ve ever read](https://blog.jcoglan.com/2011/03/05/translation-from-haskell-to-javascript-of-selected-portions-of-the-best-introduction-to-monads-ive-ever-read)
@@ -264,6 +313,13 @@
 * [MonadFix](https://wiki.haskell.org/MonadFix)
 * [Monads - Array, Promise and Maybe monads. Plus Docker is a functor](https://glebbahmutov.com/blog/monads/)
 * [The Marvellously Mysterious JavaScript Maybe Monad](http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+* [The midnight Monad, a journey to enlightenment](http://www.lambdacat.com/the-midnight-monad-a-journey-to-enlightenment/)
+* [Monads in Haskell: ((->) r)](http://www.mjoldfield.com/atelier/2014/07/monads-fn.html)
+* [Monoids, Functors, Applicatives, and Monads: 10 Main Ideas](https://monadmadness.wordpress.com/2015/01/02/monoids-functors-applicatives-and-monads-10-main-ideas/)
+* [Kleisli Functors](http://elvishjerricco.github.io/2016/10/12/kleisli-functors.html)
+* [The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial](https://unknownparallel.wordpress.com/zero-analogy-monad-tutorial/)
+* [Monads Demystified](http://blog.reverberate.org/2015/08/monads-demystified.html)
+* [Understanding Monads](https://medium.com/real-world-fsharp/understanding-monads-db30eeadf2bf#.dtr6wmvyc)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -291,6 +347,9 @@
 * [PureScript — An Intro for JavaScript Hackers](https://medium.com/@dum.constantin/purescript-an-intro-for-javascript-hackers-605442e963a3#.h6b0uufdg)
 * [Parsing complex foreign objects in PureScript](http://codingstruggles.com/purescript/purescript-parsing-complex-foreign-objects.html)
 * [Writing a simple Telegram chat bot in Purescript](http://qiita.com/kimagure/items/2da0fe86b218b3f832d0)
+* [Making a Weather Telegram bot in Purescript](http://futurice.com/blog/making-a-weather-telegram-bot-in-purescript)
+* [Row span with PureScript pux and JavaScript redux](http://www.andrevdm.com/posts/2016-09-01-rowSpan-pux-redux.html)
+* [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef)
 
 ### [Elm](http://elm-lang.org)
 
@@ -330,13 +389,30 @@
 * [Structured TodoMVC example with Elm](https://medium.com/@_rchaves_/structured-todomvc-example-with-elm-a68d87cd38da#.srxm7txdt)
 * [10 reasons why you should give Elm a try](https://medium.com/@tibastral/10-reasons-why-you-should-give-elm-a-try-62b56d305643#.np2phq2v9)
 * [Why Elm is Going to Change the World](https://medium.com/@dailydrip/why-elm-is-going-to-change-the-world-f5a6c693b2ca#.8hcwvohtp)
+* [Building A React/Redux/Elm Bridge](https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76#.h6rmwevj4)
+* [Elm for the Frontend, Right Now (Updated for Elm 0.18)](http://bendyworks.com/blog/elm-frontend-right-now-updated-for-0-18)
 
 ---
+
+## Awesome
+
+* [Awesome Haskell - A curated list of awesome Haskell frameworks, libraries and software](https://github.com/uhub/awesome-haskell)
+* [Awesome Elm - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list](https://github.com/isRuslan/awesome-elm)
+* [Awesome F# - A curated list of awesome F# frameworks, libraries, software and resources](https://github.com/VPashkov/awesome-fsharp)
+* [Awesome Scala - A community driven list of useful Scala libraries, frameworks and software](https://github.com/lauris/awesome-scala)
+* [Awesome Haskell - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line](https://github.com/krispo/awesome-haskell)
+* [Awesome PureScript - A curation of awesome PureScript libraries, resources and shiny things](https://github.com/passy/awesome-purescript)
+* [Awesome Functional Python - A curated list of awesome things related to functional programming in Python](https://github.com/sfermigier/awesome-functional-python)
+* [Awesome Coq - A curated list of awesome Coq frameworks, libraries and software](https://github.com/uhub/awesome-coq)
+
+___
 
 ## Books
 
 * [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
+* [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-cplusplus)
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
+* [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet)
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
 * [Mostly adequate guide to FP (in javascript) - russian version](https://github.com/MostlyAdequate/mostly-adequate-guide-ru)
@@ -364,13 +440,25 @@
 * [F# for Fun and Profit eBook](https://swlaschin.gitbooks.io/fsharpforfunandprofit/content/)
 * [An Introduction to Elm](http://guide.elm-lang.org/)
 * [A book about functional programming in JavaScript](https://github.com/getify/functional-light-js)
+* [Learn you an Agda](http://learnyouanagda.liamoc.net/toc.html)
 * [Learn F#](https://www.manning.com/books/learn-fsharp)
 * [The Transparent Web](https://manning.com/books/the-transparent-web)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read)
+* [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
+* [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
+* [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
 
 ---
 
 ## Resources
 
+* [ML Dialects and Haskell: SML, OCaml, F#, Haskell](http://hyperpolyglot.org/ml)
+* [Haskell for OCaml programmers](http://science.raphael.poss.name/haskell-for-ocaml-programmers.html)
+* [Free monads](https://gist.github.com/safareli/b43f43d3e65483b71b08b894386f4d71)
+* [Functional Programming by Example](http://caiorss.github.io/Functional-Programming/) (***)
+* [Haskell by Example](https://lotz84.github.io/haskellbyexample/)
+* [http://chris-taylor.github.io](http://chris-taylor.github.io/)
+* [FPCasts - Your source for Functional Programing Related Podcasts](https://www.fpcasts.com/)
 * [Blog Jakub Arnold](http://blog.jakubarnold.cz/)
 * [Primers](https://jeremykun.com/primers/)
 * [Railway Oriented Programming](http://fsharpforfunandprofit.com/rop/)
@@ -475,6 +563,9 @@
 * [cor - The Language of the Web](https://github.com/yosbelms/cor)
 * [djinn - Generate Haskell code from a type](https://github.com/augustss/djinn)
 * [forwardcourses about functional programming](https://forwardcourses.com/lectures/track/fp)
+* [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
+* [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
+* [JSON to Elm](http://eeue56.github.io/json-to-elm/)
 
 ---
 
@@ -492,7 +583,7 @@
 * [Fixed-point combinator](https://en.wikipedia.org/wiki/Fixed-point_combinator)
 * [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
 * [Collected Lambda Calculus Functions](http://jwodder.freeshell.org/lambda.html)
-* [Combinatory Logic](http://plato.stanford.edu/entries/logic-combinatory/)
+* [Combinatory Logic](http://plato.stanford.edu/entries/logic-combinatory/) (*)
 * [Combinatory Logic: Finding and Evaluating Combinators](https://www.npmjs.com/package/combilog)
 * [Maths - Combinatory Logic](http://www.euclideanspace.com/maths/discrete/logic/combinatory/index.htm)
 * [Lambda Calculus](http://softoption.us/content/node/30)
@@ -548,6 +639,8 @@
 * [Reactive UIs with Halogen](https://docs.google.com/presentation/d/1uwKxJzNx8pBL2QCUKYy2mgkEbrCdEjKbYOj3mJ4nyEo/edit#slide=id.g775150948_0_41)
 * [Fun* JavaScript Workshop - Dr. Gleb Bahmutov PhD](http://slides.com/bahmutov/fun-javascript-workshop#/)
 * [TYPESAFE SQL IN HASKELL - AN INTRODUCTION TO OPALEYE](http://opaleye.benkolera.com/#/)
+* [Playing with Graphics and Animations in Haskell by Manuel Chakravarty](https://speakerdeck.com/mchakravarty/playing-with-graphics-and-animations-in-haskell)
+* [Practically workshop](https://www.slideshare.net/secret/3IPPDiGR2QXNEz)
 
 ---
 
@@ -568,11 +661,13 @@
 * [Monad a day 3: State](https://vimeo.com/109984691)
 * [Lenses Quick n’ Dirty](https://vimeo.com/104807358)
 * [Frontend Masters Workshop finish up](https://vimeo.com/97575933)
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-function-composition)
 * [A Million Ways to Fold in JS](https://www.youtube.com/watch?v=JZSoPZUoR58)
 * [Coyoneda in Javascript](https://www.youtube.com/watch?v=WH5BrkzGgQY)
 * [Freer Monad (We define Maybe and IO in the freer monad)](https://www.youtube.com/watch?v=RkDtMeZXMTA)
 * [Free(er) Monads in JS pt 2 (Defining an interpreter for multiple natural transformations)](https://www.youtube.com/watch?v=KFCEJUjsdQg)
 * [What is pure functional programming, and how it can improve our application testing? by Luca Molteni](https://www.youtube.com/watch?v=dOJPDH4461k)
+* [Start Using Elm to Build Web Applications](https://egghead.io/courses/start-using-elm-to-build-web-applications)
 * [How to Create Tetris in Elm](https://www.youtube.com/watch?v=GMSXYnMH1gg&list=PL7C8fMD-89DKhlerIE3BrYNd0PlhA6Zch)
 * [Scott Wlaschin - Railway Oriented Programming — error handling in functional languages](https://vimeo.com/97344498)
 * [Lambda Jam 2014 - Eric Meijer - The Lost Art of Denotational Semantics](https://www.youtube.com/watch?v=pOl4E8x3fmw)
@@ -590,6 +685,21 @@
 * [Monads, Monoids and Composition w/ Functional JavaScript](https://www.youtube.com/watch?v=ZQSU4geXAxM)
 * [«PureScript livecoding» by Dmirti Bushenko](https://www.youtube.com/watch?v=Sc3ci8j7Wok&list=PLtAOYbbqpTmxg5fTJK7e8ZXdGzYLROsRm&index=11)
 * [Learning Functional Programming with JavaScript by Anjana Vakil at JSUnconf 2016](https://www.youtube.com/watch?v=e-5obm1G_FY)
+* [Elm in Purescript](https://www.youtube.com/watch?v=O_kWwaghZ9U)
+* [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
+* [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
+* ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
+
+---
+
+## Youtube channels
+
+* [Functional Works](https://www.youtube.com/channel/UCE6NivlVPGUn3TMtDAeL2vQ)
+* [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
+* [ruHaskell](https://www.youtube.com/channel/UCbIkFj1mYQI7lmrc5BXGyAg)
+* [Brian Lonsdorf](https://www.youtube.com/channel/UCKjVLbSDoM-8-eEM7A30igA)
+* [jasonofthel33t](https://www.youtube.com/user/jasonofthel33t)
+* [Лекториум](https://www.youtube.com/user/OpenLektorium)
 
 ---
 
@@ -602,6 +712,7 @@
 * [**Ramda** - A practical functional library for Javascript programmers](http://ramdajs.com)
 * [**functional.js** - The functional JavaScript library](http://functionaljs.com)
 * [**fantasy-land** - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
+* [**Crocks - A collection of well known Monadic Containers for your utter enjoyment.**](https://github.com/evilsoft/crocks)
 * [**wu.js** - is a JavaScript library providing higher order functions (such as map, filter, and reduce) for ECMAScript 6 iterators](http://fitzgen.github.io/wu.js)
 * [**pointfree-fantasy** - Point free wrappers for fantasy land](https://github.com/DrBoolean/pointfree-fantasy)
 * [**folktalejs** - Robust, Scalable, DRY. Folktale is a suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse](http://folktalejs.org)
@@ -696,11 +807,20 @@
 * [**TsMonad** - Little monad library designed for TypeScript](https://github.com/cbowdon/TsMonad)
 * [**jabz** - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz](https://github.com/paldepind/jabz)
 * [**async-to-gen** - Transform async functions to generator functions with speed and simplicity](https://github.com/leebyron/async-to-gen)
+* [**imlazy** - Functional, declarative, immutable and lazy as you like](https://github.com/benji6/imlazy)
+* [**partial.lenses** - ](https://github.com/calmm-js/partial.lenses)
+* [**ramda-lens** - Lens library built on ramda](https://github.com/ramda/ramda-lens)
+* [**lenses** - Composable kmett style lenses](https://github.com/DrBoolean/lenses)
 * [**streamjs** - Lazy Object Streaming Pipeline for JavaScript](https://github.com/winterbe/streamjs)
 * [**chained-promise** - Functional programming tools for recurring promises](https://github.com/google/chained-promise)
 * [**maryamyriameliamurphies.js** - A library of Haskell-style morphisms ported to ES2015 JavaScript using Babel](https://github.com/sjsyrek/maryamyriameliamurphies.js)
 * [**asyncp** - Port of the async library to use Promises](https://github.com/jgornick/asyncp)
 * [**flow-static-land** - Implementation of common algebraic types in JavaScript + Flow](https://github.com/gcanti/flow-static-land)
+* [**tiny-tuple** - Tiny Tuple library for Client or Server](https://github.com/avoidwork/tiny-tuple)
+* [**adt.js** - Algebraic data types for Javascript](https://github.com/natefaubion/adt.js)
+* [**fantasy-states** - State control structure](https://github.com/fantasyland/fantasy-states)
+* [**akh-cont** - ](https://github.com/mattbierner/akh-cont)
+* [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
@@ -771,6 +891,7 @@
 * [**FuncSharp** - Functional programming in C#](https://github.com/siroky/FuncSharp)
 * [**monadsharp** - A collection of monads for C# that provide some functional programming flavor](https://github.com/kallanreed/monadsharp)
 * [**csharp-probability-monad** - A probabilistic programming framework for C#](https://github.com/joashc/csharp-probability-monad)
+* [**Ramda.NET** - Practical functional C# port from Ramda.js](https://github.com/sagifogel/Ramda.NET)
 
 ### [Swift](https://developer.apple.com/swift)
 
@@ -786,6 +907,8 @@
 * [**Argo** - Functional JSON parsing library for Swift](https://github.com/thoughtbot/Argo)
 * [**Interstellar** - Simple and lightweight Functional Reactive Coding in Swift for the rest of us](https://github.com/JensRavens/Interstellar)
 * [**Funky** - Functional programming tools and experiments in Swift](https://github.com/brynbellomy/Funky)
+* [**Functional** - A functional programming framework for Swift](https://github.com/broomburgo/Functional)
+* [**SwiftSequence** - A μframework of extensions for SequenceType in Swift 2.0, inspired by Python's itertools, Haskell's standard library, and other things](https://github.com/oisdk/SwiftSequence)
 
 ### [Python](https://www.python.org/)
 
@@ -794,6 +917,7 @@
 * [**funcy** - A fancy and practical functional tools](https://github.com/Suor/funcy)
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
 * [**f** - Functional stuff for Python](https://github.com/igrishaev/f)
+* [**Coconut** - Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
 
 ### [PHP](https://github.com/php/php-src)
 
@@ -804,6 +928,7 @@
 * [**YaLinqo** - Yet Another LINQ to Objects for PHP](https://github.com/Athari/YaLinqo)
 * [**ginq** - LINQ to Object inspired DSL for PHP](https://github.com/akanehara/ginq)
 * [**pramda** - Practical Functional Programming in PHP](https://github.com/kapolos/pramda)
+* [**prelude** - Functional library for PHP](https://github.com/sergiors/prelude)
 
 ### [Rust](https://github.com/rust-lang/rust)
 
@@ -827,6 +952,8 @@
 ***
 * [**futhark** - A data-parallel functional programming language](https://github.com/HIPERFIT/futhark)
 * [**reflex** - Practical Functional Reactive Programming](https://github.com/reflex-frp/reflex)
+* [**ghcvm** - A Haskell to JVM compiler that supports GHC Haskell](https://github.com/rahulmutt/ghcvm)
+* [**ivorylang** - is an eDSL for safe systems programming. You can think of Ivory as a safer C, embedded in Haskell](http://ivorylang.org/index.html)
 
 ### [Elixir](https://github.com/elixir-lang/elixir)
 
@@ -843,3 +970,24 @@
 * [**bucklescript** - A backend for the OCaml compiler which emits JavaScript](https://github.com/bloomberg/bucklescript)
 
 ### [Racket lang](https://racket-lang.org/)
+
+***
+[**hackett** - (Very) WIP implementation of a Haskell 98-like Lisp in Racket](https://github.com/lexi-lambda/hackett)
+
+### [Pyret is a programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming](http://www.pyret.org/)
+
+### [Ela - Dynamic functional language](http://elalang.net/)
+
+### [Eta - A powerful language for building scalable systems on the JVM](http://eta-lang.org/)
+
+### [Koka - a function-oriented language with effect inference](https://github.com/koka-lang/koka)
+
+### [Ditto is a super kawaii dependently typed language for you!](https://github.com/ditto/ditto)
+
+### [F* (pronounced F star) is an ML-like functional programming language aimed at program verification](https://www.fstar-lang.org/)
+
+### [Idris is a general purpose pure functional programming language with dependent types](http://www.idris-lang.org/)
+
+### [Agda is a dependently typed functional programming language](https://github.com/agda/agda)
+
+### [Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://coq.inria.fr/)
