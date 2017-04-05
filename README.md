@@ -256,6 +256,8 @@ unctional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [I got lenses in my Functors](https://izbicki.me/blog/i-got-lenses-in-my-functors)
 * [A Little Lens Starter Tutorial](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/a-little-lens-starter-tutorial)
 * [Introduction to optics: lenses and prisms](https://medium.com/@gcanti/introduction-to-optics-lenses-and-prisms-3230e73bfcfe#.nnp002k5j)
+* [Lens Tutorial - Introduction (part 1)](http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html)
+* [Lens Tutorial - Stab & Traversal (Part 2)](http://blog.jakubarnold.cz/2014/08/06/lens-tutorial-stab-traversal-part-2.html)
 
 ### [Monads](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
@@ -348,6 +350,7 @@ unctional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Writing a simple Telegram chat bot in Purescript](http://qiita.com/kimagure/items/2da0fe86b218b3f832d0)
 * [Making a Weather Telegram bot in Purescript](http://futurice.com/blog/making-a-weather-telegram-bot-in-purescript)
 * [Row span with PureScript pux and JavaScript redux](http://www.andrevdm.com/posts/2016-09-01-rowSpan-pux-redux.html)
+* [Make the Leap from JavaScript to PureScript](https://hackernoon.com/make-the-leap-from-javascript-to-purescript-5b35b1c06fef)
 
 ### [Elm](http://elm-lang.org)
 
@@ -401,6 +404,7 @@ unctional-programming-concepts-in-javascript-part-2-f45228c49eed)
 * [Awesome Haskell - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line](https://github.com/krispo/awesome-haskell)
 * [Awesome PureScript - A curation of awesome PureScript libraries, resources and shiny things](https://github.com/passy/awesome-purescript)
 * [Awesome Functional Python - A curated list of awesome things related to functional programming in Python](https://github.com/sfermigier/awesome-functional-python)
+* [Awesome Coq - A curated list of awesome Coq frameworks, libraries and software](https://github.com/uhub/awesome-coq)
 
 ___
 
