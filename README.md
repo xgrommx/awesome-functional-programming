@@ -822,6 +822,7 @@ ___
 * [**fantasy-states** - State control structure](https://github.com/fantasyland/fantasy-states)
 * [**akh-cont** - ](https://github.com/mattbierner/akh-cont)
 * [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
+* [**ez-dom** - Functional library to manipulate the DOM](https://github.com/jonathandion/ez-dom)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
