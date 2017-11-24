@@ -14,7 +14,6 @@
 * [Hylomorphism(その2)](http://d.hatena.ne.jp/m-a-o/20061117/p1)
 * [Recursion schemeとHaskell](https://qiita.com/fumieval/items/01c7d7f93e261f843ef5)
 * [Compositional data types](http://www.itu.dk/~paba/modularity/pubs/talks/bahr11wgp.html)
-
 * [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes)
 * [Recursion Schemes](https://notepad.mmakowski.com/Recursion%20Schemes?revision=1a0cbb1a636e157a26f6a7175e91328cf26a2573)
 * [Hylomorphisms in Haskell](https://ulissesaraujo.wordpress.com/2009/04/09/hylomorphisms-in-haskell/)
