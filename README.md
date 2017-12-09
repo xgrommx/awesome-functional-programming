@@ -809,7 +809,7 @@ ___
 * [**jabz** - Powerful and practical abstractions for JavaScript and TypeScript. Functors, Monads, Traversables and all that jazz](https://github.com/paldepind/jabz)
 * [**async-to-gen** - Transform async functions to generator functions with speed and simplicity](https://github.com/leebyron/async-to-gen)
 * [**imlazy** - Functional, declarative, immutable and lazy as you like](https://github.com/benji6/imlazy)
-* [**partial.lenses** - ](https://github.com/calmm-js/partial.lenses)
+* [**partial.lenses** - Partial lenses is a comprehensive, high-performance optics library for JavaScript](https://github.com/calmm-js/partial.lenses)
 * [**ramda-lens** - Lens library built on ramda](https://github.com/ramda/ramda-lens)
 * [**lenses** - Composable kmett style lenses](https://github.com/DrBoolean/lenses)
 * [**streamjs** - Lazy Object Streaming Pipeline for JavaScript](https://github.com/winterbe/streamjs)
@@ -820,7 +820,7 @@ ___
 * [**tiny-tuple** - Tiny Tuple library for Client or Server](https://github.com/avoidwork/tiny-tuple)
 * [**adt.js** - Algebraic data types for Javascript](https://github.com/natefaubion/adt.js)
 * [**fantasy-states** - State control structure](https://github.com/fantasyland/fantasy-states)
-* [**akh-cont** - ](https://github.com/mattbierner/akh-cont)
+* [**akh-cont** - Akh continuation monad and monad transformer](https://github.com/mattbierner/akh-cont)
 * [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 * [**ez-dom** - Functional library to manipulate the DOM](https://github.com/jonathandion/ez-dom)
 
