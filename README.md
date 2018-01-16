@@ -701,6 +701,7 @@ ___
 * [Brian Lonsdorf](https://www.youtube.com/channel/UCKjVLbSDoM-8-eEM7A30igA)
 * [jasonofthel33t](https://www.youtube.com/user/jasonofthel33t)
 * [Лекториум](https://www.youtube.com/user/OpenLektorium)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
 ---
 
