@@ -866,6 +866,7 @@ ___
 ### [Kotlin](https://github.com/JetBrains/kotlin)
 
 ***
+* [**Arrow** - Functional programming library, which adds patterns, type classes and more](http://arrow-kt.io/)
 * [**Forge** - Functional style JSON parsing written in Kotlin](https://github.com/kittinunf/Forge)
 * [**funktional** - Kotlin monads](https://github.com/mplatvoet/funktional)
 * [**funKTionale** - Functional constructs for Kotlin](https://github.com/MarioAriasC/funKTionale)
@@ -874,6 +875,7 @@ ___
 ### [F#](https://github.com/fsharp/fsharp)
 
 ***
+* [**FSharpPlus** - A complete and extensible base library for F#.](https://github.com/gusty/FSharpPlus)
 * [**FSharpx.Extras** - Functional programming and other utilities](https://github.com/fsprojects/FSharpx.Extras)
 * [**chiron** - Functional JSON library for F#](https://github.com/xyncro/chiron)
 * [**hekate** - Purely Functional Graphs for F#](https://github.com/xyncro/hekate)
