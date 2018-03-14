@@ -448,6 +448,7 @@ ___
 * [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
 * [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
+* [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
 
 ---
 
