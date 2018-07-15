@@ -2,6 +2,7 @@
 
 ## Tutorials and Articles
 
+
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 * [Part 1: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c)
 * [Part 2: An Intro to Functional Programming Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-part-2-f45228c49eed)
@@ -449,6 +450,7 @@ ___
 * [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
 * [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
+* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) 
 
 ---
 
