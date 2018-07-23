@@ -449,6 +449,7 @@ ___
 * [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
 * [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
+* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) 
 
 ---
 
