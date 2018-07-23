@@ -703,6 +703,7 @@ ___
 * [Brian Lonsdorf](https://www.youtube.com/channel/UCKjVLbSDoM-8-eEM7A30igA)
 * [jasonofthel33t](https://www.youtube.com/user/jasonofthel33t)
 * [Лекториум](https://www.youtube.com/user/OpenLektorium)
+* [Scala Russia](https://www.youtube.com/channel/UCR4iuvbk9DCuieR1ADIi0-Q)
 
 ---
 
