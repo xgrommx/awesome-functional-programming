@@ -648,6 +648,7 @@ ___
 
 ## Videos
 
+* [Functional programming in JavaScript by Mattias Petter Johansson (funfunfunction)](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 * [Jason Ganetsky on Making a Fast Curry: Push/Enter vs. Eval/Apply for Higher-order Languages](http://paperswelove.org/2015/video/jason-ganetsky-fast-curry)
 * [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 * [Lambda Days 2015 - Kuba Waliński - Fun with Functional JavaScript](https://www.youtube.com/watch?v=WY3q6Np7PwM)
