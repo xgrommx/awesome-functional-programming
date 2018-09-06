@@ -320,6 +320,7 @@
 * [The Dead Simple, No Chit Chat, Zero-Analogy Haskell Monad Tutorial](https://unknownparallel.wordpress.com/zero-analogy-monad-tutorial/)
 * [Monads Demystified](http://blog.reverberate.org/2015/08/monads-demystified.html)
 * [Understanding Monads](https://medium.com/real-world-fsharp/understanding-monads-db30eeadf2bf#.dtr6wmvyc)
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 ### [Purescript](http://www.purescript.org)
 
