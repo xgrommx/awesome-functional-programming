@@ -827,6 +827,7 @@ ___
 * [**akh-cont** - Akh continuation monad and monad transformer](https://github.com/mattbierner/akh-cont)
 * [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 * [**ez-dom** - Functional library to manipulate the DOM](https://github.com/jonathandion/ez-dom)
+* [**purify** - Functional programming library for TypeScript focusing on ADTs](https://github.com/gigobyte/purify)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
