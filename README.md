@@ -928,6 +928,7 @@ ___
 * [**toolz** - A functional standard library for Python](https://github.com/pytoolz/toolz)
 * [**f** - Functional stuff for Python](https://github.com/igrishaev/f)
 * [**Coconut** - Simple, elegant, Pythonic functional programming](http://coconut-lang.org/)
+* [**pyMonet** - High abstract library for functional programming. Contains algebraic data structures known from Haskell or Scala](https://github.com/przemyslawjanpietrzak/pyMonet)
 
 ### [PHP](https://github.com/php/php-src)
 
