@@ -452,6 +452,7 @@ ___
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
 * [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
 * [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) 
+* [Get Programming with Clojure](https://www.manning.com/books/get-programming-with-clojure)
 
 ---
 
