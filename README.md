@@ -829,6 +829,7 @@ ___
 * [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 * [**ez-dom** - Functional library to manipulate the DOM](https://github.com/jonathandion/ez-dom)
 * [**purify** - Functional programming library for TypeScript focusing on ADTs](https://github.com/gigobyte/purify)
+* [**tifi** - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both undefined and null. Tifi is inspired by the OCaml/Reason utilities for the option data type](https://github.com/mobily/tifi)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
