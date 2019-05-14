@@ -233,6 +233,7 @@
 * [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 * [The versatility of Array methods](https://james-forbes.com/index.html?/posts/versatility-of-array-methods)
 * [Functional Programming in JavaScript](http://dealwithjs.io/functional-programming-in-javascript/)
+* [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language)
 
 ### [Lenses]()
 
