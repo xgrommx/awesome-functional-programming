@@ -841,7 +841,7 @@ ___
 ***
 * [**TotallyLazy** - A complete functional environment for Java](http://totallylazy.com)
 * [**Frege** - is a Haskell for the JVM. It brings purely functional programing to the Java platform.](https://github.com/Frege/frege)
-* [**javaslang** - More Control. Less Code. Functional Library for Java 8+](http://javaslang.com)
+* [**Vavr** - (formerly called Javaslang) object-functional library that runs with Java 8+](https://www.vavr.io/)
 * [**functionaljava** - Functional programming in Java](https://github.com/functionaljava/functionaljava)
 * [**yeti** - Functional programming language for JVM](https://github.com/mth/yeti)
 * [**Jinq** - LINQ-style queries for Java 8](https://github.com/my2iu/Jinq)
