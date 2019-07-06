@@ -945,6 +945,7 @@ ___
 
 ***
 * [**elmesque** - An attempt at porting Elm's incredibly useful, purely functional std graphics modules](https://github.com/mitchmindtree/elmesque)
+* [**Functional Programming Jargon** - A glossary of Functional Programming terminologies explained in Rust](https://github.com/JasonShin/functional-programming-jargon.rs)
 
 ### [Julia](https://github.com/JuliaLang/julia)
 
