@@ -452,6 +452,7 @@ ___
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
 * [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
 * [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) 
+* [Grokking Simplicity: Taming complex software with functional thinking - Eric Normand](https://www.manning.com/books/grokking-simplicity)
 
 ---
 
