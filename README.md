@@ -415,6 +415,7 @@ ___
 * [Functional Programming in Java](https://www.manning.com/books/functional-programming-in-java)
 * [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-cplusplus)
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp)
+* [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Functional Concurrency in .NET](https://www.manning.com/books/functional-concurrency-in-dotnet)
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c)
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
