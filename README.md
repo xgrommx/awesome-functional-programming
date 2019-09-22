@@ -233,6 +233,7 @@
 * [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 * [The versatility of Array methods](https://james-forbes.com/index.html?/posts/versatility-of-array-methods)
 * [Functional Programming in JavaScript](http://dealwithjs.io/functional-programming-in-javascript/)
+* [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language)
 
 ### [Lenses]()
 
@@ -695,6 +696,7 @@ ___
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
 * [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
 * ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
+* [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers)
 
 ---
 
