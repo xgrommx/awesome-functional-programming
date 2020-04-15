@@ -867,6 +867,7 @@ ___
 * [**sanctuary-type-classes** - Standard library for Fantasy Land](https://github.com/sanctuary-js/sanctuary-type-classes)
 * [**ez-dom** - Functional library to manipulate the DOM](https://github.com/jonathandion/ez-dom)
 * [**purify** - Functional programming library for TypeScript focusing on ADTs](https://github.com/gigobyte/purify)
+* [**QIO** - Purely functional effect management library for Typescript.](https://qio.netlify.com)
 
 ### [Livescript](https://github.com/gkz/LiveScript)
 
