@@ -269,6 +269,7 @@
 * [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 * [The versatility of Array methods](https://james-forbes.com/index.html?/posts/versatility-of-array-methods)
 * [Functional Programming in JavaScript](http://dealwithjs.io/functional-programming-in-javascript/)
+* [Composition of Functions](https://github.com/fp-works/function-composition-cheatsheet)
 
 ### [Lenses]()
 
