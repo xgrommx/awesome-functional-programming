@@ -274,7 +274,6 @@
 
 * [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 * [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
-* [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
 * [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
 * [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
 * [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
