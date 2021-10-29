@@ -493,6 +493,7 @@ ___
 * [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
 * [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
+* [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 
 ---
 
