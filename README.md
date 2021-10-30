@@ -494,6 +494,7 @@ ___
 * [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
 * [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
+* [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 
 ---
 
