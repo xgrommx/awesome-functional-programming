@@ -269,6 +269,7 @@
 * [Applicative functors: definition and syntax](http://tomasp.net/blog/applicative-functors.aspx/)
 * [The versatility of Array methods](https://james-forbes.com/index.html?/posts/versatility-of-array-methods)
 * [Functional Programming in JavaScript](http://dealwithjs.io/functional-programming-in-javascript/)
+* [Abstracting Computations with Type Classes](https://freecontent.manning.com/abstracting-computations-with-type-classes/)
 
 ### [Lenses]()
 
@@ -357,6 +358,7 @@
 * [Monads Demystified](http://blog.reverberate.org/2015/08/monads-demystified.html)
 * [Understanding Monads](https://medium.com/real-world-fsharp/understanding-monads-db30eeadf2bf#.dtr6wmvyc)
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+* [Monads as Practical Functionality Providers](https://freecontent.manning.com/monads-as-practical-functionality-providers/)
 
 ### [Purescript](http://www.purescript.org)
 
@@ -737,6 +739,7 @@ ___
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
 * [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
 * ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
+* [The fuel for the Functional Programming engine](https://youtu.be/3G9wOODP7y4) - Michal Plachta
 
 ---
 
@@ -749,6 +752,7 @@ ___
 * [jasonofthel33t](https://www.youtube.com/user/jasonofthel33t)
 * [Лекториум](https://www.youtube.com/user/OpenLektorium)
 * [Scala Russia](https://www.youtube.com/channel/UCR4iuvbk9DCuieR1ADIi0-Q)
+* [Manning Publications](https://www.youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw)
 
 ---
 
