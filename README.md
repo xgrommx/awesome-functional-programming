@@ -444,6 +444,7 @@
 * [Awesome Functional Python - A curated list of awesome things related to functional programming in Python](https://github.com/sfermigier/awesome-functional-python)
 * [Awesome Coq - A curated list of awesome Coq frameworks, libraries and software](https://github.com/uhub/awesome-coq)
 * [Awesome Elixir - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things](https://github.com/h4cc/awesome-elixir)
+* [Awesome Clojure - A curated list of awesome Clojure libraries and resources](https://github.com/razum2um/awesome-clojure)
 
 ___
 
