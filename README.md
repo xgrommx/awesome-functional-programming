@@ -445,6 +445,7 @@
 * [Awesome Coq - A curated list of awesome Coq frameworks, libraries and software](https://github.com/uhub/awesome-coq)
 * [Awesome Elixir - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things](https://github.com/h4cc/awesome-elixir)
 * [Awesome Clojure - A curated list of awesome Clojure libraries and resources](https://github.com/razum2um/awesome-clojure)
+* [Awesome OCaml - A curated list of references to awesome OCaml tools, frameworks, libraries and articles.](https://github.com/ocaml-community/awesome-ocaml)
 
 ___
 
