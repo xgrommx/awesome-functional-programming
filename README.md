@@ -498,6 +498,7 @@ ___
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
 * [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+* [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book/)
 
 ---
 
