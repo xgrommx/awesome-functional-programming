@@ -618,7 +618,7 @@ ___
 * [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [JSON to Elm](http://eeue56.github.io/json-to-elm/)
-* [https://functionalcs.github.io/curriculum/] (https://functionalcs.github.io/curriculum/)
+* [functionalcs.github.io](https://functionalcs.github.io/curriculum)
 
 ---
 
