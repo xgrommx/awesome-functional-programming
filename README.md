@@ -619,6 +619,7 @@ ___
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [JSON to Elm](http://eeue56.github.io/json-to-elm/)
 * [functionalcs.github.io](https://functionalcs.github.io/curriculum)
+* [Haskell MOOC](https://haskell.mooc.fi/)
 
 ---
 
