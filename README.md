@@ -620,6 +620,8 @@ ___
 * [JSON to Elm](http://eeue56.github.io/json-to-elm/)
 * [functionalcs.github.io](https://functionalcs.github.io/curriculum)
 * [Haskell MOOC](https://haskell.mooc.fi/)
+* [A Functional Introduction To Computer Science (Part I)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
+* [A Functional Introduction To Computer Science (Part II)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS2/)
 
 ---
 
