@@ -499,6 +499,8 @@ ___
 * [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 * [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book/)
+* [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
 ---
 
@@ -618,6 +620,10 @@ ___
 * [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [JSON to Elm](http://eeue56.github.io/json-to-elm/)
+* [functionalcs.github.io](https://functionalcs.github.io/curriculum)
+* [Haskell MOOC](https://haskell.mooc.fi/)
+* [A Functional Introduction To Computer Science (Part I)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
+* [A Functional Introduction To Computer Science (Part II)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS2/)
 
 ---
 
