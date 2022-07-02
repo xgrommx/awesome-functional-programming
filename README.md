@@ -1043,6 +1043,7 @@ ___
 
 ## Languages
 
+* [Lean](https://leanprover.github.io/) - Lean is a functional programming language that makes it easy to write correct and maintainable code.
 * [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
 * [Ela](http://elalang.net/) - A dynamic functional language
 * [Eta](http://eta-lang.org/) - A powerful language for building scalable systems on the JVM
