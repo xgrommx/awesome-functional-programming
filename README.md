@@ -498,6 +498,7 @@ ___
 * [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 * [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)
+* [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp)
 
 ---
 
