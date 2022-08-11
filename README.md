@@ -275,7 +275,7 @@
 
 * [Lenses In Pictures](http://adit.io/posts/2013-07-22-lenses-in-pictures.html)
 * [Lenses and Virtual DOM Support Open Closed](http://joneshf.github.io/programming/2015/12/19/Lenses-and-Virtual-DOM-Support-Open-Closed.html)
-* [JavaScript through the Lenses of Functional Programming](http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
+* [JavaScript through the Lenses of Functional Programming](https://web.archive.org/web/20160802064916/http://www.luisatencio.net/2015/09/javascript-through-lenses-of-functional.html)
 * [How functional programming lenses work](http://fluffynukeit.com/how-functional-programming-lenses-work)
 * [Basic Lensing](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/basic-lensing)
 * [Lenses with Immutable.js](https://medium.com/@drboolean/lenses-with-immutable-js-9bda85674780#.hwrcbhxyu)
@@ -444,6 +444,7 @@
 * [Awesome Functional Python - A curated list of awesome things related to functional programming in Python](https://github.com/sfermigier/awesome-functional-python)
 * [Awesome Coq - A curated list of awesome Coq frameworks, libraries and software](https://github.com/uhub/awesome-coq)
 * [Awesome Elixir - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things](https://github.com/h4cc/awesome-elixir)
+* [Awesome Clojure - A curated list of awesome Clojure libraries and resources](https://github.com/razum2um/awesome-clojure)
 
 ___
 
@@ -499,6 +500,9 @@ ___
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 * [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)
 * [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp)
+* [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book/)
+* [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+* [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 
 ---
 
@@ -618,6 +622,10 @@ ___
 * [λ List of resources related to Functional Programming in JS](https://github.com/codekult/adventures-of-lambda-in-JS)
 * [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [JSON to Elm](http://eeue56.github.io/json-to-elm/)
+* [functionalcs.github.io](https://functionalcs.github.io/curriculum)
+* [Haskell MOOC](https://haskell.mooc.fi/)
+* [A Functional Introduction To Computer Science (Part I)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
+* [A Functional Introduction To Computer Science (Part II)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS2/)
 
 ---
 
@@ -1038,6 +1046,7 @@ ___
 
 ## Languages
 
+* [Lean](https://leanprover.github.io/) - Lean is a functional programming language that makes it easy to write correct and maintainable code.
 * [Pyret](http://www.pyret.org/) - A programming language designed to serve as an outstanding choice for programming education while exploring the confluence of scripting and functional programming
 * [Ela](http://elalang.net/) - A dynamic functional language
 * [Eta](http://eta-lang.org/) - A powerful language for building scalable systems on the JVM
