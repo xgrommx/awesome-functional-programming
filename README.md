@@ -503,6 +503,7 @@ ___
 * [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book/)
 * [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [Jax in Action](https://www.manning.com/books/jax-in-action)
 
 ---
 
