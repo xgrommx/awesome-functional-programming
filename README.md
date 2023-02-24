@@ -505,6 +505,7 @@ ___
 * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
 * [Jax in Action](https://www.manning.com/books/jax-in-action)
 * [F# in Action](https://www.manning.com/books/f-sharp-in-action)
+* [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition)
 
 ---
 
