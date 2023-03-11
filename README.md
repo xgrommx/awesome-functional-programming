@@ -498,9 +498,14 @@ ___
 * [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming)
 * [Functional Programming in Kotlin](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+* [Functional Design and Architecture](https://www.manning.com/books/functional-design-and-architecture)
+* [Haskell Bookcamp](https://www.manning.com/books/haskell-bookcamp)
 * [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book/)
 * [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+* [Jax in Action](https://www.manning.com/books/jax-in-action)
+* [F# in Action](https://www.manning.com/books/f-sharp-in-action)
+* [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition)
 
 ---
 
@@ -747,7 +752,8 @@ ___
 * [Pure Functional Database Programming with Fixpoint Types—Rob Norris](https://www.youtube.com/watch?v=7xSfLPD6tiQ)
 * [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
 * ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
-* [The fuel for the Functional Programming engine](https://youtu.be/3G9wOODP7y4) - Michal Plachta
+* [Michal Plachta - The fuel for the Functional Programming engine](https://youtu.be/3G9wOODP7y4) 
+* [Alexander Granin - Do we really need OOD and FDD?](https://www.youtube.com/watch?v=KW9U6HMKEgk) 
 
 ---
 
