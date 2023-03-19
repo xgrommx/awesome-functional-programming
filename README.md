@@ -748,6 +748,7 @@ ___
 * [Functional JS - Lenses - JavaScript](https://www.livecoding.tv/evilsoft/videos/d5BDO-functional-js-lenses)
 * ["Point-Free or Die: Tacit Programming in Haskell and Beyond" by Amar Shah](https://www.youtube.com/watch?v=seVSlKazsNk)
 * [The fuel for the Functional Programming engine](https://youtu.be/3G9wOODP7y4) - Michal Plachta
+* [Functional Programming with TypeScript](https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo) 
 
 ---
 
@@ -761,6 +762,7 @@ ___
 * [Лекториум](https://www.youtube.com/user/OpenLektorium)
 * [Scala Russia](https://www.youtube.com/channel/UCR4iuvbk9DCuieR1ADIi0-Q)
 * [Manning Publications](https://www.youtube.com/channel/UCDia_lkNYKLJVLRLQl_-pFw)
+* [Web Village Voyage](https://www.youtube.com/@webvv)
 
 ---
 
