@@ -35,7 +35,7 @@
   - [OCaml](#ocaml)
   - [Racket](#racket)
 - [Languages](#languages)
-  
+
 ## Tutorials and Articles
 
 * [Thinking in Ramda - Blog series](http://randycoulman.com/blog/categories/thinking-in-ramda/)
@@ -490,8 +490,8 @@ ___
 * [Parallel Computing: Theory and Practice](http://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
 * [Haskell Tutorial and Cookbook](https://leanpub.com/haskell-cookbook/read)
 * [Розплутаний ClojureScript](https://lambdabooks.github.io/clojurescript-unraveled/)
-* [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell) 
-* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) 
+* [Get Programming with Haskell](https://www.manning.com/books/get-programming-with-haskell)
+* [Haskell in Depth](https://www.manning.com/books/haskell-in-depth)
 * [Grokking Simplicity: Taming complex software with functional thinking - Eric Normand](https://www.manning.com/books/grokking-simplicity)
 * [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
 * [Functional Programming in C#, Second Edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition)
@@ -1015,6 +1015,7 @@ ___
 ***
 * [**go-linq** - .NET LINQ-like query methods for Go](https://github.com/ahmetalpbalkan/go-linq)
 * [**The Oden Programming Language** - Oden is an experimental, statically typed, functional programming language, built for the Go ecosystem](https://oden-lang.org/)
+* [A modern Go utility library which provides helpers (map, find, contains, filter, ...)](https://github.com/thoas/go-funk)
 
 ### [Haskell](https://www.haskell.org)
 
